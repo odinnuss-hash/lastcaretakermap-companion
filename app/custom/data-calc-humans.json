@@ -1,0 +1,948 @@
+{
+ "attrNames_de": {
+  "Strength": "Stärke",
+  "Discipline": "Disziplin",
+  "Focus": "Fokus",
+  "Logic": "Logik",
+  "Creativity": "Kreativität",
+  "Communication": "Kommunikation",
+  "Patience": "Geduld",
+  "Weight": "Gewicht",
+  "Height": "Größe",
+  "Life_Expectancy": "Lebenserwartung",
+  "Wisdom": "Weisheit",
+  "Empathy": "Empathie",
+  "Adaptability": "Anpassungsfähigkeit",
+  "Leadership": "Führung",
+  "Intellect": "Intellekt"
+ },
+ "baseline": {
+  "Weight": 20,
+  "Height": 30,
+  "Life_Expectancy": 10
+ },
+ "categories_de": {
+  "Engineer": "Ingenieure",
+  "Artist": "Kunst & Kultur",
+  "Teacher": "Pädagogen",
+  "Cultivators": "Landwirtschaft",
+  "Supplier": "Logistik",
+  "Protector": "Militär",
+  "Scientist": "Wissenschaft",
+  "Healer": "Gesundheitswesen",
+  "Leader": "Führungskräfte",
+  "Explorer": "Entdecker"
+ },
+ "list": [
+  {
+   "id": "6956975a90fe83746dba529c",
+   "name_en": "Maintenance Engineer",
+   "name_de": "Wartungstechniker",
+   "category": "Engineer",
+   "category_de": "Ingenieure",
+   "tier": 1,
+   "req": {
+    "Logic": 3,
+    "Focus": 4,
+    "Discipline": 5,
+    "Strength": 50,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba529d",
+   "name_en": "Systems Engineer",
+   "name_de": "Systemtechniker",
+   "category": "Engineer",
+   "category_de": "Ingenieure",
+   "tier": 2,
+   "req": {
+    "Logic": 10,
+    "Focus": 10,
+    "Discipline": 10,
+    "Strength": 70,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba529e",
+   "name_en": "Energy Engineer",
+   "name_de": "Energietechniker",
+   "category": "Engineer",
+   "category_de": "Ingenieure",
+   "tier": 3,
+   "req": {
+    "Logic": 30,
+    "Focus": 30,
+    "Discipline": 30,
+    "Strength": 120,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba529f",
+   "name_en": "Quantum Engineer",
+   "name_de": "Quantentechniker",
+   "category": "Engineer",
+   "category_de": "Ingenieure",
+   "tier": 4,
+   "req": {
+    "Logic": 80,
+    "Focus": 80,
+    "Discipline": 60,
+    "Strength": 180,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a0",
+   "name_en": "Visual Technician",
+   "name_de": "Gestalter",
+   "category": "Artist",
+   "category_de": "Kunst & Kultur",
+   "tier": 1,
+   "req": {
+    "Creativity": 5,
+    "Communication": 4,
+    "Empathy": 3,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 60
+   },
+   "mandatory": [
+    "Creativity",
+    "Communication",
+    "Empathy",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a1",
+   "name_en": "Sculptor",
+   "name_de": "Bildhauer",
+   "category": "Artist",
+   "category_de": "Kunst & Kultur",
+   "tier": 2,
+   "req": {
+    "Creativity": 20,
+    "Communication": 10,
+    "Empathy": 15,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 90
+   },
+   "mandatory": [
+    "Creativity",
+    "Communication",
+    "Empathy",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a2",
+   "name_en": "Cultural Archivist",
+   "name_de": "Kulturarchivar",
+   "category": "Artist",
+   "category_de": "Kunst & Kultur",
+   "tier": 3,
+   "req": {
+    "Creativity": 45,
+    "Communication": 35,
+    "Empathy": 40,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 150
+   },
+   "mandatory": [
+    "Creativity",
+    "Communication",
+    "Empathy",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a3",
+   "name_en": "Existential Expressionist",
+   "name_de": "Existenzieller Expressionist",
+   "category": "Artist",
+   "category_de": "Kunst & Kultur",
+   "tier": 4,
+   "req": {
+    "Creativity": 120,
+    "Communication": 60,
+    "Empathy": 80,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 210
+   },
+   "mandatory": [
+    "Creativity",
+    "Communication",
+    "Empathy",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a4",
+   "name_en": "Manual Holder",
+   "name_de": "Schützer des Handbuchs",
+   "category": "Teacher",
+   "category_de": "Pädagogen",
+   "tier": 1,
+   "req": {
+    "Communication": 5,
+    "Wisdom": 10,
+    "Patience": 10,
+    "Height": 130,
+    "Weight": 60,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Communication",
+    "Wisdom",
+    "Patience",
+    "Height",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a5",
+   "name_en": "Teacher",
+   "name_de": "Lehrer",
+   "category": "Teacher",
+   "category_de": "Pädagogen",
+   "tier": 2,
+   "req": {
+    "Communication": 15,
+    "Wisdom": 10,
+    "Patience": 12,
+    "Height": 190,
+    "Weight": 80,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Communication",
+    "Wisdom",
+    "Patience",
+    "Height",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a6",
+   "name_en": "Professor",
+   "name_de": "Professor",
+   "category": "Teacher",
+   "category_de": "Pädagogen",
+   "tier": 3,
+   "req": {
+    "Communication": 20,
+    "Wisdom": 60,
+    "Patience": 30,
+    "Height": 210,
+    "Weight": 110,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Communication",
+    "Wisdom",
+    "Patience",
+    "Height",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a7",
+   "name_en": "Existential Chancellor",
+   "name_de": "Kanzler der Existenz",
+   "category": "Teacher",
+   "category_de": "Pädagogen",
+   "tier": 4,
+   "req": {
+    "Communication": 100,
+    "Wisdom": 120,
+    "Patience": 80,
+    "Height": 230,
+    "Weight": 140,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Communication",
+    "Wisdom",
+    "Patience",
+    "Height",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a8",
+   "name_en": "Nutrient Handler",
+   "name_de": "Nährstoffverwalter",
+   "category": "Cultivators",
+   "category_de": "Landwirtschaft",
+   "tier": 1,
+   "req": {
+    "Creativity": 4,
+    "Leadership": 3,
+    "Patience": 5,
+    "Height": 190,
+    "Weight": 20,
+    "Life_Expectancy": 60
+   },
+   "mandatory": [
+    "Creativity",
+    "Leadership",
+    "Patience",
+    "Height",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52a9",
+   "name_en": "Growth Specialist",
+   "name_de": "Wachstumsspezialist",
+   "category": "Cultivators",
+   "category_de": "Landwirtschaft",
+   "tier": 2,
+   "req": {
+    "Creativity": 20,
+    "Leadership": 10,
+    "Patience": 15,
+    "Height": 210,
+    "Weight": 20,
+    "Life_Expectancy": 70
+   },
+   "mandatory": [
+    "Creativity",
+    "Leadership",
+    "Patience",
+    "Height",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52aa",
+   "name_en": "Biosphere Director",
+   "name_de": "Direktor der Biosphäre",
+   "category": "Cultivators",
+   "category_de": "Landwirtschaft",
+   "tier": 3,
+   "req": {
+    "Creativity": 35,
+    "Leadership": 30,
+    "Patience": 40,
+    "Height": 220,
+    "Weight": 20,
+    "Life_Expectancy": 130
+   },
+   "mandatory": [
+    "Creativity",
+    "Leadership",
+    "Patience",
+    "Height",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52ab",
+   "name_en": "Sustenance Architect",
+   "name_de": "Nahrungsmittelarchitekt",
+   "category": "Cultivators",
+   "category_de": "Landwirtschaft",
+   "tier": 4,
+   "req": {
+    "Creativity": 50,
+    "Leadership": 50,
+    "Patience": 160,
+    "Height": 230,
+    "Weight": 20,
+    "Life_Expectancy": 190
+   },
+   "mandatory": [
+    "Creativity",
+    "Leadership",
+    "Patience",
+    "Height",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52ac",
+   "name_en": "Basic Supplier",
+   "name_de": "Elementarer Lieferant",
+   "category": "Supplier",
+   "category_de": "Logistik",
+   "tier": 1,
+   "req": {
+    "Logic": 2,
+    "Focus": 4,
+    "Discipline": 3,
+    "Height": 130,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52ad",
+   "name_en": "Distributor",
+   "name_de": "Verteiler",
+   "category": "Supplier",
+   "category_de": "Logistik",
+   "tier": 2,
+   "req": {
+    "Logic": 10,
+    "Focus": 15,
+    "Discipline": 12,
+    "Height": 190,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52ae",
+   "name_en": "Resource Director",
+   "name_de": "Direktor für Ressourcen",
+   "category": "Supplier",
+   "category_de": "Logistik",
+   "tier": 3,
+   "req": {
+    "Logic": 30,
+    "Focus": 40,
+    "Discipline": 35,
+    "Height": 220,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52af",
+   "name_en": "Logistics High Command",
+   "name_de": "Führungsstab der Logistik",
+   "category": "Supplier",
+   "category_de": "Logistik",
+   "tier": 4,
+   "req": {
+    "Logic": 120,
+    "Focus": 100,
+    "Discipline": 80,
+    "Height": 250,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Focus",
+    "Discipline",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b0",
+   "name_en": "Door Jammer",
+   "name_de": "Türsteher",
+   "category": "Protector",
+   "category_de": "Militär",
+   "tier": 1,
+   "req": {
+    "Focus": 2,
+    "Discipline": 2,
+    "Leadership": 5,
+    "Strength": 60,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Focus",
+    "Discipline",
+    "Leadership",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b1",
+   "name_en": "Guard",
+   "name_de": "Wache",
+   "category": "Protector",
+   "category_de": "Militär",
+   "tier": 2,
+   "req": {
+    "Focus": 12,
+    "Discipline": 15,
+    "Leadership": 10,
+    "Strength": 120,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Focus",
+    "Discipline",
+    "Leadership",
+    "Strength"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b2",
+   "name_en": "Station Protector",
+   "name_de": "Stationswächter",
+   "category": "Protector",
+   "category_de": "Militär",
+   "tier": 3,
+   "req": {
+    "Focus": 35,
+    "Discipline": 40,
+    "Leadership": 30,
+    "Strength": 130,
+    "Height": 210,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Focus",
+    "Discipline",
+    "Leadership",
+    "Strength",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b3",
+   "name_en": "Guardian of Humanity",
+   "name_de": "Hüter der Menschheit",
+   "category": "Protector",
+   "category_de": "Militär",
+   "tier": 4,
+   "req": {
+    "Focus": 120,
+    "Discipline": 100,
+    "Leadership": 80,
+    "Strength": 200,
+    "Height": 230,
+    "Weight": 20,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Focus",
+    "Discipline",
+    "Leadership",
+    "Strength",
+    "Height"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b4",
+   "name_en": "Lab Technician",
+   "name_de": "Labortechniker",
+   "category": "Scientist",
+   "category_de": "Wissenschaft",
+   "tier": 1,
+   "req": {
+    "Logic": 5,
+    "Wisdom": 3,
+    "Patience": 5,
+    "Height": 30,
+    "Weight": 20,
+    "Intellect": 80,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Wisdom",
+    "Patience",
+    "Intellect"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b5",
+   "name_en": "Field Research Scientist",
+   "name_de": "Feldforscher",
+   "category": "Scientist",
+   "category_de": "Wissenschaft",
+   "tier": 2,
+   "req": {
+    "Logic": 9,
+    "Wisdom": 9,
+    "Patience": 10,
+    "Height": 30,
+    "Weight": 20,
+    "Intellect": 110,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Wisdom",
+    "Patience",
+    "Intellect"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b6",
+   "name_en": "Theoretical Scientist",
+   "name_de": "Theoretischer Physiker",
+   "category": "Scientist",
+   "category_de": "Wissenschaft",
+   "tier": 3,
+   "req": {
+    "Logic": 25,
+    "Wisdom": 40,
+    "Patience": 30,
+    "Height": 30,
+    "Weight": 20,
+    "Intellect": 170,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Wisdom",
+    "Patience",
+    "Intellect"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b7",
+   "name_en": "Quantum Physicist",
+   "name_de": "Quantenphysiker",
+   "category": "Scientist",
+   "category_de": "Wissenschaft",
+   "tier": 4,
+   "req": {
+    "Logic": 120,
+    "Wisdom": 100,
+    "Patience": 80,
+    "Height": 30,
+    "Weight": 20,
+    "Intellect": 220,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Logic",
+    "Wisdom",
+    "Patience",
+    "Intellect"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b8",
+   "name_en": "Health Assistant",
+   "name_de": "Gesundheitsassistent",
+   "category": "Healer",
+   "category_de": "Gesundheitswesen",
+   "tier": 1,
+   "req": {
+    "Empathy": 5,
+    "Wisdom": 3,
+    "Patience": 4,
+    "Height": 30,
+    "Weight": 70,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Empathy",
+    "Wisdom",
+    "Patience",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52b9",
+   "name_en": "Doctor",
+   "name_de": "Allgemeinmediziner",
+   "category": "Healer",
+   "category_de": "Gesundheitswesen",
+   "tier": 2,
+   "req": {
+    "Empathy": 15,
+    "Wisdom": 10,
+    "Patience": 12,
+    "Height": 30,
+    "Weight": 100,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Empathy",
+    "Wisdom",
+    "Patience",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52ba",
+   "name_en": "Neuro Specialist",
+   "name_de": "Neurologe",
+   "category": "Healer",
+   "category_de": "Gesundheitswesen",
+   "tier": 3,
+   "req": {
+    "Empathy": 40,
+    "Wisdom": 30,
+    "Patience": 35,
+    "Height": 30,
+    "Weight": 140,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Empathy",
+    "Wisdom",
+    "Patience",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52bb",
+   "name_en": "Neural Architect",
+   "name_de": "Neuroarchitekt",
+   "category": "Healer",
+   "category_de": "Gesundheitswesen",
+   "tier": 4,
+   "req": {
+    "Empathy": 100,
+    "Wisdom": 120,
+    "Patience": 80,
+    "Height": 30,
+    "Weight": 220,
+    "Life_Expectancy": 10
+   },
+   "mandatory": [
+    "Empathy",
+    "Wisdom",
+    "Patience",
+    "Weight"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52bc",
+   "name_en": "Room Supervisor",
+   "name_de": "Raumaufseher",
+   "category": "Leader",
+   "category_de": "Führungskräfte",
+   "tier": 1,
+   "req": {
+    "Communication": 4,
+    "Empathy": 3,
+    "Leadership": 5,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 50
+   },
+   "mandatory": [
+    "Communication",
+    "Empathy",
+    "Leadership",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52bd",
+   "name_en": "Station Quartermaster",
+   "name_de": "Quartiermeister der Station",
+   "category": "Leader",
+   "category_de": "Führungskräfte",
+   "tier": 2,
+   "req": {
+    "Communication": 10,
+    "Empathy": 10,
+    "Leadership": 15,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 80
+   },
+   "mandatory": [
+    "Communication",
+    "Empathy",
+    "Leadership",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52be",
+   "name_en": "Settlement Governor",
+   "name_de": "Siedlungsgouverneur",
+   "category": "Leader",
+   "category_de": "Führungskräfte",
+   "tier": 3,
+   "req": {
+    "Communication": 35,
+    "Empathy": 30,
+    "Leadership": 40,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 110
+   },
+   "mandatory": [
+    "Communication",
+    "Empathy",
+    "Leadership",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52bf",
+   "name_en": "Colonel of Humanity",
+   "name_de": "Oberst der Menschheit",
+   "category": "Leader",
+   "category_de": "Führungskräfte",
+   "tier": 4,
+   "req": {
+    "Communication": 100,
+    "Empathy": 80,
+    "Leadership": 120,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 230
+   },
+   "mandatory": [
+    "Communication",
+    "Empathy",
+    "Leadership",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52c0",
+   "name_en": "Station Roamer",
+   "name_de": "Stationserkunder",
+   "category": "Explorer",
+   "category_de": "Entdecker",
+   "tier": 1,
+   "req": {
+    "Focus": 3,
+    "Creativity": 1,
+    "Adaptability": 2,
+    "Strength": 60,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 30
+   },
+   "mandatory": [
+    "Focus",
+    "Creativity",
+    "Adaptability",
+    "Strength",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52c1",
+   "name_en": "Star Analyzer",
+   "name_de": "Sternenanalytiker",
+   "category": "Explorer",
+   "category_de": "Entdecker",
+   "tier": 2,
+   "req": {
+    "Focus": 10,
+    "Creativity": 20,
+    "Adaptability": 15,
+    "Strength": 100,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 70
+   },
+   "mandatory": [
+    "Focus",
+    "Creativity",
+    "Adaptability",
+    "Strength",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52c2",
+   "name_en": "Mission Seeker",
+   "name_de": "Missionsfanatiker",
+   "category": "Explorer",
+   "category_de": "Entdecker",
+   "tier": 3,
+   "req": {
+    "Focus": 30,
+    "Creativity": 35,
+    "Adaptability": 40,
+    "Strength": 100,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 100
+   },
+   "mandatory": [
+    "Focus",
+    "Creativity",
+    "Adaptability",
+    "Strength",
+    "Life_Expectancy"
+   ]
+  },
+  {
+   "id": "6956975a90fe83746dba52c3",
+   "name_en": "Frontier Explorer",
+   "name_de": "Pionier",
+   "category": "Explorer",
+   "category_de": "Entdecker",
+   "tier": 4,
+   "req": {
+    "Focus": 120,
+    "Creativity": 80,
+    "Adaptability": 100,
+    "Strength": 120,
+    "Height": 30,
+    "Weight": 20,
+    "Life_Expectancy": 150
+   },
+   "mandatory": [
+    "Focus",
+    "Creativity",
+    "Adaptability",
+    "Strength",
+    "Life_Expectancy"
+   ]
+  }
+ ]
+}

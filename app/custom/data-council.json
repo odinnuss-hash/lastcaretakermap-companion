@@ -1,0 +1,95 @@
+{
+  "intro_de": "Der \"Rat der Menschheit\" besteht aus 10 Ausschüssen zu je 4 Sitzen. Jeder Sitz braucht einen Menschen mit genau dem passenden Beruf aus der Zuchtkammer (Wachstumsrechner) - die Berufsnamen unten entsprechen exakt den 40 züchtbaren Berufen dort.",
+  "list": [
+    {
+      "id": "deckarbeiten",
+      "name_de": "Deckarbeiten",
+      "tier": 1,
+      "minAge": 18,
+      "icon": "wrench",
+      "description_de": "Sorgt dafür, dass die tägliche physische Realität der Station intakt bleibt: Türen, die sich abdichten lassen, Werkzeuge, die es gibt, Lebensmittel, die sich bewegen, und Gänge, die passierbar bleiben. Dieser Ausschuss entscheidet, was zuerst repariert wird, was ausgeschlachtet wird, welche Decks Vorrang haben, wenn der Vorrat knapp ist, und wann ein „kleiner“ Fehler zu einem Sicherheitsvorfall wird. Es ist der Ausschuss, der im Stillen verhindert, dass sich die Station in ein Museum der zerbrochenen Scharniere verwandelt.",
+      "members": ["Wartungstechniker", "Elementarer Lieferant", "Nährstoffverwalter", "Türsteher"]
+    },
+    {
+      "id": "habitat-pflege",
+      "name_de": "Habitat-Pflege",
+      "tier": 1,
+      "minAge": 18,
+      "icon": "habitat",
+      "description_de": "Schützt die menschliche Ebene: routinemäßige Gesundheit, lokale Ordnung, Ausbildung und die ruhige Aufrechterhaltung der Gemeinschaft in kleinen versiegelten Räumen. Er entscheidet über Lebensstandards, Quarantäneauslöser, Ausbildungspläne und darüber, was als „akzeptable“ Belastung gilt, bevor er eingreift. Es ist das Komitee, das die Menschen davor bewahrt, nur ein weiterer Systemausfall zu werden.",
+      "members": ["Raumaufseher", "Gesundheitsassistent", "Lehrer", "Labortechniker"]
+    },
+    {
+      "id": "transit-vertrieb",
+      "name_de": "Transit und Vertrieb",
+      "tier": 1,
+      "minAge": 18,
+      "icon": "transit",
+      "description_de": "Sie besitzt die Arterien des Orbits: Zeitpläne für den Aufstieg, Frachtwege, Andockvorgänge und wer was wohin bekommt, ohne dass ein Chaos entsteht. Sie entscheidet über die Prioritäten der Beförderung (medizinische Versorgung vs. Lebensmittel vs. Ersatzteile), über Regeln für die Überlastung, über die Anforderungen an die Eskorte und darüber, wie stark die Verteilung bei Unruhen eingeschränkt wird. Überspitzt ausgedrückt: Hier wird „Fairness gegen Effizienz“ zu einem Zeitplan und einem verschlossenen Container.",
+      "members": ["Systemtechniker", "Verteiler", "Wachstumsspezialist", "Wache"]
+    },
+    {
+      "id": "strom-sicherheit",
+      "name_de": "Strom und Sicherheit",
+      "tier": 1,
+      "minAge": 18,
+      "icon": "power",
+      "description_de": "Sie entscheiden über harte Kompromisse: Megawatt, Abriegelungen und die Grenze zwischen „sicher“ und „noch funktionsfähig“. Er entscheidet über Lastabwürfe, Notstromversorgung, Sicherheitsvorkehrungen, Ausgangssperren und Reaktionsschwellen – vor allem, wenn Doktrin und Panik aufeinanderprallen. Wenn die Lichter ausgehen, entscheidet dieser Ausschuss, was am Leben bleibt.",
+      "members": ["Energietechniker", "Direktor für Ressourcen", "Quartiermeister der Station", "Stationswächter"]
+    },
+    {
+      "id": "kognitive-resilienz",
+      "name_de": "Kognitive Resilienz",
+      "tier": 2,
+      "minAge": 18,
+      "icon": "cognition",
+      "description_de": "Konzentriert sich auf die zerbrechlichste Ressource der Station: stabile Köpfe über lange Zeiträume hinweg. Sie entscheidet über Überwachungsprotokolle, Grenzen der kognitiven Arbeitsbelastung, Interventionswege und darüber, welche Forschung erlaubt ist, wenn die Ergebnisse die Moral destabilisieren (oder unbequeme Wahrheiten ans Licht bringen) könnten. Sie verwaltet auch den schmalen Grat zwischen klinischer Versorgung und „doktrinär genehmigter Bewältigung“.",
+      "members": ["Theoretischer Physiker", "Neurologe", "Professor", "Sternenanalytiker"]
+    },
+    {
+      "id": "kultur-erinnerung",
+      "name_de": "Kultur und Erinnerung",
+      "tier": 2,
+      "minAge": 18,
+      "icon": "culture",
+      "description_de": "Bewahrt die Identität unter Druck: Kunst, Archive, Rituale, Handbücher und die richtige Art von Geschichten, damit der Bahnhof nicht wie ein Sarg wirkt. Es entscheidet, was bewahrt wird, was ausgestellt wird, was gelehrt wird und welche Erinnerungen zu gemeinschaftlichen Ankern und welche zu privatem Kummer werden. Im Sinne von MOSES ist es das Komitee, das dafür sorgt, dass das „Warum“ nicht zusammenbricht.",
+      "members": ["Gestalter", "Bildhauer", "Kulturarchivar", "Schützer des Handbuchs"]
+    },
+    {
+      "id": "verwaltung-logistik",
+      "name_de": "Verwaltung und Logistik",
+      "tier": 2,
+      "minAge": 20,
+      "icon": "administration",
+      "description_de": "Verwandelt das Überleben in Politik: Ressourcenrecht, langfristige Planung, Biosphärenziele und Legitimität der Durchsetzung. Er entscheidet über ressortübergreifende Zuweisungen, Wachstums-/Expansionsgeschwindigkeiten, Risikoakzeptanz und darüber, wie viel Transparenz die Bevölkerung verträgt. Hier werden die Räte real, denn bei jeder Entscheidung gibt es Gewinner und Verlierer.",
+      "members": ["Siedlungsgouverneur", "Führungsstab der Logistik", "Direktor der Biosphäre", "Hüter der Menschheit"]
+    },
+    {
+      "id": "tiefe-systeme",
+      "name_de": "Tiefe Systeme",
+      "tier": 3,
+      "minAge": 20,
+      "icon": "deepsystems",
+      "description_de": "Besitzt das gefährliche Rückgrat: Quanteninfrastruktur, neuronale Eingriffe, Systeme für beschleunigtes Wachstum und geschlossene Kreisläufe am Rande des Scheiterns. Sie entscheidet, welche Experimente durchgeführt werden, was versiegelt bleibt, was dokumentiert wird und was den Raum nie verlässt. Wenn hier etwas schief geht, geht es nicht lokal schief.",
+      "members": ["Quantentechniker", "Quantenphysiker", "Neuroarchitekt", "Nahrungsmittelarchitekt"]
+    },
+    {
+      "id": "bedeutung-grenze",
+      "name_de": "Bedeutung & Grenze",
+      "tier": 3,
+      "minAge": 24,
+      "icon": "meaning",
+      "description_de": "Behandelt das Äußere und das Existenzielle: Erkundungsmissionen, Kontakthaltung, symbolische Führung und die Erzählungen, die Opfer rechtfertigen. Hier entscheidet sich, was die Kolonie sein behauptet, was sie riskiert, um zu werden, wie weit sie bereit ist zu gehen, wenn „Überleben“ anfängt, wie eine Ideologie zu klingen. Hier wird Hoffnung erzeugt – und manchmal auch als Waffe eingesetzt.",
+      "members": ["Existenzieller Expressionist", "Pionier", "Missionsfanatiker", "Oberst der Menschheit"]
+    },
+    {
+      "id": "feld-kontinuitaet",
+      "name_de": "Feld Kontinuität",
+      "tier": 3,
+      "minAge": 24,
+      "icon": "field",
+      "description_de": "Verantwortlich für Operationen jenseits der komfortablen Umgebung: Erkundung, Feldforschung, medizinische Hilfe und Kontinuität, wenn normale Routinen unterbrochen werden. Er entscheidet über die Genehmigung von Expeditionen, die Regeln für die Triage vor Ort, die Prioritäten für Bergung und Rettung sowie die Protokolle für die Rückkehr von Menschen (und Schadstoffen) in die Station. Es ist der Ausschuss, der die Station mit allem verbindet, was außerhalb der Mauern noch existiert.",
+      "members": ["Feldforscher", "Kanzler der Existenz", "Stationserkunder", "Allgemeinmediziner"]
+    }
+  ]
+}

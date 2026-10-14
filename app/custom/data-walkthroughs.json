@@ -1,0 +1,1163 @@
+{
+ "from-darkness-light": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Getting_Started",
+  "sections": [
+   {
+    "heading": "Aus der Dunkelheit, Licht",
+    "paragraphs": [
+     "Geh zu Beginn des Spiels zur Tür deines Zimmers und öffne sie (klicke und ziehe mit M1). In diesem Bereich findest du eine Energiequelle, mit der du die Elektrizität aktivieren kannst. Dafür benötigst du jedoch Electric Cables, um die Batterie an die Steckdose anzuschließen.",
+     "Geh zu der Tür genau gegenüber der Treppe (links von dem Zimmer, aus dem du gekommen bist -- darüber leuchtet ein helles rotes Licht). Darin findest du Electric Cables auf dem Bett neben dem kaputten Bot.",
+     "Geh nun zur Steckdose und drücke E, um ein Energiekabel anzuschließen. Führe das Kabel anschließend zur Batterie und drücke E, um beide zu verbinden. Sobald der Strom fließt, geh zum Schalter links von der Steckdose und leg ihn um, um die Stromversorgung wiederherzustellen.",
+     "Sobald die Stromversorgung der Steckdose in diesem Bereich wiederhergestellt ist, geh die Treppe hinunter und öffne jetzt die Tür rechts. Darin kannst du ein Memory-Objekt aufheben."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/a/a5/The-last-caretaker-cables-room.jpg/363px-The-last-caretaker-cables-room.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/09/The-last-caretaker-from-darkness-cables.jpg/363px-The-last-caretaker-from-darkness-cables.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a2/The-last-caretaker-from-darkness-electricity.jpg/363px-The-last-caretaker-from-darkness-electricity.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a1/The-last-caretaker-from-darkness-power-switch.jpg/363px-The-last-caretaker-from-darkness-power-switch.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b6/The-last-caretaker-starting-memory-1.jpg/363px-The-last-caretaker-starting-memory-1.jpg"
+    ]
+   }
+  ]
+ },
+ "where-waters-wait": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Getting_Started",
+  "sections": [
+   {
+    "heading": "Wo die Wasser warten",
+    "paragraphs": [
+     "Nachdem du hier die Stromversorgung wiederhergestellt hast, öffne die Tür in der Wand neben der Batterie und geh weiter durch den Korridor. In dem Raum direkt vor dir siehst du eine Heal Station und eine Save Station. Rechts von dir siehst du eine Tür, die von Kisten blockiert wird.",
+     "Geh zuerst in den Save-Raum und verbinde das Kabel der Backup Machine mit dir selbst (drücke E, um das Kabel zu greifen, und halte dann E gedrückt, um es an dir anzuschließen) -- so kannst du deinen Fortschritt speichern. Mach anschließend dasselbe mit der Heal Station, um deine Health wiederherzustellen.",
+     "HINWEIS: Achte außerdem darauf, alle eingesammelten Verbrauchsbatterien zu nutzen, um deinen Energielevel (über deiner Health angezeigt) hochzuhalten. Diesen benötigst du für jede andere Aktion und um deine Health hoch zu halten.",
+     "Nachdem du gespeichert und geheilt hast, geh zurück zu der von Kisten blockierten Tür.",
+     "Auf der Couch rechts von der blockierten Tür, die zum Docking Hangar führt, kannst du ein weiteres Memory-Objekt einsammeln -- den Teddy Bear.",
+     "Geh nun zur blockierten Tür und ziehe die Kisten beiseite (M1 halten). Sobald die Tür frei ist, kannst du weiter in einen Bereich mit einem Aufzug gehen.",
+     "Du kannst den Aufzug benutzen, um ins nächste Stockwerk zu gelangen, ODER die Leiter links vom Aufzug nehmen und ganz nach oben klettern.",
+     "Wenn du statt des Aufzugs die Leitern benutzt, um das Stockwerk des Docking Hangars zu erreichen, kannst du auf einer der Plattformen ein Memory einsammeln.",
+     "Oben angekommen, geh zur Tür, die von der korrupten Pflanze bedeckt ist. Drücke 5, um dein Repair Tool herauszuholen, und dann C für einen Nahkampfangriff (auch gegen die Gegner, die daraus hervorkommen). Drücke weiter C, um die Pflanze zu zerstören, damit du durch die Tür gehen kannst.",
+     "Geh durch den Korridor hinter dieser Tür und schiebe den heruntergefallenen Bot beiseite, um durch die nächste Tür zu gelangen. Danach erreichst du den Docking Hangar."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/6/66/The-last-caretaker-starting-memory-2.jpg/363px-The-last-caretaker-starting-memory-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f0/The-last-caretaker-where-waters-wait-crates.jpg/730px-The-last-caretaker-where-waters-wait-crates.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6d/The-last-caretaker-where-waters-wait-elevator.jpg/730px-The-last-caretaker-where-waters-wait-elevator.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5b/The-last-caretaker-starting-memory-3.jpg/363px-The-last-caretaker-starting-memory-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a2/The-last-caretaker-where-waters-wait-corrupted-plant.jpg/730px-The-last-caretaker-where-waters-wait-corrupted-plant.jpg"
+    ]
+   }
+  ]
+ },
+ "light-the-way-home": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Getting_Started",
+  "sections": [
+   {
+    "heading": "Erleuchte den Weg nach Hause",
+    "paragraphs": [
+     "Bevor wir irgendetwas anderes tun, müssen wir den Docks Outlet finden, um die Stromversorgung des Docking Hangars wiederherzustellen. Geh die Treppe hinunter, über die wir den Hangar betreten haben, und weiter nach rechts (du musst über die Lücke im Boden springen -- halte Shift zum Sprinten und dann Space zum Springen).",
+     "Nachdem du über die Lücke gesprungen bist, wende dich nach links und geh durch die Türen. Dahinter gehst du die Treppe hoch, und du siehst links den Raum mit der Steckdose. Ohne Strom kommen wir nicht durch diese Tür, also schau dir den Lüftungsschacht in der Wand rechts von der Tür an. Entferne die Abdeckung (M1 halten und ziehen -- oder mit C aufbrechen) und krieche hindurch.",
+     "Wenn du aus dem Lüftungsschacht fällst, siehst du die Steckdose rechts von dir am Ende der Plattform. Geradeaus von der Stelle, an der du heruntergefallen bist, siehst du zwei Batterien. Du musst die Batterien mit Electric Cables an die Steckdose anschließen. Verbinde ein Kabel mit der Batterie und dann mit dem Extender auf dem Boden zwischen Batterie und Steckdose. Verbinde den Extender anschließend mit der Steckdose (drücke F an den Kabeln, um sicherzustellen, dass die Energie auf Ausgabe gestellt ist).",
+     "Geh dann zum Schalter links von der Steckdose. Er ist beschädigt, also müssen wir das Repair Tool (5) daran einsetzen (dafür brauchst du die richtigen Materialien -- falls du sie noch nicht gesammelt hast, schau dich auf diesem Stockwerk um oder geh zurück zum Docking Hangar, wo ebenfalls welche verstreut liegen). Sobald er repariert ist, schalte ihn ein, um die Stromversorgung wiederherzustellen.",
+     "HINWEIS: Wenn du weiter Strom erzeugen möchtest, ohne dass deine Batterien leer werden, geh die Treppe links von der Batterie hoch aufs Dach. Dort kannst du die Solar Panels und Wind Turbines reparieren und sie mit Electric Cables an deine Batterien anschließen (das ist nicht notwendig, aber sinnvoll, wenn du hier länger bleiben willst, um aufzuleveln und dein Boot vor der Abfahrt vorzubereiten).",
+     "Auf den Kisten links von der Leiter, genau gegenüber der Tür zum Dach (die Treppe hoch links von den Dockbatterien), findest du ein weiteres Memory-Item, das du einsammeln kannst.",
+     "ERFOLG: Geh auf dem Dach des Docking Hangars nach rechts von der Tür aus, durch die du herausgekommen bist (die Treppe hoch links von den Dockbatterien). Hinter den Solar Panels und Wind Turbines findest du eine Leiter -- unten an dieser Leiter findest du einen Basketballplatz mit drei Basketbällen und einem Korb. Wenn du fünf Körbe in Folge triffst (M1 auf dem Basketball halten und M2 zum Werfen drücken), erhältst du den Erfolg:",
+     "Sink 5 shots in a row on the empty court - erzielt, indem du auf dem Basketballplatz am Docking Hangar fünf Körbe in Folge triffst (unten an der Leiter über das Dach -- M1 auf dem Basketball halten und M2 zum Werfen)",
+     "(HINWEIS: Der Basketball zählt ebenfalls als Memory-Item, heb ihn also auf, um Log Data freizuschalten.)"
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/7/74/The-last-caretaker-docking-hangar-gap.jpg/730px-The-last-caretaker-docking-hangar-gap.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/9b/The-last-caretaker-docking-hangar-vent.jpg/730px-The-last-caretaker-docking-hangar-vent.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/59/The-last-caretaker-docking-hangar-power.jpg/363px-The-last-caretaker-docking-hangar-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5c/The-last-caretaker-docking-hangar-switch.jpg/363px-The-last-caretaker-docking-hangar-switch.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/68/The-last-caretaker-docking-hangar-solar-and-wind.jpg/363px-The-last-caretaker-docking-hangar-solar-and-wind.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a0/The-last-caretaker-starting-memory-4.jpg/363px-The-last-caretaker-starting-memory-4.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/91/The-last-caretaker-docking-hangar-basketball.jpg/363px-The-last-caretaker-docking-hangar-basketball.jpg"
+    ]
+   }
+  ]
+ },
+ "vessel-of-tomorrow": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Getting_Started",
+  "sections": [
+   {
+    "heading": "Gefährt von morgen",
+    "paragraphs": [
+     "Sobald die Stromversorgung im Docking Hangar wiederhergestellt ist, kannst du dich auf die Reparatur deines Boots konzentrieren -- es wird deine mobile Basis sein, während du die Karte erkundest und Story-Ziele abschließt.",
+     "Betritt zunächst das Boot und geh die Treppe hinunter zu den Motoren. Du musst den Diesel Engine des Boots reparieren -- das ist die brennende Konsole auf der linken Seite. Benutze dein Repair Tool und habe dabei folgende Materialien bei dir: Plastic x3, Iron x6.",
+     "Nach Abschluss der Reparatur kannst du die Diesel Engine Cylinders in die leeren Steckplätze einsetzen. Es liegt einer direkt vor dem Motor, oder du findest einen bei den Kisten auf dem Boot (du kannst außerdem aufleveln, um ein Crafting-Rezept freizuschalten, mit dem du selbst weitere herstellen kannst -- je mehr Zylinder du hast, desto schneller und stärker wird dein Boot).",
+     "HINWEIS: Das gilt auch für die elektrischen Zylinder gegenüber dem Diesel Engine. Du kannst weitere elektrische Zylinder anschließen, um die Energieeffizienz zu erhöhen.",
+     "Sobald das erledigt ist, musst du das Boot mit Energie und Treibstoff versorgen, bevor du ablegen kannst. Dazu kannst du Kabel von einer Diesel- und einer Stromquelle an beliebige Kabelanschlüsse am Boot anschließen.",
+     "Auf dem Dock hinter dem Boot findest du eine Batterie, die du per Kabel mit dem Boot verbinden kannst -- so lädst du die Energie auf.",
+     "Geh anschließend zum Bug des Boots -- auf dem Dock daneben findest du einen Diesel-Generator, den du ebenfalls mit einem Fuel Cable an das Boot anschließen kannst.",
+     "Sobald diese Kabel angeschlossen sind, warte, bis das Boot genug Energie und Treibstoff gesammelt hat -- oben links auf dem Bildschirm wird angezeigt, wenn du das Questziel erreicht hast (du kannst auch länger warten, um noch mehr zu speichern).",
+     "Sobald du genug Treibstoff und Energie hast, kannst du die Hangartore öffnen und aufs Meer hinausfahren. Um die Hangartore zu öffnen, geh die Treppe vom Dock hoch -- dort findest du einen Schalter.",
+     "Bevor du die Treppe ganz bis zum Schalter hochgehst, siehst du einen offenen Lüftungsschacht in der Wand -- geh hinein, dort kannst du Materialien und ein Memory-Item einsammeln.",
+     "Mit geöffneten Hangartoren kannst du nun im Boot die Treppe zum Kontrollraum hochgehen. Interagiere mit dem Steuerrad und starte das Boot. Denk daran, mit der Leertaste den Anker zu lichten und anschließend mit WASD zu steuern -- verlasse den Hangar, um deine Reise zu beginnen!",
+     "HINWEIS: Du musst nicht sofort losfahren, nachdem du die Aufgaben zum Starten des Boots für die Quest erledigt hast -- tatsächlich ist es besser, dir an diesem Startdock Zeit zu lassen, um ein wenig aufzuleveln und mehr Materialien zu sammeln, bevor du losfährst. Benutze dein Dismantle Tool und Recycler, um so viele Materialien wie möglich zu sammeln, und erreiche mindestens Level 3, bevor du weitermachst. So schaltest du außerdem weitere Crafting-/Bauobjekte frei."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/3/39/The-last-caretaker-docking-hangar-deisel-engine.jpg/363px-The-last-caretaker-docking-hangar-deisel-engine.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/e0/The-last-caretaker-hangar-deisel-cylinders.jpg/363px-The-last-caretaker-hangar-deisel-cylinders.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6e/The-last-caretaker-docking-hangar-boat-power.jpg/363px-The-last-caretaker-docking-hangar-boat-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/c4/The-last-caretaker-docking-hangar-deisel.jpg/363px-The-last-caretaker-docking-hangar-deisel.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/3b/The-last-caretaker-docking-hangar-doors.jpg/730px-The-last-caretaker-docking-hangar-doors.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/08/The-last-caretaker-starting-memory-5-location.jpg/363px-The-last-caretaker-starting-memory-5-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/8c/The-last-caretaker-starting-memory-5.jpg/363px-The-last-caretaker-starting-memory-5.jpg"
+    ]
+   }
+  ]
+ },
+ "voyage-into-the-unknown": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/First_Voyage",
+  "sections": [
+   {
+    "heading": "Reise ins Ungewisse",
+    "paragraphs": [
+     "Steuere nach Osten in Richtung Navigation Beacon 49 (er wird auf deinem Bildschirm markiert). Er ist etwa 2 km vom Startpunkt entfernt."
+    ],
+    "images": []
+   }
+  ]
+ },
+ "first-light": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/First_Voyage",
+  "sections": [
+   {
+    "heading": "Erstes Licht",
+    "paragraphs": [
+     "Während du in Richtung Navigation Beacon 49 segelst, kannst du das Steuerrad verlassen, indem du E drückst (falls das Schiff währenddessen nicht weiterfahren soll, drücke Space, um zu ankern). Du musst selbst Strom erzeugen, um dein Boot mit Energie zu versorgen. Dafür kannst du ein Solar Panel bauen (falls du es noch nicht freigeschaltet hast, geh zur Skills-Seite und schalte es für 1 Skill Point frei -- verfügbar ab Level 2).",
+     "Öffne anschließend dein Build-Menü und finde das Lumilite Panel unter der Modulliste. Klicke es an und drücke E, um es an einer beliebigen Stelle auf deinem Boot zu platzieren (wir empfehlen ganz oben, wo die Sonne hinkommt).",
+     "Sobald es platziert ist, musst du die notwendigen Materialien sammeln, um es herzustellen -- du benötigst Folgendes:",
+     "- Solar Cell x1",
+     "- Connector Ports x1",
+     "- Alloy Frame x1",
+     "Geh zu deinem Fabricator im unteren Teil deines Boots -- dort kannst du all diese Parts mit den Materialien herstellen, die du durchs Recyceln gesammelt hast.",
+     "Achte darauf, die Parts von der rechten Seite des Fabricators einzusammeln. Sobald du sie aufhebst, beginnt automatisch die Herstellung der platzierten Bauobjekte. Nachdem das Panel hergestellt ist, musst du es nur noch mit einem Electric Cable an die Energiequelle anschließen, für die es Strom erzeugen soll. Du kannst ein Kabel vom Panel hinunter zu einer Steckdose am Heck des Boots führen (wir haben einen Electric Cable Extender benutzt, damit mehrere Stromerzeuger gleichzeitig angeschlossen werden können).",
+     "Während du weiter in Richtung Beacon 49 segelst, achte auf eine Reihe explosiver Minen im Wasser -- fährst du hinein, können sie dein Boot beschädigen. Steuere stattdessen weiter nach links (du siehst eine kleine Struktur aus dem Wasser ragen) und umfahre sie.",
+     "Wenn du bei Navigation Beacon 49 ankommst, fahr dein Boot ans Dock heran und drücke Space, um den Anker zu senken (achte darauf, das Boot dabei nicht zu bewegen, da sich der Anker sonst automatisch wieder hebt)."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/f/f5/The-last-caretaker-lumilite-panel-unlock.jpg/363px-The-last-caretaker-lumilite-panel-unlock.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4b/The-last-caretaker-lumilite-panel.jpg/363px-The-last-caretaker-lumilite-panel.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/90/The-last-caretaker-lumilite-parts.jpg/363px-The-last-caretaker-lumilite-parts.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/36/The-last-caretaker-lumilite-power.jpg/363px-The-last-caretaker-lumilite-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/16/The-last-caretaker-beacon-49-path.jpg/730px-The-last-caretaker-beacon-49-path.jpg"
+    ]
+   }
+  ]
+ },
+ "signals-from-silence": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/First_Voyage",
+  "sections": [
+   {
+    "heading": "Signale aus der Stille",
+    "paragraphs": [
+     "Jetzt kannst du zum Dock hinüberspringen und dich dem Gebäude nähern. Achte auf feindliche Bots, die dich angreifen (drücke C für einen Nahkampfangriff, falls du noch keine Waffe hast). Zerstöre die korrupten Sporen vor der Haupttür und in der Nähe der Solar Panels.",
+     "Als Erstes wollen wir die Stromversorgung des Gebäudes wiederherstellen. Steckdose und Schalter befinden sich im Raum rechts vom Haupteingang. Nimm das bereits eingesteckte Kabel und schließe es an das Solar Panel ganz links an (das unbeschädigte).",
+     "Geh dann hinein und verbinde ein Kabel mit der Rückseite dieser Steckdose und mit der Hauptsteckdose beim Stromschalter. Sobald das Kabel durchgehend vom Solar Panel bis zur Hauptsteckdose reicht, kannst du den Schalter umlegen, um die Stromversorgung des Gebäudes wiederherzustellen.",
+     "Mit wiederhergestellter Stromversorgung können wir nun die Türen des Haupteingangs öffnen. Wenn du hineingehst, sei auf weitere feindliche Bots und einige Bio-Kreaturen gefasst.",
+     "Geh im Gebäude die Treppe hoch und finde das Terminal. Am Terminal kannst du die Option „Acquire Beacon 49 Authorization\" wählen -- damit können wir die Tür zum Communications Array freischalten. Sobald du Zugang hast, kannst du durch die Tür rechts vom Terminal gehen und findest das Array.",
+     "Bevor wir das Communications Array in Betrieb nehmen können, müssen wir den Satelliten reparieren. Geh dazu die Treppe zum Dach hoch. Erklimme dann den Turm ganz bis nach oben -- dabei gibt es viele Lücken, über die du springen musst (du kannst dich beim Springen an Plattformkanten festhalten, halte dazu Shift zum Sprinten -- oder drücke E, um beim Springen eine Leiter zu greifen).",
+     "Oben angekommen, schau dir das defekte Schaltpanel an und benutze das Repair Tool (5), um es zu reparieren. Du benötigst folgende Materialien: Copper x2, Iron x4, Plastic x2.",
+     "Sobald es repariert ist, geh auf die gegenüberliegende Seite des Schaltpanels und lass eine Leiter herunter, über die du wieder zum Dach des Gebäudes gelangst.",
+     "Da der Satellit jetzt repariert ist, müssen wir das Communications Array mit Strom versorgen, um es aufzuladen. Verbinde dazu Electric Cables von den Solar Panels (du musst die Solar Panels eventuell zuerst reparieren und einen Extender einrichten, um mehrere an derselben Steckdose anzuschließen -- oder zumindest eine Wind Turbine neben dem Solar Panel aufstellen) mit der Steckdose rechts von der Haupteingangstür.",
+     "Geh dann hinein und die Treppe hoch. Verbinde ein Kabel von der Steckdose außerhalb des Array-Raums und führe es hinunter zur Rückseite der Steckdose, die wir gerade außen angeschlossen haben.",
+     "Geh schließlich in den Array-Raum und verbinde ein Kabel von der Steckdose bei der Tür direkt mit der Communications-Array-Maschine. Sie beginnt nun, sich aufzuladen.",
+     "Es dauert eine Weile, bis das Array auf 2,0 kWh aufgeladen ist -- je mehr Strom du erzeugst, desto schneller geht es (deshalb empfehlen wir zusätzlich eine Wind Turbine, da sie auch nachts weiter aufladen kann). Während du wartest, durchsuche das Gebäude und sammle alle Materialien ein, die du finden kannst -- auch durch Dismantle von Objekten.",
+     "HINWEIS: Im unteren Teil des Gebäudes gibt es eine verschlossene Tür mit dem Symbol eines Schilds und einer 3 darauf -- das bedeutet, wir brauchen die entsprechende Freigabe, um sie zu betreten. Um eine höhere Freigabe zu erhalten, musst du aufleveln. Freigabe Stufe 3 erfordert mindestens Level 15 -- das heißt, wir müssen zu einem späteren Zeitpunkt im Spiel hierher zurückkehren.",
+     "Sobald das Array vollständig aufgeladen ist, schau dir die Maschine an und leg den Schalter um, um sie zu aktivieren -- dadurch werden einige weitere Orte in der Nähe aufgedeckt, darunter unser nächstes Ziel in der Hauptstory -- der Lazarus Complex.",
+     "HINWEIS: Du kannst zunächst die anderen Orte auf der Karte aufsuchen, bevor du zum Lazarus Complex gehst, um mehr Materialien zu sammeln und weiter aufzuleveln -- das wird empfohlen, damit du besser vorbereitet bist."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/1/17/The-last-caretaker-beacon-49-spores.jpg/730px-The-last-caretaker-beacon-49-spores.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/65/The-last-caretaker-beacon-49-solar-panel.jpg/363px-The-last-caretaker-beacon-49-solar-panel.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/7e/The-last-caretaker-beacon-49-power.jpg/363px-The-last-caretaker-beacon-49-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/3c/The-last-caretaker-beacon-49-authorization.jpg/730px-The-last-caretaker-beacon-49-authorization.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/aa/The-last-caretaker-beacon-49-tower.jpg/363px-The-last-caretaker-beacon-49-tower.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b1/The-last-caretaker-beacon-49-repair-panel.jpg/363px-The-last-caretaker-beacon-49-repair-panel.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b4/The-last-caretaker-beacon-49-repair-solar-panels.jpg/363px-The-last-caretaker-beacon-49-repair-solar-panels.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b6/The-last-caretaker-beacon-49-power-2.jpg/363px-The-last-caretaker-beacon-49-power-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/af/The-last-caretaker-beacon-49-power-3.jpg/363px-The-last-caretaker-beacon-49-power-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/94/The-last-caretaker-beacon-49-power-4.jpg/363px-The-last-caretaker-beacon-49-power-4.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/ea/The-last-caretaker-beacon-49-locked-room.jpg/363px-The-last-caretaker-beacon-49-locked-room.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/65/The-last-caretaker-beacon-49-location-map.jpg/730px-The-last-caretaker-beacon-49-location-map.jpg"
+    ]
+   }
+  ]
+ },
+ "lazarus-come-forth": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Lazarus_Complex",
+  "sections": [
+   {
+    "heading": "Lazarus, erhebe dich",
+    "paragraphs": [
+     "Nachdem wir mit Navigation Beacon 49 fertig sind, wird der Standort des Lazarus Complex auf unserer Karte angezeigt. Wir sollten dorthin aufbrechen, um mit den Hauptquests fortzufahren.",
+     "HINWEIS: Du kannst dir Zeit lassen und zunächst die anderen Orte in der Nähe erkunden -- das wird immer empfohlen, damit du mehr Materialien sammeln und aufleveln kannst.",
+     "Wenn du bereit bist, segle mit deinem Boot Richtung Südosten (er wird als Symbol auf deinem Bildschirm angezeigt, du kannst ihn also nicht verfehlen). Er liegt etwas weiter entfernt -- falls du dir um deinen Treibstoff Sorgen machst, halte unterwegs an der Tankstelle.",
+     "Sobald du beim Lazarus Complex ankommst, anker dein Boot am Dock und geh durch die Haupttür des Hangars. Hier gibt es einen Aufzug, aber ohne Strom müssen wir auf einem anderen Weg nach oben.",
+     "Geh um die linke Seite des Hangareingangs herum, dort siehst du eine Treppe. Oben musst du über eine Lücke im Weg springen und dem Laufsteg weiter folgen. Spring dann vom Laufsteg auf die Plattform darunter (achte auf korrupte Pods).",
+     "Hier musst du an Lüftungsschächten und Rohren hochklettern, um weiter nach oben zu kommen. Auf der rechten Seite findest du einen Lüftungsschacht, den du betreten kannst -- zieh die Klappe einfach auf oder schlag sie mit einem Nahkampfangriff (C) auf.",
+     "Wenn du in den Lüftungsschacht hinunterfällst, siehst du einen kaputten Roboter. Plündere die Gegenstände neben ihm -- dabei sammelst du zwei unterschiedliche Memory-Items ein.",
+     "Wenn du den Lüftungsschacht ganz durchquert hast, kannst du eine weitere Klappe aufbrechen. Dahinter fällst du ins Wasser darunter. Lass dich hinunterfallen und klettere die Leiter zur gegenüberliegenden Plattform hoch."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/b/b2/The-last-caretaker-lazarus-complex-path.jpg/730px-The-last-caretaker-lazarus-complex-path.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/c4/The-last-caretaker-lazarus-complex-entrance.jpg/363px-The-last-caretaker-lazarus-complex-entrance.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/e2/The-last-caretaker-lazarus-complex-entrance-2.jpg/363px-The-last-caretaker-lazarus-complex-entrance-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/ed/The-last-caretaker-lazarus-complex-entrance-3.jpg/363px-The-last-caretaker-lazarus-complex-entrance-3.jpg"
+    ]
+   }
+  ]
+ },
+ "awakening-the-hall": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Lazarus_Complex",
+  "sections": [
+   {
+    "heading": "Erweckung der Halle",
+    "paragraphs": [
+     "Ohne Strom können wir die Hall of Humanity dort im Lazarus Complex nicht betreten, also besteht unsere erste Aufgabe hier darin, die Stromversorgung wiederherzustellen. Die Hauptsteckdose befindet sich oben auf dem Komplex -- dorthin müssen wir zuerst gelangen.",
+     "Nachdem du aus dem Lüftungsschacht ins Wasser gefallen bist und zu einem neuen Laufsteg hochgeklettert bist, folge dem Weg weiter. Du kommst zu einer weiteren Leiter, die nach oben führt. Oben an dieser Leiter findest du den Aufzug und die Türen ins Gebäude -- ohne Strom können wir jedoch keines von beidem benutzen.",
+     "Schau auf die rechte Seite des Aufzugs, dort siehst du eine weitere Leiter zum Hochklettern. Oben sehen wir eine weitere verschlossene Tür (dafür ist eine höhere Freigabe nötig) und daneben eine Healing Station und ein Data Backup.",
+     "Geh links am Speicherpunkt vorbei die Treppe hoch, biege dann erneut links ab und geh weiter nach oben.",
+     "Du musst über die Lücken im Weg springen, um dem Laufsteg weiter zu folgen. Du kommst an eine Stelle, wo rechts eine Treppe nach oben führt, links jedoch ein rotes Rohr verläuft. Klettere auf das rote Rohr und folge ihm bis zu einigen Kisten. Klettere auf die Kisten und duck dich dann unter den Lüftungsschacht rechts von dir.",
+     "Sobald du unter dem Lüftungsschacht durchgekrochen bist, schau nach rechts und spring hinüber zur Leiter. Folge dann weiter dem Laufsteg, bis du eine Tür erreichst (schau links von der Tür und lass eine Leiter herunter, um es dir für später leichter zu machen).",
+     "Öffne die Tür und geh durch diesen Raum zu einem Außenvorsprung. Klettere an einer der beiden Leitern hoch, um zu einem Bereich mit weiteren Lüftungsschächten zu gelangen.",
+     "Klettere an den Lüftungsschächten auf der rechten Seite hoch. Sobald du dich durch die Schächte und Plattformen manövriert hast, findest du eine Leiter zum Hochklettern. Danach kommst du zu einer Treppe, die endlich aufs Dach führt.",
+     "Auf dem Dach gibt es drei verschiedene Gebäude, also müssen wir das mit der Hauptstromquelle finden. Das gesuchte Gebäude ist das kleinste der drei und hat bereits ein Electric Cable an der Vorderseite angeschlossen (dieses Gebäude enthält außerdem eine Healing Station, Backup Station, einen Fabricator und einen Recycler, daher ist es besonders wichtig).",
+     "Um die Stromversorgung wiederherzustellen, nimm das Electric Cable im Inneren des Gebäudes und verbinde es mit der Hauptsteckdose in der hinteren rechten Ecke (auf derselben Seite wie der Recycler).",
+     "Nimm dann außen am Gebäude das bereits angeschlossene Electric Cable und führe es zu den Solar Panels direkt gegenüber dem Gebäude. Du brauchst einen Cable Extender und ein paar zusätzliche Kabel, um dorthin zu gelangen und alle Panels gleichzeitig anzuschließen.",
+     "Sobald die Kabel von der Hauptsteckdose an die Solar Panels angeschlossen sind, geh zurück ins Gebäude und betätige den Schalter neben der Steckdose.",
+     "Da die Stromversorgung jetzt wiederhergestellt ist, geh zum Gebäude links von den Solar Panels. Darin befindet sich ein Aufzug -- mit dem wiederhergestellten Strom kannst du ihn benutzen, um hinunter zur Hall of Humanity zu fahren.",
+     "Benutze hier das Terminal, um die Option „Acquire Hall of Humanity Authorization\" zu wählen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/2/2d/The-last-caretaker-lazarus-complex-roof-path.jpg/363px-The-last-caretaker-lazarus-complex-roof-path.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/c7/The-last-caretaker-lazarus-complex-roof-path-2.jpg/363px-The-last-caretaker-lazarus-complex-roof-path-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/2/2f/The-last-caretaker-lazarus-complex-roof-path-3.jpg/363px-The-last-caretaker-lazarus-complex-roof-path-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a6/The-last-caretaker-lazarus-complex-roof-path-4.jpg/363px-The-last-caretaker-lazarus-complex-roof-path-4.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f6/The-last-caretaker-lazarus-complex-roof-path-5.jpg/363px-The-last-caretaker-lazarus-complex-roof-path-5.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/45/The-last-caretaker-lazarus-complex-roof-path-6.jpg/363px-The-last-caretaker-lazarus-complex-roof-path-6.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/04/The-last-caretaker-lazarus-complex-power-building.jpg/730px-The-last-caretaker-lazarus-complex-power-building.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/ad/The-last-caretaker-lazarus-complex-power-1.jpg/363px-The-last-caretaker-lazarus-complex-power-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/32/The-last-caretaker-lazarus-complex-power-2.jpg/363px-The-last-caretaker-lazarus-complex-power-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/2/2d/The-last-caretaker-lazarus-complex-power-3.jpg/730px-The-last-caretaker-lazarus-complex-power-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/9b/The-last-caretaker-lazarus-complex-elevator-to-hall.jpg/363px-The-last-caretaker-lazarus-complex-elevator-to-hall.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/c7/The-last-caretaker-lazarus-complex-terminal.jpg/363px-The-last-caretaker-lazarus-complex-terminal.jpg"
+    ]
+   }
+  ]
+ },
+ "from-ashes-we-rise": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Lazarus_Complex",
+  "sections": [
+   {
+    "heading": "Aus der Asche erheben wir uns",
+    "paragraphs": [
+     "Sobald wir die Hall of Humanity erreicht haben, erhalten wir ein neues Ziel: einen der Lazarus Racks zu reparieren und mit Strom zu versorgen. Hier gibt es insgesamt vier davon, und sie benötigen alle die gleichen Materialien zur Reparatur, also spielt es keine Rolle, welchen du wählst.",
+     "Für die Reparatur benötigst du folgende Materialien (wir empfehlen, direkt in der Halle eine Truhe aufzustellen, um Materialien zu lagern, damit du nicht überladen wirst):",
+     "- Plastic x20",
+     "- Glass x10",
+     "- Iron x15",
+     "- Rubber x10",
+     "- Aluminium x5",
+     "- Gold x10",
+     "- Carbon Fiber x5",
+     "- Titanium x5",
+     "HINWEIS: Carbon Fiber und Titanium sind seltene Materialien – sie sind für diese Reparatur am schwersten zu bekommen. Du kannst jedoch die Anlage erkunden und Gegenstände zerlegen, um sie zu erhalten. Wir haben welche im letzten Gebäude auf dem Dach sowie im Raum über dem gleichen Raum neben der Hall of Humanity gefunden, indem wir LED Monitors und Broken Robots zerlegt haben. Denk daran, dass du einen Recycler brauchst, um sie in nutzbare Materialien umzuwandeln.",
+     "Sobald du ihn repariert hast, musst du ihn noch mit Strom versorgen. Dafür gibt es mehrere Möglichkeiten (es gibt sogar noch mehr Optionen, als wir hier auflisten, aber hier sind ein paar schnelle Lösungen):",
+     "- Suche den Raum mit der Heal Station und der Backup Station neben der Hall of Humanity und gehe dann die Treppe über dem Heilungsraum hoch. Durch diesen Raum gelangst du durch eine Tür auf einen äußeren Vorsprung mit Wind Turbines und Solar Panels. Du kannst Kabel (mit vielen Kabeln und Verlängerungen) bis zu deinem Lazarus Rack durchführen.",
+     "- Die andere Möglichkeit besteht darin, einen Electric Generator herzustellen (sowie Benzinkanister, um ihn zu betreiben) und ihn direkt an deinen Lazarus Rack anzuschließen.",
+     "Sobald der Rack mit Strom verbunden ist, betätige den gelben Schalter daran, um ihn einzuschalten.",
+     "Sobald wir einen Lazarus Rack repariert und mit Strom versorgt haben, erhalten wir eine neue Quest: einen Human Seed in einer Anlage irgendwo im Norden zu finden. Wir können den Ort besser ausfindig machen, indem wir die andere Aufgabe hier erledigen und das Navigational Relay reparieren (du findest es auf dem Dach)."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/c/cf/The-last-caretaker-lazarus-rack-power.jpg/363px-The-last-caretaker-lazarus-rack-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/2/27/The-last-caretaker-lazarus-electric-generator.jpg/363px-The-last-caretaker-lazarus-electric-generator.jpg"
+    ]
+   }
+  ]
+ },
+ "guiding-light": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Lazarus_Complex",
+  "sections": [
+   {
+    "heading": "Leitstern",
+    "paragraphs": [
+     "Das Gebäude auf dem Dach, das zuvor verschlossen war (dort, wo wir den Strom wiederhergestellt haben), wird nun freigeschaltet, sobald du die „Hall of Humanity Authorization\" erlangt hast. Darin findest du das Navigational Relay. Genau wie bei Beacon 49 müssen wir jedoch das Array reparieren und das Relay aufladen, indem wir es mit Strom verbinden.",
+     "Gehe zunächst um das Gebäude herum zur Treppe und arbeite dich bis zur Spitze des Turms hoch. Wie beim letzten Turm musst du dafür ein wenig parkourartig vorgehen, über Lücken springen und Leitern erklimmen.",
+     "Wenn du an einer scheinbaren Sackgasse ankommst, schau nach links – dort siehst du eine Plattform, über die es weiter nach oben geht. Von dort aus siehst du einen schmalen Balken mit einem Broken Robot darauf. Du musst diesen Sprung wagen und dich dann weiter nach oben vorarbeiten (klappe dabei alle Leitern herunter, die du siehst, um später leichter wieder herunterzukommen).",
+     "Oben angekommen, benutze dein Repair Tool, um den gelben Schaltkasten zu reparieren – dafür brauchst du Folgendes:",
+     "- Iron x4",
+     "- Copper x2",
+     "- Plastic x2",
+     "Sobald das erledigt ist, nutze die Leitern, um wieder hinunterzuklettern. Danach können wir uns darauf konzentrieren, das Navigational Relay aufzuladen. Dafür musst du Electric Cables von der Steckdose an der Vorderseite des Relay-Gebäudes entweder zu den Solar Panels oder den Wind Turbines verlegen (wir empfehlen beides, damit es schneller geht).",
+     "Schließe dann ein Kabel an die Steckdose im Inneren des Gebäudes an und direkt an die Vorderseite der Relay-Maschine.",
+     "Du musst warten, bis der Ladevorgang abgeschlossen ist. Je mehr Strom du anschließt, desto schneller geht es, also versuche, so viele Solar Panels und Wind Turbines wie möglich anzuschließen. Alternativ kannst du ihm einfach etwas Zeit zum Aufladen geben, während du Materialien sammelst und die Anlage erkundest.",
+     "Wenn das Relay fertig aufgeladen ist, gehe zur Maschine und lege den Schalter an der Vorderseite um, um sie einzuschalten. Daraufhin werden mehrere neue Orte auf deiner Karte aufgedeckt, darunter das Norfolk Grave – ein Seed Vault.",
+     "HINWEIS: Für die Hauptquests müssen wir erneut zu einem neuen Ort segeln, aber wir können uns zwischendurch die Zeit nehmen, andere Orte in der Umgebung zu erkunden, wenn wir möchten – das wird empfohlen, damit du mehr Materialien sammeln und aufsteigen kannst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/4/4a/The-last-caretaker-lazarus-array.jpg/363px-The-last-caretaker-lazarus-array.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a6/The-last-caretaker-lazarus-array-2.jpg/363px-The-last-caretaker-lazarus-array-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/78/The-last-caretaker-lazarus-communications-array.jpg/730px-The-last-caretaker-lazarus-communications-array.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/69/The-last-caretaker-lazarus-relay-power.jpg/363px-The-last-caretaker-lazarus-relay-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/51/The-last-caretaker-lazarus-relay-power-2.jpg/363px-The-last-caretaker-lazarus-relay-power-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/3b/The-last-caretaker-lazarus-relay-map.jpg/730px-The-last-caretaker-lazarus-relay-map.jpg"
+    ]
+   }
+  ]
+ },
+ "seeds-of-the-future": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Seeds_of_the_Future",
+  "sections": [
+   {
+    "heading": "Saat der Zukunft",
+    "paragraphs": [
+     "Nachdem wir den Lazarus Complex durch die Wiederherstellung des Stroms und die Reparatur eines Lazarus Rack gesichert haben, ist es an der Zeit, mit dem Wiederaufbau der Menschheit zu beginnen. Der erste Schritt dieses Prozesses besteht darin, einen Human Seed zu sammeln, um mit dem Heranwachsen eines Menschen zu beginnen."
+    ],
+    "images": []
+   }
+  ]
+ },
+ "echoes-in-the-grave": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Seeds_of_the_Future",
+  "sections": [
+   {
+    "heading": "Echos im Grab",
+    "paragraphs": [
+     "Das Navigational Relay auf der Spitze von Lazarus hat uns einen Ort verraten – Norfolk Grave –, der uns möglicherweise mehr Informationen darüber liefert, wo sich die Human Seeds befinden. Dorthin sollten wir zuerst aufbrechen.",
+     "Norfolk Grave liegt nördlich des Lazarus Complex (es wird auf deiner Karte markiert sein). Stelle sicher, dass du vor der Abfahrt genügend Diesel dabeihast oder dein Boot mit Strom betreiben kannst – ab hier wirst du viel segeln müssen.",
+     "HINWEIS: Norfolk Grave ist ein versunkener Ort, das heißt, er liegt vollständig unter Wasser; du wirst ihn von der Oberfläche aus nicht sehen und musst hinabtauchen, um ihn zu betreten. Verbessere vor deiner Ankunft am besten deinen Pressure-Skill, damit du tiefer tauchen kannst.",
+     "Wenn du am markierten Standort von Norfolk Grave ankommst, springe von deinem Boot ins Wasser und tauche zu den Ruinen hinab. Suche nach einer runden Öffnung am unteren Gebäude, durch die du eintreten kannst.",
+     "Sobald du im Gebäude bist, suche in der Ecke nach einer Stelle, an der du aus dem Wasser auftauchst, und klettere auf eine höhere Ebene (hier findest du eine Heal Station).",
+     "Von dieser Ebene mit der Heal Station aus musst du an den zerstörten Wandstrukturen hochklettern, um das darüberliegende Stockwerk zu erreichen. Versuche vorher, die corrupted spores zu beseitigen. Den Weg nach oben erkennst du an den grünen Knicklichtern, die ihn markieren.",
+     "Oben findest du eine Tür, durch die du zum Terminal und zur Hauptsteckdose gelangst.",
+     "Um auf das Terminal zugreifen zu können, musst du es zunächst mit Strom versorgen – der Schalter befindet sich links neben der Hauptsteckdose. Du kannst die Small Battery direkt daneben nutzen, indem du ein Electric Cable von der Batterie zur Steckdose verlegst.",
+     "(HINWEIS: Wenn Steckdose und Schalter schwärzlich aussehen, liegt das daran, dass eine corrupted spore darauf einwirkt – erst wenn du sie zerstörst, funktioniert alles wieder richtig. Direkt darunter, an der Decke des Raums, in dem wir geklettert sind, befindet sich eine – zerstöre diese zuerst.)",
+     "Sobald die Batterie an die Steckdose angeschlossen ist, lege den Schalter um, und der Raum hat Strom. Diese Batterie sollte lange genug halten, damit du die benötigten Informationen vom Terminal abrufen kannst.",
+     "ERFOLG: Schau im versteckten Raum von Norfolk Grave in die Ecke neben dem Schreibtisch, zerlege den Lazarus Pod und du erhältst einige seltene Materialien sowie folgenden Erfolg:",
+     "Collect an artifact memory – wird freigeschaltet, indem du ein Objekt mit der Bezeichnung „Artifact\" aus der Umgebung zerlegst (das ist ein Gegenstand, der Schrott und ein Memory item liefert – wir haben ihn durch das Zerlegen des Lazarus Pod/Aged Vial im versteckten Raum von Norfolk Grave erhalten).",
+     "Wähle am Terminal die Option „Acquire Seed Vault Prometheus Authorization\" aus. Dadurch wird der Ort auf unserer Karte markiert und wir erhalten Zugang zum Gebäude, sobald wir dort ankommen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/1/1e/The-last-caretaker-norfolk-grave-entrance.jpg/363px-The-last-caretaker-norfolk-grave-entrance.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6d/The-last-caretaker-norfolk-grave-path.jpg/363px-The-last-caretaker-norfolk-grave-path.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a1/The-last-caretaker-norfolk-grave-path-1.jpg/730px-The-last-caretaker-norfolk-grave-path-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/d/df/The-last-caretaker-norfolk-grave-power.jpg/730px-The-last-caretaker-norfolk-grave-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6e/The-last-caretaker-artifact-item.jpg/363px-The-last-caretaker-artifact-item.jpg"
+    ]
+   }
+  ]
+ },
+ "voyage-to-the-cradle": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Seeds_of_the_Future",
+  "sections": [
+   {
+    "heading": "Reise zur Wiege",
+    "paragraphs": [
+     "Verlasse nun Norfolk Grave und segle weiter zum markierten Ort – er liegt nordöstlich von Norfolk Grave.",
+     "HINWEIS: Auf dem Weg zum Prometheus Vault triffst du bei Beacon 15 auf ein weiteres Navigational Relay. Du kannst hier anhalten und wie gewohnt das Communications Array reparieren und das Relay aufladen, um weitere Orte auf deiner Karte freizuschalten, bevor du weiterziehst.",
+     "Wenn du beim Prometheus Vault ankommst, musst du zuerst den Haupteingang mit Strom versorgen. Gehe dazu um die Rückseite des Gebäudes herum, dort findest du ein kleineres Gebäude mit der Hauptsteckdose.",
+     "Gehe hinein und schließe eine Small Battery an die Steckdose an – besser ist es jedoch, eine dauerhafte Stromquelle wie eine Wind Turbine oder ein Solar Panel einzurichten (das dauert zwar etwas länger, aber dann musst du dir keine Sorgen mehr machen, dass die Batterie leer wird).",
+     "Sobald die Hauptsteckdose mit Strom versorgt ist, betätige den Schalter daneben – der Haupteingang und der Aufzug im Gebäude sind nun nutzbar.",
+     "HINWEIS: Bevor du das Gebäude betrittst und zum Tresorraum hinabsteigst, solltest du dich gut vorbereiten – nimm Granaten und großkalibrige Waffen mit, um eine ganze Gruppe von corrupted spores auf einmal auszuschalten. Ein Flammenwerfer eignet sich hervorragend!",
+     "Wenn du durch den Haupteingang gehst, kannst du den Aufzug nutzen, um in die untere Ebene hinabzufahren. Dort angekommen, musst du jedoch auch diesen Bereich mit Strom versorgen.",
+     "Schau unten nach rechts und zerstöre die Spores an den Türen dort. Schau dann nach links – dieser Raum ist der Stromraum, aber ohne Strom kommen wir nicht durch die Tür. Klettere stattdessen die Leiter hinunter zur untersten Ebene.",
+     "Suche auf der untersten Ebene nach einer Öffnung in der blauen Röhre und krieche hindurch zu einer Leiter. Folge dem Weg weiter, gehe die Stufen hoch und dann eine zweite Leiter. Danach gelangst du zu einem Lüftungsschacht, durch den du in den Stromraum kriechen kannst.",
+     "In diesem Stromraum können wir einfach eine Small Battery verwenden, um die Steckdose mit Strom zu versorgen, und den Schalter umlegen – da es sich aber um eine Small Battery handelt, solltest du möglichst schnell arbeiten oder weitere Batterien bereithalten, falls sie leer wird.",
+     "Verlasse nun den Stromraum und gehe durch die Tür direkt gegenüber (die, an der wir die corrupted spores entfernt haben – ohne das kommst du nicht hindurch).",
+     "Dieser Korridor ist voller corrupted spores, also musst du sie alle beseitigen, um dir einen sicheren Weg zum Tresor zu bahnen. Flammenwerfer und Granaten erledigen den Job – oder du nutzt eine Pistole, brauchst dann aber jede Menge Munition.",
+     "Sobald der Gang frei ist, gehe durch die Tür am Ende des Korridors, um den Tresor zu betreten (dafür brauchst du aktiven Strom). Gehe zu einem Seed Vault, ziehe den Human Seed heraus und lege ihn auf einen Lazarus Pod (er wird automatisch darin platziert).",
+     "HINWEIS: Du solltest vorerst nur einen Human Seed mitnehmen, ES SEI DENN, du hast im Lazarus Complex mehr als einen Lazarus Rack repariert. Sobald die Human Seeds aus den Tresoren entnommen werden, beginnen sie zu verfallen (der Timer läuft herunter). Die einzige Möglichkeit, den Verfall zu stoppen, besteht darin, sie in den Tresoren zu lassen oder an einen funktionierenden Lazarus Rack anzuschließen. Du hast 1 Stunde, bevor sie verfallen.",
+     "Wenn sich der Human Seed in einem Lazarus Pod befindet, trage ihn (halte M1 gedrückt) zu deinem Boot und segle schnell zurück zum Lazarus Complex, bevor der Timer abläuft (du kannst dein Boot beschleunigen, indem du gleichzeitig mit Diesel und Electricity fährst – drücke dazu die Knöpfe unter den Anzeigen am Bedienfeld).",
+     "Sobald du wieder am Complex bist, trage deinen Lazarus Pod mit in den Aufzug und hinauf zur Hall of Humanity, wo du den Pod in den reparierten Rack einsetzen kannst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/f/ff/The-last-caretaker-seed-vault-prometheus-location.jpg/730px-The-last-caretaker-seed-vault-prometheus-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/82/The-last-caretaker-prometheus-power-building.jpg/730px-The-last-caretaker-prometheus-power-building.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/8a/The-last-caretaker-prometheus-clear-door.jpg/363px-The-last-caretaker-prometheus-clear-door.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4e/The-last-caretaker-prometheus-ladder.jpg/363px-The-last-caretaker-prometheus-ladder.jpg",
+     "https://cdn.staticneo.com/ew/thumb/2/27/The-last-caretaker-prometheus-blue-tube.jpg/363px-The-last-caretaker-prometheus-blue-tube.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/11/The-last-caretaker-prometheus-vent.jpg/363px-The-last-caretaker-prometheus-vent.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4a/The-last-caretaker-prometheus-power.jpg/730px-The-last-caretaker-prometheus-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/17/The-last-caretaker-prometheus-clear-hallway.jpg/730px-The-last-caretaker-prometheus-clear-hallway.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6c/The-last-caretaker-prometheus-human-seed.jpg/730px-The-last-caretaker-prometheus-human-seed.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/65/The-last-caretaker-seed-into-lazarus-rack.jpg/730px-The-last-caretaker-seed-into-lazarus-rack.jpg"
+    ]
+   }
+  ]
+ },
+ "the-next-step-of-evolution": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Seeds_of_the_Future",
+  "sections": [
+   {
+    "heading": "Der nächste Schritt der Evolution",
+    "paragraphs": [
+     "Mit dem Lazarus Pod am Rack angeschlossen, können wir damit beginnen, einen Menschen heranwachsen zu lassen! Dafür müssen wir mehrere Schritte befolgen, um sicherzustellen, dass es erfolgreich klappt:",
+     "- Schritt 1: Stelle sicher, dass der Rack über Fresh Water und Electricity verfügt",
+     "Der Rack kann ohne angeschlossene Electricity nicht funktionieren (das sollten wir bereits in den Quests von The Lazarus Complex erledigt haben, falls nicht, richte jetzt eine dauerhafte Stromquelle ein – wir empfehlen die Wind Turbines und Solar Panels, die bereits über dem Heilungsraum in der Hall of Humanity installiert sind).",
+     "Neben Electricity benötigst du auch Fresh Water. Fresh Water kannst du regelmäßig sammeln, indem du einen Water Purifier aufstellst (im Skills-Menü freischaltbar). Platziere den Water Purifier auf deinem Boot neben der Water Pump. Verbinde dann Water Cables von der Pumpe zum Purifier (auch diese benötigen Electricity).",
+     "Verbinde schließlich den Water Purifier mit dem Fabricator auf deinem Boot. Dadurch kannst du Small Fresh Water Containers herstellen. Nutze diese, um die Lazarus Racks zu versorgen. Du kannst sie einfach immer weiter herstellen, solange dein Water Purifier läuft.",
+     "HINWEIS: Sobald die Wachstumszeit beginnt, brauchst du sehr viel Wasser – wir empfehlen, Kabel bis zur unteren Ebene von Lazarus zu verlegen und dort den Water Purifier zu reparieren.",
+     "- Schritt 2: Wachstumsfördernde Materialien bereitstellen",
+     "Sobald der Human Seed im Rack mit Fresh Water und Electricity versorgt wird, besteht der nächste Schritt darin, sicherzustellen, dass der Mensch alles hat, was er zum Wachsen braucht – Food und Memories.",
+     "Memories sammelst du ganz natürlich, während du verschiedene Orte in der Welt erkundest – dabei handelt es sich um Gegenstände wie Musikinstrumente, Kinderspielzeug, Baupläne/Dokumente, Briefe, Künstlerbedarf usw. Sie verleihen deinem Menschen einzigartige Traits (wie auf dem jeweiligen Gegenstand angegeben).",
+     "Außerdem brauchst du Food, um deinem Menschen Traits zu verleihen. Food ist etwas aufwendiger, da du es selbst verarbeiten und herstellen musst (es sei denn, du findest bereits fertiges Food in der Welt).",
+     "Stelle zunächst sicher, dass du eine Soilforge und einen Food Processor irgendwo in der Halle oder auf deinem Boot aufgestellt hast (du kannst sie im Skills-Menü freischalten).",
+     "Mit der Soilforge zerlegst du Bio-Materialien (gesammelt von Bio-Kreaturen und Spores) in Food-Materialien wie Omega-3, Protein, Fat, Carbohydrates usw.",
+     "(Die Maschine wirft sie auf den Boden in der Nähe aus, also sorge dafür, dass genug freier Platz vorhanden ist.)",
+     "Mit den Food-Materialien, die du aus der Soilforge erhalten hast, kannst du am Food Processor verwendbare Food-Items herstellen. Schalte dafür zuerst die Rezepte im Skills-Menü frei. Verschiedene Arten von Food verleihen unterschiedliche Traits, benötigen aber auch jeweils bestimmte Food-Materialien zur Herstellung.",
+     "- Schritt 3: Wachstumszeit",
+     "Sobald die Mindestanforderung an Wachstumsgegenständen in den Lazarus Rack eingespeist wurde, kannst du den Wachstumsprozess starten, indem du auf dem Bildschirm der Maschine E drückst. Danach musst du dem Human Seed Zeit geben, vollständig heranzuwachsen. Die Wachstumszeit variiert je nach Art des Menschen, den du erschaffst (die Art wird durch die eingespeisten Wachstumsgegenstände bestimmt).",
+     "Lass die Wachstumszeit ablaufen, dann können wir mit den nächsten Schritten fortfahren!",
+     "HINWEIS: Während dein Human Seed heranwächst, kannst du dir die Zeit nehmen, andere Aufgaben in der Welt zu erledigen, etwa weitere Materialien zu sammeln, den Lazarus Complex weiter zu säubern, einen weiteren Rack zu reparieren oder neue Orte in der Nähe zu erkunden – bleib dran und steig weiter auf!",
+     "First human – wird freigeschaltet, indem du deinen ersten Menschen im Lazarus Complex erschaffst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/5/59/The-last-caretaker-fresh-water.jpg/363px-The-last-caretaker-fresh-water.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/32/The-last-caretaker-rack-water.jpg/363px-The-last-caretaker-rack-water.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/8d/The-last-caretaker-rack-memory.jpg/363px-The-last-caretaker-rack-memory.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/56/The-last-caretaker-soilforge.jpg/363px-The-last-caretaker-soilforge.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/02/The-last-caretaker-rack-food.jpg/363px-The-last-caretaker-rack-food.jpg"
+    ]
+   }
+  ]
+ },
+ "time-to-let-go-soon": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Exodus_Station",
+  "sections": [
+   {
+    "heading": "Bald ist es Zeit loszulassen",
+    "paragraphs": [
+     "Sobald dein Mensch im Lazarus Rack vollständig herangewachsen ist, ist es Zeit für den nächsten Schritt beim Wiederaufbau der Menschheit – ihn ins All zu schicken! Dafür müssen wir die Exodus Station finden, wo das Raumschiff angedockt ist.",
+     "Den genauen Standort der Exodus Station erfahren wir nicht sofort – wir erfahren nur, dass sie südöstlich des Lazarus Complex liegt. Wir schalten jedoch den Standort eines Navigational Relay in derselben Gegend frei. Gehe zuerst dorthin und stelle die Bake wieder her, genau wie bei den vorherigen: das Array reparieren und die Relay-Maschine aufladen.",
+     "Sobald das Navigational Relay läuft, wird der Rest der Karte in diesem Gebiet aufgedeckt, und du kannst die Exodus Station genau lokalisieren (das Raketen-Symbol auf der Karte).",
+     "Wenn du bei der Exodus Station ankommst, lege dein Boot am ersten Gebäude an (es ist einer der wenigen Anlegeplätze, die du an diesem Ort siehst, und zunächst der einzige Weg, mit dem Boot hineinzukommen). Nimm dann den Human Pod mit, geh die Stufen zum Haupteingang hinauf und setze ihn vor den Türen ein.",
+     "Du brauchst weiterhin Strom, um den Eingang freizuschalten und dich durch das Gebäude bewegen zu können, also gehe auf die rechte Seite des Eingangs, dort findest du das Stromgebäude. Du musst die corrupted spores an der Vorderseite zerstören, um den Strom wiederherzustellen.",
+     "Verbinde dann wie gewohnt Electric Cables von der Steckdose im Inneren des Gebäudes zur Hauptsteckdose und weiter vor das Gebäude zu einer Stromquelle – einer Wind Turbine oder einem Solar Panel (diese musst du dieses Mal selbst herstellen – du kannst dich alternativ auch direkt mit deinem Boot verbinden).",
+     "Gehe dann hinein und lege den Stromschalter um, sobald alle Kabel angeschlossen sind.",
+     "Jetzt kannst du wieder zum Haupteingang gehen und die Tür öffnen. Bevor du jedoch den Human Pod hineinbringst, solltest du zunächst selbst hinein und alle corrupted pods beseitigen, die dir die Navigation erschweren (wir empfehlen einen Flamethrower – er ist gegen sie am effektivsten).",
+     "Sobald der Weg frei ist, bring den Pod an den Empfangstheken vorbei zum Aufzug. Oben am Aufzug angekommen, nutzt du einen weiteren Lift, um dich zur Raketen-Plattform zu bringen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/2/20/The-last-caretaker-beacon.jpg/730px-The-last-caretaker-beacon.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5e/The-last-caretaker-exodus-station-location.jpg/730px-The-last-caretaker-exodus-station-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/73/The-last-caretaker-exodus-station-entrance-slot.jpg/363px-The-last-caretaker-exodus-station-entrance-slot.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/3e/The-last-caretaker-exodus-station-power-building.jpg/363px-The-last-caretaker-exodus-station-power-building.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0e/The-last-caretaker-exodus-station-power.jpg/730px-The-last-caretaker-exodus-station-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b3/The-last-caretaker-exodus-station-lifts.jpg/730px-The-last-caretaker-exodus-station-lifts.jpg"
+    ]
+   }
+  ]
+ },
+ "earth-is-the-cradle": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Exodus_Station",
+  "sections": [
+   {
+    "heading": "Die Erde ist die Wiege der Menschheit, doch wir können nicht bleiben",
+    "paragraphs": [
+     "Wenn du auf der Startplattform ankommst, besteht dein neues Ziel darin, das Raketenschiff startklar zu machen. Dafür musst du mehrere Dinge erledigen:",
+     "- Platziere den Menschen in der Rakete",
+     "- Schließe die elektrischen Systeme an und aktiviere sie (60,00 kWh)",
+     "- Befülle die Treibstofftanks mit Methane (3000 l)",
+     "- Versorge die Zündsysteme mit Oxygen (12.000 l)",
+     "Bevor du das alles angehst, gehe durch den Eingang der Startrampe und halte dich links -- dort findest du ein weiteres Kraftwerksgebäude. Hier kannst du die Solar Panels und Wind Turbines reparieren, um sie an den Hauptstromanschluss anzuschließen -- das versorgt den Aufzug hier sowie die Beleuchtung ringsum mit Strom, damit du arbeiten kannst.",
+     "WARNUNG: Wenn an der Startrampe kein Strom anliegt, greifen dich zahlreiche Gegner gleichzeitig an und bleiben so lange feindselig, bis der Strom wiederhergestellt ist -- am besten stellst du so schnell wie möglich mithilfe der Wind Turbines und Solar Panels direkt neben dem Kraftwerksgebäude die Stromversorgung wieder her; dafür musst du sie reparieren. -- Aktuell gibt es einen Bug, durch den das Spiel registriert, dass kein Strom vorhanden ist, obwohl er wiederhergestellt wurde. Sollte das passieren, starte das Spiel neu und lade deinen Spielstand erneut -- das sollte das Problem beheben.",
+     "Sobald der Strom wiederhergestellt ist, kannst du den Aufzug nutzen, um zu den Anschlüssen der Rakete zu gelangen (dort schließt du Strom, Methane und Oxygen an).",
+     "Fast alles, was du brauchst, findest du direkt an der Station -- einen Methane Tank, einen Oxygen Tank und eine Maschine, die dir hilft, mehr davon zu erzeugen, allerdings musst du sie erst reparieren. Falls dir Materialien fehlen, fang an, Dinge rund um die Exodus Station zu demontieren -- so solltest du alles bekommen, was du brauchst.",
+     "Für den Strom kannst du entweder Batteries verwenden oder Turbines beziehungsweise Solar Panels aufstellen, um die Rakete direkt mit Strom zu versorgen.",
+     "HINWEIS: Um Methane und Oxygen anzuschließen, musst du Gas Cables freigeschaltet haben -- das findest du im Skills-Menü.",
+     "Der Sabatier Reactor ist die wichtigste Maschine, auf deren Reparatur du dich konzentrieren solltest -- dafür brauchst du eine Menge Materialien, aber im Gegenzug erzeugt er Methane und Oxygen für dich. Damit der Sabatier Reactor funktioniert, benötigst du Strom sowie die beiden weiteren Zutaten, die zur Herstellung von Methane und Oxygen nötig sind.",
+     "Um Methane herzustellen, musst du den Reactor mit CO2 versorgen. CO2 erhältst du von Generatoren, die mit Petrol betrieben werden. Am einfachsten richtest du dafür einen Large Electric Generator ein und verbindest die CO2-Leitung mit deinem Reactor (HINWEIS: Damit das CO2 durchgehend fließt, musst du gleichzeitig ausreichend Petrol herstellen).",
+     "Oxygen herzustellen ist etwas einfacher -- dafür brauchst du nur Water. Für einen konstanten Wasserfluss kannst du die Water Pumps auf der Ebene direkt darunter reparieren und einen Water Purifier herstellen. Verbinde die Water Cables mit dem Reactor, und er wandelt das Wasser in Oxygen um.",
+     "(HINWEIS: Alternativ kannst du auch einfach Water Containers zusammen mit dem Reactor verwenden und gleichzeitig einen Oxygen Generator betreiben, um den Prozess zu beschleunigen.)",
+     "Sobald deine Rocket mit allem nötigen Treibstoff befüllt ist, nimm unten den Aufzug mit deinem Human Pod. Oben angekommen, betätige den Schalter, um eine Rampe zur Luke zu öffnen. Wenn du diese Luke öffnest, kannst du den Human Pod hineinlegen.",
+     "ERFOLGE: Du kannst zusammen mit dem Human Pod noch weitere Gegenstände in die Luke der Rakete legen -- wenn du einen Teddy Bear und 100 Survival Dollars mit hochschickst (beide findest du in der Eingangshalle der Exodus Station), kannst du folgende Erfolge freischalten:",
+     "Schicke 100 Survival Dollar-Horte ins All. Einst versprachen sie Wohlstand; nun verlassen sie die Erde als schwerelose Monumente eines Wertesystems, das seine eigenen Menschen überdauert hat - erhalten, indem du 100 Survival Dollars in die Luke der Rakete legst, bevor sie ins All gestartet wird (einige davon findest du im Lobbybereich der Exodus Station)",
+     "Schicke einen Teddy in die Umlaufbahn. Einst suchte er in überfluteten Straßen nach einem Kind, das nie zurückkehrte; nun verlässt er den Planeten, noch immer in dem Glauben, es finden zu können - erhalten, indem du einen Teddy Bear in die Luke der Rakete legst, bevor sie ins All gestartet wird (einen findest du im Lobbybereich der Exodus Station)",
+     "Jetzt kommen wir zum letzten Schritt -- dem Anfordern des Starts. Dazu musst du zum Launch Control-Gebäude gehen (auf der rechten Seite des Raketenbereichs). Auch dieser Bereich benötigt Strom.",
+     "Wenn du drinnen bist, interagiere mit dem Terminal und drücke den Knopf „Request Launch“. Das startet einen Countdown und schickt deine Rakete anschließend ins All!",
+     "HINWEIS: Nach dem Start der Rakete halte Ausschau nach einer Kapsel, die in der Nähe der Exodus Station ins Wasser fällt -- darin befinden sich zufällige Materialien und Gegenstände als Belohnung für die abgeschlossene Lieferung.",
+     "Erste Lieferung - erhalten, indem du die Rakete an der Exodus Station zum ersten Mal startest"
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/0/06/The-last-caretaker-exodus-station-power-2.jpg/730px-The-last-caretaker-exodus-station-power-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/91/The-last-caretaker-exodus-station-fuel-tanks.jpg/730px-The-last-caretaker-exodus-station-fuel-tanks.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5a/The-last-caretaker-exodus-station-rocket-fuel-tanks.jpg/363px-The-last-caretaker-exodus-station-rocket-fuel-tanks.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/60/The-last-caretaker-exodus-station-sabatier-reactor.jpg/730px-The-last-caretaker-exodus-station-sabatier-reactor.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/84/The-last-caretaker-methane.jpg/363px-The-last-caretaker-methane.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/97/The-last-caretaker-oxygen.jpg/363px-The-last-caretaker-oxygen.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/55/The-last-caretaker-human-pod-rocket.jpg/730px-The-last-caretaker-human-pod-rocket.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/84/The-last-caretaker-request-launch.jpg/730px-The-last-caretaker-request-launch.jpg"
+    ]
+   }
+  ]
+ },
+ "the-last-listener": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Last_Listener_Station",
+  "sections": [
+   {
+    "heading": "Der letzte Lauscher",
+    "paragraphs": [
+     "Nachdem du deine erste Rakete ins All geschickt hast, erhältst du sofort die Quest, die Last Listener Station zu finden. Diese Station funktioniert ähnlich wie ein Navigation Beacon, und auch wenn der Last Listener nicht namentlich auf deiner Karte angezeigt wird, findest du ihn anhand des Symbols, das den anderen Navigation Beacons entspricht -- er liegt nordöstlich der Exodus Station.",
+     "Wenn du am Ort ankommst, legst du unterhalb des Turms mit dem roten Licht an der Spitze an -- dort findest du eine Leiter, die nach oben führt.",
+     "HINWEIS: Bevor du dein Boot verlässt, solltest du dich mit Munition für deine Waffen eindecken, alle Explosivstoffe mitnehmen, die du hast, und ein paar Heilgegenstände griffbereit haben -- hier musst du mehrere Gegner bekämpfen (darunter drei normale Roller Bots und einen besonders robusten).",
+     "Nachdem du die erste Leiter erklommen hast, betrittst du einen Lagerbereich mit mehreren Regalen und Gegenständen, die du zerlegen kannst. Hier kämpfst du gegen den ersten Roller Bot. Gehe anschließend die Treppe hoch, um die Spitze des ersten Turms zu erreichen. Dort findest du ein Kraftwerksgebäude -- du musst hier den Strom wiederherstellen, um den Steg zum nächsten Turm auszufahren.",
+     "Du kannst eine Batterie verwenden oder eine Stromquelle wie ein Solar Panel oder eine Wind Turbine aufstellen. Betätige dann den Schalter neben dem Hauptanschluss im Gebäude. Danach kannst du den Schalter am Rand des Turms drücken, um den Steg auszufahren.",
+     "Gehe über den Steg, und du erreichst zwei weitere Gebäude -- eines mit einem weiteren Stromanschluss und eines mit dem Navigational Array. Außerdem musst du gegen zwei weitere Roller Bots kämpfen.",
+     "Nachdem du die Roller Bots ausgeschaltet hast, gehe zum kleineren Gebäude auf der linken Seite und stelle den Strom wie im ersten Kraftwerksgebäude wieder her. Du kannst weitere Solar Panels/Wind Turbines oder eine Batterie anschließen und den Schalter betätigen (das ist nötig, um die Tür zum Navigationsgebäude zu öffnen).",
+     "Betritt das größere Gebäude, sobald du den Strom wiederhergestellt hast, und gehe die Treppe hoch, um das Relay im Raum zu finden -- dieses Relay funktioniert genauso wie die an den Navigational Beacon-Standorten -- du musst aufs Dach steigen, die Arrays reparieren und das Relay anschließend auf 100% aufladen.",
+     "HINWEIS: Versuche, im Relay-Raum alles zu zerlegen, was möglich ist -- du erhältst dabei Ultra Tech Scraps und High-Tech Scraps.",
+     "Gehe im selben Gebäude weiter die Treppe hoch, um das Dach zu erreichen. Dort erwartet dich ein weiterer Roller, und du findest vier Arrays, die repariert werden müssen. Um die vier Arrays zu reparieren, benutze dein Repair Tool sowie folgende Materialien für jedes einzelne:",
+     "- Iron x4",
+     "- Plastic x2",
+     "- Copper x2",
+     "Sobald du die Arrays repariert hast, musst du nur noch das Relay aufladen. Das gelingt, indem du es direkt mit deinen Stromquellen draußen verbindest oder tragbare Batteries mit hochbringst und anschließt (wir finden es schneller, einfach Batteries herzustellen und sie direkt am Relay anzuschließen).",
+     "Wenn das Relay vollständig aufgeladen ist, betätige den Schalter daran, und du erhältst die Standorte aller Human Seed Vaults auf der Karte -- so kannst du weiterhin Menschen heranwachsen lassen und sie ins All schicken.",
+     "WARNUNG: Solltest du die Last Listener Station weiter erkunden wollen -- Vorsicht vor dem besonders robusten Roller auf der unteren Ebene des zweiten Turms (derselbe Turm wie das Relay). Während die normalen Roller nicht viel Schaden anrichten, verfügen diese über tödliche Waffen, die deine HP deutlich schneller aufbrauchen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/1/13/The-last-caretaker-last-listener-location.jpg/730px-The-last-caretaker-last-listener-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/69/The-last-caretaker-last-listener-dock.jpg/730px-The-last-caretaker-last-listener-dock.jpg",
+     "https://cdn.staticneo.com/ew/thumb/d/dd/The-last-caretaker-last-listener-power-1.jpg/363px-The-last-caretaker-last-listener-power-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/7d/The-last-caretaker-last-listener-walkway.jpg/363px-The-last-caretaker-last-listener-walkway.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/39/The-last-caretaker-last-listener-power-2.jpg/730px-The-last-caretaker-last-listener-power-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/cb/The-last-caretaker-last-listener-repair-arrays.jpg/730px-The-last-caretaker-last-listener-repair-arrays.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/aa/The-last-caretaker-last-listener-charge-relay.jpg/730px-The-last-caretaker-last-listener-charge-relay.jpg"
+    ]
+   }
+  ]
+ },
+ "one-before-me": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/One_Before_Me",
+  "sections": [
+   {
+    "heading": "Einer vor mir",
+    "paragraphs": [
+     "Damit diese Quest ausgelöst wird, musst du zunächst den dazugehörigen Ort finden -- dadurch wird eine Sprachzeile sowie die folgenden Aufgaben ausgelöst. Der Ort ist Sanctuary 12; du findest ihn südwestlich der Last Listener Station beziehungsweise nordwestlich der Exodus Station (es ist dasselbe Symbol wie die Startposition).",
+     "HINWEIS: Bevor du diese Quest angehst, solltest du mindestens Level 10 erreicht haben, damit du Zugang zu Security 2-Türen hast.",
+     "Wenn du am Sanctuary ankommst, musst du einen Weg hinein finden, da das große Hangartor geschlossen ist. Der einzige Weg hinein führt über das Dach, über die Leitern oder die Außentreppe des Gebäudes.",
+     "Auf dem Dach findest du zahlreiche Stromquellen sowie eine Tür, die ins Gebäude führt (im ersten Raum stehen ein Fabricator und ein Recycler). Gehe in diesem Raum die Treppe hinunter, und du findest den Hauptstromanschluss samt Schalter.",
+     "Um den Strom wiederherzustellen, verbinde die Electrical Cables von der Large Battery-Station links mit dem Anschluss direkt vor dir (das läuft genauso ab wie im Sanctuary zu Beginn des Spiels). Sobald die Kabel angeschlossen sind, betätige den Schalter.",
+     "Wende dich von hier aus nach links und lasse eine Leiter herunter, um zum Haupthangar zu gelangen (du kannst die Treppe auf der linken Seite hochgehen und den Schalter betätigen, um die Hangartore zu öffnen -- danach kannst du dein Boot hineinbringen, wenn du möchtest).",
+     "Um mit den Questzielen fortzufahren -- den schlummernden Caretaker zu finden -- gehe (mit Blick auf das Hangartor) nach rechts und die Treppe hoch, um eine Security 2-Tür zu finden. Sie öffnet sich für dich, solange Strom vorhanden ist und du das nötige Level (10+) hast.",
+     "Hinter dieser Tür findest du einen kaputten Aufzug. Du musst stattdessen über die Leitern nach ganz unten klettern. Versuche dabei, die corrupted nodes auszuschalten, sonst wirst du von Bots angegriffen.",
+     "Ganz unten findest du eine Tür ohne Strom, doch lass dich nicht täuschen -- du kannst trotzdem hindurch, indem du sie an den gelben Griffen aufziehst.",
+     "Hinter dieser Tür findest du rechts eine Heal Station und eine Backup Machine. Um weiterzukommen, musst du die Treppe hoch und durch die Tür gehen. Auch diese Tür hat keinen Strom, und anders als bei der letzten kannst du sie nicht aufhebeln. Stattdessen müssen wir einen anderen Weg hinein finden.",
+     "Gehe zurück zum Raum mit der Backup Machine und der Heal Station und sieh dir die Kisten an, die in der Mitte des Raums gestapelt sind. Ziehe die Kisten weg oder zerlege sie, um ein Loch im Boden freizulegen, durch das du hinunterfallen kannst. Folge anschließend dem Lüftungsschacht nach vorne.",
+     "Du findest einen Vorsprung mit einem Stuhl und einem Tisch darauf. Klettere hinauf und dann über den Vorsprung an der Wand hinter dem Stuhl, um durch das offene Gitter zu gelangen.",
+     "Durch das Gitter erreichst du die Charging Bay. Durch die Tür unten an der Treppe und links davon können wir den schlummernden Caretaker bereits sehen. Um hineinzukommen und den Questabschluss auszulösen, müssen wir den Raum jedoch mit Strom versorgen.",
+     "Am einfachsten versorgst du den Raum mit Strom und öffnest die Tür, indem du eine Small Battery an den Anschluss anschließt. Du kannst eine mit einem Fabricator auf deinem Boot oder im Sanctuary herstellen (solange dieser mit Strom versorgt wird).",
+     "Gehe anschließend in den Raum und nähere dich dem Caretaker, der genauso aussieht wie du, um die Quest abzuschließen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/d/d5/The-last-caretaker-sanctuary-12.jpg/730px-The-last-caretaker-sanctuary-12.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0f/The-last-caretaker-sanctuary-12-entrance.jpg/363px-The-last-caretaker-sanctuary-12-entrance.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a3/The-last-caretaker-sanctuary-12-entrance-2.jpg/363px-The-last-caretaker-sanctuary-12-entrance-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4f/The-last-caretaker-sanctuary-12-power.jpg/730px-The-last-caretaker-sanctuary-12-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/11/The-last-caretaker-sanctuary-12-security-2-door.jpg/730px-The-last-caretaker-sanctuary-12-security-2-door.jpg",
+     "https://cdn.staticneo.com/ew/thumb/d/d5/The-last-caretaker-sanctuary-12-unpowered-door.jpg/730px-The-last-caretaker-sanctuary-12-unpowered-door.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/bc/The-last-caretaker-sanctuary-12-vent-opening.jpg/363px-The-last-caretaker-sanctuary-12-vent-opening.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/cd/The-last-caretaker-sanctuary-12-charging-bay-entrance.jpg/363px-The-last-caretaker-sanctuary-12-charging-bay-entrance.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a3/The-last-caretaker-sanctuary-12-charging-bay-power.jpg/730px-The-last-caretaker-sanctuary-12-charging-bay-power.jpg"
+    ]
+   }
+  ]
+ },
+ "the-warehouse": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/The_Warehouse",
+  "sections": [
+   {
+    "heading": "Das Lagerhaus",
+    "paragraphs": [
+     "Um diese Quest zu starten, musst du zunächst den dazugehörigen Ort finden -- das Central Warehouse Alpha. Du erreichst es, indem du südöstlich von Sanctuary Dock 37 beziehungsweise nordwestlich der Exodus Station segelst (es hat dasselbe Symbol wie die Sanctuaries -- es liegt ganz unten im Kreis der zentralen Region).",
+     "HINWEIS: Bevor du für die Quest zu diesem Ort reist, solltest du mindestens Level 15 erreicht haben, damit du Zugang zu Security-Level-3-Türen hast.",
+     "Wenn du beim Lagerhaus ankommst, lege dein Boot auf der vorderen linken Seite an (der kleinere Dock -- das ist sicherer, da er weiter von Gegnern und corrupted nodes entfernt ist).",
+     "Springe dann auf den Dock und gehe zur Treppe auf der rechten Seite, um über den Steg zu laufen. Wenn du um das Gebäude herumgehst, findest du den längeren Dockbereich mit zwei großen Hangartoren, die ins Lagerhaus führen -- zunächst müssen wir aber den Strom wiederherstellen.",
+     "HINWEIS: Wenn du den längeren Dockbereich erreichst, triffst du dort auf einen normalen Roller und einen besonders robusten Roller. Du musst sie besiegen (mit etwas Glück helfen dir die Angels dabei und greifen gemeinsam mit dir an).",
+     "Sobald du vom Steg die Treppe hinuntergehst (vorbei an der verschlossenen Tür) und vor den Hangartoren des Lagerhauses ankommst, gehe am Hangar vorbei zur Rückseite des Gebäudes -- dort findest du das Kraftwerksgebäude.",
+     "Richte eine Stromquelle ein (wir haben uns für zwei Solar Panels und eine Wind Turbine entschieden -- du kannst außerdem einen Medium Battery-Speicher aufstellen, damit der Strom konstanter fließt). Schließe alles am Hauptanschluss an und betätige den Schalter.",
+     "Sobald der Strom wiederhergestellt ist, gehe zu den Hangartoren und betätige die Schalter, um sie zu öffnen. WARNUNG: Im Inneren wartet ein weiterer besonders robuster Roller.",
+     "Sobald du im Lagerhaus bist, besteht das Ziel darin, zu den Büros auf der linken Seite zu gelangen. Du wirst feststellen, dass die Tür oben an der Treppe nicht zugänglich ist -- wir müssen also einen kreativeren Weg nach oben finden.",
+     "Versuche, die Leiter an der Wand direkt am hinteren Ende des Lagerhauses zu erreichen, damit du zum Steg gelangst, der zu den Büros führt. Es gibt dafür mehrere Möglichkeiten, wir haben uns aber für den Forklift entschieden.",
+     "Der Forklift steht näher an den Hangartoren. Um ihn zu fahren, musst du ihn zunächst auftanken, indem du einen der Petrol-Kanister anschließt, die neben dem hohen Containerstapel liegen. Bringe ihn dann unter die Leiter und fahre die Gabeln ganz bis zum oberen Ende der Leiter aus.",
+     "Stell dich dann auf den Aufzug rechts von der Leiter und drücke den Aufwärtsknopf, bis er ganz oben ist. Springe vom Aufzug auf die Gabeln des Forklifts, und von dort erreichst du die Leiter.",
+     "Gehe nun geradeaus über den Steg weiter und springe über die Lücken, bis du den Balkon des Bürogebäudes erreichst. Gehe um das Gebäude herum und zerstöre die corrupted nodes, bis du zur Tür gelangst -- das ist eine Security-Level-3-Tür (du musst mindestens Level 15 sein, um sie zu öffnen).",
+     "In diesem Büro sieh dir die Spinde am hinteren Ende des Raums an. Auf der rechten Seite gibt es einen orangefarbenen Griff, mit dem du sie nach rechts ziehen und einen versteckten Raum freilegen kannst.",
+     "Sobald du im geheimen Raum bist, sieh dir die Karten an der Wand an, und die Quest wird abgeschlossen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/3/31/The-last-caretaker-warehouse-location.jpg/730px-The-last-caretaker-warehouse-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/36/The-last-caretaker-warehouse-dock.jpg/363px-The-last-caretaker-warehouse-dock.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f3/The-last-caretaker-warehouse-walkway.jpg/363px-The-last-caretaker-warehouse-walkway.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a6/The-last-caretaker-warehouse-power.jpg/363px-The-last-caretaker-warehouse-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6f/The-last-caretaker-warehouse-hangar-doors.jpg/363px-The-last-caretaker-warehouse-hangar-doors.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5a/The-last-caretaker-warehouse-ladder.jpg/730px-The-last-caretaker-warehouse-ladder.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5a/The-last-caretaker-warehouse-ladder-2.jpg/730px-The-last-caretaker-warehouse-ladder-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f2/The-last-caretaker-warehouse-security-3-door.jpg/363px-The-last-caretaker-warehouse-security-3-door.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/9e/The-last-caretaker-warehouse-secret-door.jpg/363px-The-last-caretaker-warehouse-secret-door.jpg"
+    ]
+   }
+  ]
+ },
+ "the-isolation": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Quarantine_Stack_Amen",
+  "sections": [
+   {
+    "heading": "Die Isolation",
+    "paragraphs": [
+     "Sobald die Quest ausgelöst wird, sollst du zu den Koordinaten des Unlisted Tower reisen -- dieser erscheint nun mit einem turmspitzenartigen Symbol auf deiner Karte. Wenn du dort ankommst, leg das Boot am Fuß der Turmspitze an und arbeite dich per Parkour bis zum Gebäude an der Spitze hoch.",
+     "Auf dem Weg dorthin musst du einige corrupted spores zerstören, also halte eine geladene Waffe bereit.",
+     "Gehe im Gebäude zur alt aussehenden Konsole und drücke den roten Knopf oben rechts, um eine besondere Funkbotschaft zu hören. Damit ist dieser Teil der Quest abgeschlossen (wodurch wir den Jetski freischalten) und wir erhalten eine Folgequest."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/8/82/The-last-caretaker-isolation-radio.jpg/730px-The-last-caretaker-isolation-radio.jpg"
+    ]
+   }
+  ]
+ },
+ "quarantine-stacks": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Quarantine_Stack_Amen",
+  "sections": [
+   {
+    "heading": "Quarantine Stacks",
+    "paragraphs": [
+     "Nachdem wir die Funkbotschaft im Unlisted Tower gehört haben, erhalten wir neue Koordinaten, zu denen wir segeln sollen -- markiert auf unserer Karte: Quarantine Stack Amen. Das liegt direkt nordöstlich des Unlisted Tower."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/f/f8/The-last-caretaker-quarantine-stack-amen-map.jpg/730px-The-last-caretaker-quarantine-stack-amen-map.jpg"
+    ]
+   }
+  ]
+ },
+ "the-codes-of-stone": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Quarantine_Stack_Amen",
+  "sections": [
+   {
+    "heading": "Codes aus Stein",
+    "paragraphs": [
+     "Sobald du am Ort ankommst, erhältst du ein neues Questziel: Finde den Tresor innerhalb von Quarantine Stack Amen.",
+     "Sobald du dein Boot anlegst, siehst du das große Hangartor am Fuß der Turmspitze. Du kannst den Hebel daneben betätigen, um es zu öffnen – dafür benötigen wir jedoch Strom.",
+     "Der knifflige Teil an diesem Ort ist es, das Kraftwerksgebäude zu erreichen. Anders als bei manchen Orten befindet sich die Steckdose nicht im Gebäude direkt neben dem Haupteingang (dort findest du nur einen Speicher- und Heilpunkt). Um zum Kraftwerksgebäude zu gelangen, musst du dich per Parkour den gesamten Turm bis ganz nach oben hocharbeiten.",
+     "HINWEIS: Bevor du das versuchst, stelle sicher, dass du einige Enhancer-Punkte in Fallschaden investiert hast – das kann nützlich sein, falls du hier versehentlich einen Sprung verpasst.",
+     "Sobald der Strom eingerichtet ist (eine Small Battery reicht dafür aus), kannst du wieder nach unten gehen und das Hangartor öffnen. Sei darauf vorbereitet, direkt dahinter gegen einen Heavy-Duty Roller zu kämpfen – du wirst reichlich Munition brauchen, um ihn auszuschalten.",
+     "Gehe anschließend die Rampe hinunter, um die Tresortür zu finden."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/8/89/The-last-caretaker-quarantine-power.jpg/730px-The-last-caretaker-quarantine-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4c/The-last-caretaker-quarantine-vault.jpg/730px-The-last-caretaker-quarantine-vault.jpg"
+    ]
+   }
+  ]
+ },
+ "signal-chain": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Quarantine_Stack_Amen",
+  "sections": [
+   {
+    "heading": "Signalkette",
+    "paragraphs": [
+     "Um den Tresor zu öffnen, benötigen wir vier Triodes, die wir in die Maschine einsetzen müssen. Eine davon können wir direkt jetzt bekommen, indem wir die kleine Maschine links neben der großen Konsole mit unserem Replica Scanner scannen.",
+     "Die restlichen Triodes sind auf drei verschiedenen Turmspitzen rund um Quarantine Stack Amen verteilt. Um herauszufinden, wo sie sich befinden, sieh dir die Karte rechts neben der Tresortür an.",
+     "Am besten erreichst du die einzelnen Turmspitzen und scannst die Triodes mit dem Jetski. Falls du ihn noch nicht gebaut hast, ist jetzt der perfekte Zeitpunkt, ihn sinnvoll einzusetzen. Du benötigst folgende Materialien:",
+     "- Alloy Frame x2",
+     "- Battery Cell x1",
+     "- Connector Ports x2",
+     "- Cooling Radiator x1",
+     "- Logic Chip x1",
+     "- Advanced Alloy Mesh x1",
+     "Außerdem brauchst du einen Petrol Engine Cylinder, den du hinten am Jetski anbringst, sowie Petrol zum Betanken. Ein Kanister Petrol reicht für diese Quest aus.",
+     "Mit deinem neuen Transportmittel kannst du nun zu jedem der Orte fahren:",
+     "- Quarantine Stack Chorus: Hier findest du die Triode an der Konsole im Gebäude an der Spitze des Turms. Du musst dich per Parkour nach oben arbeiten und auf korrumpierte Sporen achten.",
+     "- Quarantine Stack Dawn: Dieser Ort hat einen eingezäunten Bereich mit drei Rollers darin – du kannst versuchen, sie zu bekämpfen, oder zum linken Turm laufen, um die Triode zu finden.",
+     "- Quarantine Stack Aurora: An dieser Turmspitze gibt es keine Vertäuungsmöglichkeit für deinen Jetski, versuche also, ihn irgendwo abzustellen, wo er sich nicht groß bewegt (im Zweifel musst du ihm hinterherschwimmen). Du musst die Leiter hochklettern und dich per Parkour bis zur Spitze des Turms vorarbeiten, um die Triode zu finden.",
+     "Sobald du alle Triodes gescannt hast, musst du sie alle von Grund auf mit den richtigen Materialien herstellen. Sie benötigen alle dieselben Materialien:",
+     "- Titanium x4\nGold x2\nCopper x2",
+     "- Titanium x4",
+     "- Gold x2",
+     "- Copper x2",
+     "HINWEIS: Falls du nicht genug von diesen Materialien hast, schau dich einfach am Turm um und nutze deinen Extractor, um Erzvorkommen abzubauen.",
+     "Sobald du alle hergestellt hast, bring sie zur Konsole und setze sie ein. Du musst außerdem die Konsole mit Strom versorgen – dafür kannst du Kabel herunterführen oder eine Small Battery verwenden.",
+     "Anschließend öffnet sich der Tresor, und du kannst deine Belohnung einsammeln: ein Scan-500-Anbauteil. Du kannst es an der neuen Sonar-Maschine anbringen, um deine Scanreichweite zu erhöhen, sodass du mehr Objekte unter Wasser aufspüren kannst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/b/bc/The-last-caretaker-triodes-1.jpg/730px-The-last-caretaker-triodes-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/7a/The-last-caretaker-triodes-map.jpg/730px-The-last-caretaker-triodes-map.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/38/The-last-caretaker-build-jetski.jpg/363px-The-last-caretaker-build-jetski.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/cd/The-last-caretaker-petrol-engine-cylinder.jpg/363px-The-last-caretaker-petrol-engine-cylinder.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/5b/The-last-caretaker-triode-spire-1.jpg/363px-The-last-caretaker-triode-spire-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/e5/The-last-caretaker-triode-2.jpg/363px-The-last-caretaker-triode-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/33/The-last-caretaker-triode-spire-2.jpg/363px-The-last-caretaker-triode-spire-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/9c/The-last-caretaker-triode-3.jpg/363px-The-last-caretaker-triode-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/6c/The-last-caretaker-triode-spire-3.jpg/363px-The-last-caretaker-triode-spire-3.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0a/The-last-caretaker-triode-4.jpg/363px-The-last-caretaker-triode-4.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/8b/The-last-caretaker-slot-triodes.jpg/730px-The-last-caretaker-slot-triodes.jpg"
+    ]
+   }
+  ]
+ },
+ "omega-nursery": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Omega_Nursery",
+  "sections": [
+   {
+    "heading": "Die Omega-Kinderstube",
+    "paragraphs": [
+     "Um diese Quest zu beginnen (Teil von Update 03), begib dich zu dem Ort auf der Karte mit dem Hai-Symbol – er liegt im zentralen Bereich auf der Südostseite. Die Quest wird ausgelöst, sobald wir am Ort ankommen und einen der verschlossenen Türme rund um jedes Gehege betrachten.",
+     "Wenn du dort ankommst, siehst du, dass das Areal aus vier verschiedenen umzäunten Bereichen besteht. Jeder dieser Bereiche hat ein Warnschild für eine andere Hai-Art. Du kannst die Tore zu diesen Gehegen öffnen, indem du die Hebel auf beiden Seiten jedes Tors umlegst. Zuerst müssen wir jedoch die Anlage mit Strom versorgen.",
+     "Auf der gegenüberliegenden Seite der Anlage siehst du ein größeres Gebäude, das etwas anders geformt ist als die übrigen Türme. Das ist das Kraftwerk. Um es mit Strom zu versorgen, solltest du einige Stromgeneratoren bauen: eine Wind Turbine und/oder ein paar Solar Panels. Wir haben welche auf dem Dach errichtet und dann Strom ins Gebäude hinuntergeführt, um ihn mit dem Stromschalter zu verbinden.",
+     "Sobald die Gehege mit Strom versorgt sind, kannst du zu jedem einzelnen gehen und alle Tore öffnen – das erleichtert es, mit deinem Boot hinein- und herauszufahren. Möglicherweise befinden sich bereits Haie darin, sei also vorsichtig.",
+     "Um in die einzelnen Türme zu gelangen, müssen wir jedem eine bestimmte Anzahl an Haien liefern:",
+     "- Talon Shipsharks x4 zu Bay 1 – das sind die Ram Sharks, die besonders schnell sind und sehr laute Rammgeräusche machen, wenn sie in der Nähe sind.",
+     "- Talon Sharks x2 zu Bay 2 – das sind die Haie mit den auffällig gelben Flossen, die wir beim Segeln überall in den Ozeanen sehen, und sie gehören zu den größten Arten.",
+     "- Talon Shark – Dorsal Model x1 zu Bay 3 – das sind die Haie mit den Geschützluken auf dem Kopf, die dich beim Angriff mit einem Laser beschießen.",
+     "Um jede Hai-Art zum richtigen Gehege zu bringen, solltest du die Haie töten, sobald du in den Gewässern in der Nähe der Anlage auf sie triffst (viele von ihnen spawnen recht nah dran, damit die Quest bequemer wird). Sie müssen NICHT lebendig sein – es ist deutlich einfacher, sie tot zu liefern.",
+     "Sobald sie tot sind, schnapp dir das Mooring Cable von der Seite deines Schiffs und befestige es an der Stelle auf dem Kopf des Hais. Anschließend kannst du den Hai zum richtigen Gehege schleppen und das Mooring Cable an einer der Gehegewände befestigen, um den Hai dort zu halten. Die Haie müssen nicht am Gehege vertäut sein, damit es zählt, aber so behältst du leichter den Überblick, wie viele du schon hast.",
+     "HINWEIS: Alternativ kannst du versuchen, sie ins Gehege zu locken und sie dort zu töten, während sie sich bereits darin befinden.",
+     "Sobald sich die richtige Anzahl an Haien im passenden Gehege befindet, geh zum Turm – am Keypad draußen siehst du, dass die Tür für dich entriegelt ist. Du kannst hineingehen und findest dort tolle Beute wie Artefakte und seltenen Schrott.",
+     "ES GIBT NOCH MEHR – wirf einen Blick darauf, was du in den unteren Ebenen dieser Anlage in der Quest Project Jonah noch alles tun kannst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/7/71/The-last-caretaker-omega-nursery-map-location.jpg/730px-The-last-caretaker-omega-nursery-map-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/e9/The-last-caretaker-omega-nursery-power-station.jpg/730px-The-last-caretaker-omega-nursery-power-station.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/70/The-last-caretaker-talon-shipsharks.jpg/363px-The-last-caretaker-talon-shipsharks.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/71/The-last-caretaker-talon-sharks.jpg/363px-The-last-caretaker-talon-sharks.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/9d/The-last-caretaker-talon-shark-dorsal.jpg/363px-The-last-caretaker-talon-shark-dorsal.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/8c/The-last-caretaker-shark-mooring-line.jpg/730px-The-last-caretaker-shark-mooring-line.jpg",
+     "https://cdn.staticneo.com/ew/thumb/2/27/The-last-caretaker-omega-nursery-towers.jpg/730px-The-last-caretaker-omega-nursery-towers.jpg"
+    ]
+   }
+  ]
+ },
+ "round-this-quiet-secrets": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Talon_Offshore_Proving_Deck",
+  "sections": [
+   {
+    "heading": "Runde Dinge, stille Geheimnisse",
+    "paragraphs": [
+     "Wenn du am Talon Offshore Proving Deck ankommst, geh vom Anlegeplatz aus zum vorderen Gebäude direkt vor dir. Zunächst musst du die Anlage mit Strom versorgen. Am besten baust du dafür einen Stromgenerator: eine Wind Turbine oder ein Solar Panel. Von dort kannst du Stromkabel bis zum Stromschalter im oberen Stockwerk des Gebäudes verlegen.",
+     "Repariere zuerst die Steckdose mit Iron x4, schließe dein Kabel an und lege den Schalter um.",
+     "Sobald der Strom eingerichtet ist, solltest du vor dem Weitermachen sicherstellen, dass du mit Munition, Heilmitteln und anderen Kampf-Items ausreichend versorgt bist. Geh dann zum Aufzug auf der rechten Seite des Kraftwerksgebäudes und benutze ihn, um in die untere Ebene zu gelangen.",
+     "In der Mitte dieses Bereichs, vor dem Gebäude, betätigst du den Knopf, um die Lagerhallentore zu öffnen. Ein fortgeschrittener Rollerboi kommt heraus, den du besiegen musst.",
+     "Sobald der Rollerboi besiegt ist, geh in die Lagerhalle hinein und die Treppe rechts hinauf. Dort findest du das F.E.L.I.S.-Prototypgerät auf einem Sockel. Nutze deinen Scanner, um den Prototypen zu scannen und die Baupläne dafür zu erlernen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/3/31/The-last-caretaker-talon-offshore-proving-deck-power.jpg/730px-The-last-caretaker-talon-offshore-proving-deck-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/a/a5/The-last-caretaker-talon-elevator.jpg/363px-The-last-caretaker-talon-elevator.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4a/The-last-caretaker-talon-warehouse-button.jpg/363px-The-last-caretaker-talon-warehouse-button.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/cd/The-last-caretaker-felis-prototype.jpg/730px-The-last-caretaker-felis-prototype.jpg"
+    ]
+   }
+  ]
+ },
+ "a-loyal-sphere": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Talon_Offshore_Proving_Deck",
+  "sections": [
+   {
+    "heading": "Eine treue Sphäre",
+    "paragraphs": [
+     "Unser nächster Schritt ist es, uns selbst ein F.E.L.I.S. herzustellen. Dafür benötigst du einige unterschiedliche Materialien:",
+     "- Alloy Frame x2",
+     "- Battery Cell x1",
+     "- Power Core x1",
+     "- Cooling Radiator x1",
+     "- Logic Chip x1",
+     "- Advanced Alloy Mesh x2",
+     "- F.E.L.I.S. Shell x1",
+     "HINWEIS: Quantum Crystals sind das am schwersten zu sammelnde Item; du brauchst sie, um die F.E.L.I.S. Shell herzustellen – du kannst welche als Belohnung dafür bekommen, dass du Menschen ins All schickst, also mach in dieser Mission Fortschritte, um welche zu verdienen.",
+     "Alternativ findest du auch Erz an den neuen Stacks-Turmspitzen. Schau dir die Spitzen der Türme genau an und schieß mit einem Scharfschützengewehr welches herunter. Sie leuchten hellgrün.",
+     "Sobald du das F.E.L.I.S. hergestellt hast, folgt es dir und unterstützt dich in jedem Kampf, in den du geraten könntest."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/a/a5/The-last-caretaker-quantum-crystal.jpg/730px-The-last-caretaker-quantum-crystal.jpg"
+    ]
+   }
+  ]
+ },
+ "friendly-by-design": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Talon_Offshore_Proving_Deck",
+  "sections": [
+   {
+    "heading": "Freundlich by Design",
+    "paragraphs": [
+     "Um die Quest für den anderen Begleiter-Typ zu starten – die Sweethearts –, musst du lediglich einen beliebigen Broken Sweetheart scannen, dem du begegnest. Du findest einen im Raum mit dem F.E.L.I.S.-Prototypen, sodass du beide Quests gleichzeitig beginnen kannst.",
+     "Sobald du die Quest durch das Scannen eines Broken Sweetheart ausgelöst hast, musst du insgesamt 25 Broken Sweethearts scannen, um die Baupläne für einen eigenen zu erlernen. Du findest sie verteilt in vielen verschiedenen Habitaten, besonders in solchen mit Gegnern und korrumpierten Knoten (die blau gefärbten enthalten die Sweethearts).",
+     "TIPP: Ein Ort, an dem es besonders viele Sweethearts gibt, ist Helios Reserve Gemini. Dort findest du ebenfalls blaue korrumpierte Knoten – versuche, sie nicht vollständig zu zerstören, dann kannst du immer wieder neue Sweethearts spawnen lassen und sie farmen.",
+     "Sobald du alle 25 gescannt hast, kannst du die Baupläne im Skills-Menü freischalten und sie anschließend an einem Fabricator herstellen mit:",
+     "- Iron x5",
+     "- Copper x5",
+     "Sie funktionieren wie Granaten. Rüste sie in deinem Holster aus und halte dann M1 gedrückt, um sie zu werfen – sie bleiben in deiner Nähe und greifen anschließend Gegner an, sobald diese in Reichweite kommen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/f/f8/The-last-caretaker-scan-sweetheart.jpg/730px-The-last-caretaker-scan-sweetheart.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/59/The-last-caretaker-fabricate-sweethearts.jpg/730px-The-last-caretaker-fabricate-sweethearts.jpg"
+    ]
+   }
+  ]
+ },
+ "seats-of-care": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Council_of_Humanity",
+  "sections": [
+   {
+    "heading": "Sitze der Fürsorge",
+    "paragraphs": [
+     "Wenn du mit dem vorderen Computer interagierst, stehen dir zwei Optionen zur Auswahl: Committees oder Humans. Der Humans-Tab zeigt uns die Arten von Menschen, die wir bereits ins All geschickt haben. Der Committees-Tab ist das, was uns jetzt interessiert – hier können wir Komitees für die Menschen im All einrichten, die es ihnen ermöglichen, wichtige Lebensweisen festzulegen und Bildung, Ausbildung sowie verschiedene Gesetze zu priorisieren.",
+     "Für diese Quest richten wir das Habitat-Care-Komitee ein. Wähle es aus der Liste aus und drücke F, um es zu bilden. Jedes Komitee, das wir bilden, benötigt bestimmte Menschentypen als Mitglieder.",
+     "Unser nächster Schritt besteht also darin, die für das Komitee benötigten Menschen zu erschaffen (falls wir sie nicht bereits ins All geschickt haben). Du brauchst:",
+     "WARNUNG: Du kannst beim Versuch, diese Menschen zu erschaffen, versehentlich andere Menschentypen erzeugen, wenn du Artefakte verwendest, die passende Eigenschaften für andere Menschentypen liefern. Versuche stattdessen, nur Artefakte mit den spezifischen Eigenschaften zu verwenden, die du für jeden dieser Menschen benötigst. Wenn der unten aufgeführte Menschentyp als einziger mit 100 % angezeigt wird, weißt du, dass du ihn garantiert bekommst.",
+     "- Room Supervisor \nCommunication: 4\nEmpathy: 3\nLeadership: 5\nWeight: 20 kg\nHeight: 30 cm\nLife Exp: 40 y",
+     "- Communication: 4",
+     "- Empathy: 3",
+     "- Leadership: 5",
+     "- Weight: 20 kg",
+     "- Height: 30 cm",
+     "- Life Exp: 40 y",
+     "- Health Assistant\nEmpathy: 5\nPatience: 5\nWisdom: 3\nWeight: 50 kg\nHeight: 30 cm\nLife Exp: 10 y",
+     "- Empathy: 5",
+     "- Patience: 5",
+     "- Wisdom: 3",
+     "- Weight: 50 kg",
+     "- Height: 30 cm",
+     "- Life Exp: 10 y",
+     "- Teacher\nCommunication: 15\nWisdom: 10\nPatience: 12\nWeight: 60 kg\nHeight: 160 cm\nLife Exp: 10 y",
+     "- Communication: 15",
+     "- Wisdom: 10",
+     "- Patience: 12",
+     "- Weight: 60 kg",
+     "- Height: 160 cm",
+     "- Life Exp: 10 y",
+     "- Lab Technician :\nIntellect: 80\nWisdom: 3\nLogic: 5\nPatience: 5\nWeight: 20 kg\nHeight: 30 cm\nLife Exp: 10 y",
+     "- Intellect: 80",
+     "- Wisdom: 3",
+     "- Logic: 5",
+     "- Patience: 5",
+     "- Weight: 20 kg",
+     "- Height: 30 cm",
+     "- Life Exp: 10 y",
+     "Sobald du diese speziellen Menschen ins All geschickt hast, werden sie zu Mitgliedern des Komitees. Geh zurück zum Council of Humanity und nimm dort bei Habitat Care die Quest True Choices an."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/9/9a/The-last-caretaker-habitat-care.jpg/730px-The-last-caretaker-habitat-care.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f3/The-last-caretaker-creating-habitat-members.jpg/730px-The-last-caretaker-creating-habitat-members.jpg"
+    ]
+   }
+  ]
+ },
+ "true-choices": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Council_of_Humanity",
+  "sections": [
+   {
+    "heading": "Wahre Entscheidungen",
+    "paragraphs": [
+     "Nachdem wir ein vollständiges Habitat-Care-Komitee haben, können wir unsere nächste Aufgabe annehmen: True Choices. Für diese Quest müssen wir zur Courier Sieve Node Facility reisen. Du findest sie ganz im Südosten der Karte, etwa 6,2 km von Exodus Station entfernt (sie wird für die Quest auf deiner Karte markiert). Wenn du ankommst, manövriere vorsichtig zwischen den Felsen hindurch. Versuche, ihnen nicht zu nahe zu kommen, da du sonst stecken bleiben kannst. Das Gebäude liegt mitten zwischen ihnen.",
+     "Wie üblich solltest du zuerst das Kraftwerksgebäude finden, um die gesamte Anlage mit Strom zu versorgen. Das Kraftwerksgebäude ist hier gelb gefärbt und befindet sich auf der vorderen rechten Seite des Gebäudes – eine Small Battery reicht hier für die Quest bereits aus.",
+     "Sobald der Strom eingerichtet ist, geh ins Hauptgebäude – die Tür befindet sich auf der vorderen linken Seite des Gebäudes. Geh drinnen die Treppe hinunter, wo du einige Zeichnungen an einer Steinwand siehst. Geh links an den Zeichnungen vorbei und öffne die Tür. Dort findest du einen Caretaker-Bot neben einer goldenen Kugel.",
+     "Wenn du sie findest, musst du eine Entscheidung treffen:",
+     "- Den perfekten Menschen aus dem Gold Standard heranwachsen lassen und ihn ins All schicken",
+     "- Den Gold Standard recyceln und verhindern, dass es den „perfekten\" Menschen gibt",
+     "HINWEIS: Beide Entscheidungen haben hier Vor- und Nachteile – es liegt ganz bei dir, was du priorisieren möchtest. Wenn du den perfekten Menschen ins All schickst, erhältst du den Star Child, der für bestimmte Komitees im Council of Humanity benötigt wird, während das Recyceln dir hochwertige Materialien einbringt. Es gibt hier keine falsche oder richtige Wahl."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/b/b2/The-last-caretaker-courier-sieve-power-building.jpg/730px-The-last-caretaker-courier-sieve-power-building.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4e/The-last-caretaker-courier-sieve-memory.jpg/730px-The-last-caretaker-courier-sieve-memory.jpg"
+    ]
+   }
+  ]
+ },
+ "true-choices-grow-the-perfect-human": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Council_of_Humanity",
+  "sections": [
+   {
+    "heading": "Wahre Entscheidungen",
+    "paragraphs": [
+     "Nachdem wir ein vollständiges Habitat-Care-Komitee haben, können wir unsere nächste Aufgabe annehmen: True Choices. Für diese Quest müssen wir zur Courier Sieve Node Facility reisen. Du findest sie ganz im Südosten der Karte, etwa 6,2 km von Exodus Station entfernt (sie wird für die Quest auf deiner Karte markiert). Wenn du ankommst, manövriere vorsichtig zwischen den Felsen hindurch. Versuche, ihnen nicht zu nahe zu kommen, da du sonst stecken bleiben kannst. Das Gebäude liegt mitten zwischen ihnen.",
+     "Wie üblich solltest du zuerst das Kraftwerksgebäude finden, um die gesamte Anlage mit Strom zu versorgen. Das Kraftwerksgebäude ist hier gelb gefärbt und befindet sich auf der vorderen rechten Seite des Gebäudes – eine Small Battery reicht hier für die Quest bereits aus.",
+     "Sobald der Strom eingerichtet ist, geh ins Hauptgebäude – die Tür befindet sich auf der vorderen linken Seite des Gebäudes. Geh drinnen die Treppe hinunter, wo du einige Zeichnungen an einer Steinwand siehst. Geh links an den Zeichnungen vorbei und öffne die Tür. Dort findest du einen Caretaker-Bot neben einer goldenen Kugel.",
+     "Wenn du sie findest, musst du eine Entscheidung treffen:",
+     "- Den perfekten Menschen aus dem Gold Standard heranwachsen lassen und ihn ins All schicken",
+     "- Den Gold Standard recyceln und verhindern, dass es den „perfekten\" Menschen gibt",
+     "HINWEIS: Beide Entscheidungen haben hier Vor- und Nachteile – es liegt ganz bei dir, was du priorisieren möchtest. Wenn du den perfekten Menschen ins All schickst, erhältst du den Star Child, der für bestimmte Komitees im Council of Humanity benötigt wird, während das Recyceln dir hochwertige Materialien einbringt. Es gibt hier keine falsche oder richtige Wahl."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/b/b2/The-last-caretaker-courier-sieve-power-building.jpg/730px-The-last-caretaker-courier-sieve-power-building.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/4e/The-last-caretaker-courier-sieve-memory.jpg/730px-The-last-caretaker-courier-sieve-memory.jpg"
+    ]
+   }
+  ]
+ },
+ "mother": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Mother",
+  "sections": [
+   {
+    "heading": "Habitat Node 02-23",
+    "paragraphs": [
+     "Wir haben den Beginn der Quest ausgelöst, indem wir uns Habitat Node 02-23 genähert haben, aber wir müssen es noch etwas genauer erkunden, um „herauszufinden, was zurückgelassen wurde“. Dazu legst du mit deinem Boot auf der rechten Seite (Ostseite) an.",
+     "Halte auf der rechten Seite nach einem Teddybären Ausschau, der auf einem Stuhl am Rand des Docks sitzt. Näherst du dich ihm, wird eine weitere Sprachzeile ausgelöst, wodurch die Quest fortschreitet."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/3/37/The-last-caretaker-habitat-1.jpg/363px-The-last-caretaker-habitat-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/f3/The-last-caretaker-habitat-1-memory.jpg/363px-The-last-caretaker-habitat-1-memory.jpg"
+    ]
+   },
+   {
+    "heading": "Habitat Node 05-X",
+    "paragraphs": [
+     "Sobald du bei Habitat Node 02-23 fertig bist, ist dein nächstes Ziel Habitat Node 05-14.5, im Spiel als Habitat Node 05-X bezeichnet. Du findest es direkt östlich von Habitat Node 02-23.",
+     "Wenn du bei diesem Habitat ankommst, legst du dein Boot unten an und kletterst die Leitern hinauf, um zur Hauptebene zu gelangen. Halte dort nach einem blauen Container Ausschau, den du öffnen kannst (es ist der, dessen Türen von Kisten blockiert werden), und geh hinein. Dort findest du einen Schlafsack, umgeben von Zeichnungen an der Wand."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/2/2d/The-last-caretaker-habitat-2-location.jpg/730px-The-last-caretaker-habitat-2-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/bf/The-last-caretaker-habitat-2.jpg/363px-The-last-caretaker-habitat-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/6/61/The-last-caretaker-habitat-2-memory.jpg/363px-The-last-caretaker-habitat-2-memory.jpg"
+    ]
+   },
+   {
+    "heading": "Habitat Node 08-16",
+    "paragraphs": [
+     "Das letzte Habitat, das du für diesen Abschnitt der Quest besuchen musst, ist Habitat Node 08-16. Leider liegt dieses Habitat ganz im unteren Osten der Karte – die Fahrt dorthin ist etwas weiter. Du findest es südöstlich von Habitat Node 05-X.",
+     "Dieses Habitat hat eher eine quadratische Form, sodass du überall rundherum anlegen kannst. Halte danach nach einem Basketballplatz mit Knicklichtern auf dem Boden Ausschau – dadurch wird die Sprachzeile ausgelöst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/8/8e/The-last-caretaker-habitat-3-location.jpg/730px-The-last-caretaker-habitat-3-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0b/The-last-caretaker-habitat-3-memory.jpg/730px-The-last-caretaker-habitat-3-memory.jpg"
+    ]
+   },
+   {
+    "heading": "Habitat Node 38-98",
+    "paragraphs": [
+     "Sobald du alle drei für die Quest genannten Habitate besucht hast, erhältst du neue Koordinaten für ein letztes Habitat: Habitat Node 38-98. Auch hier musst du eine ganze Strecke segeln, denn es liegt ganz im Nordwesten der Karte (westlich von Habitat Node 02-23).",
+     "Wenn du am markierten Punkt ankommst, hörst du eine weitere Sprachzeile. Lass dich nicht verwirren – segle einfach weiter, bis du die Stelle siehst, an der du anlegen kannst.",
+     "WARNUNG: Bevor du das Gebäude betreten kannst, musst du zunächst einen schwer gepanzerten Roller-Bot besiegen.",
+     "Suche nach einer Tür mit Sicherheitsstufe 3 – dorthin müssen wir. Um hineinzukommen, müssen wir jedoch zuerst den Strom wiederherstellen (und mindestens Level 15+ sein). Ein schneller Weg, den Strom wiederherzustellen, ist, eine Small Battery an die Steckdose im Kraftwerksgebäude direkt gegenüber der verschlossenen Tür anzuschließen.",
+     "Sobald du durch die Sicherheitstür bist, gehst du die Treppe hinunter und durch die Doppeltür, um einen besonderen Raum mit einer Marmorstatue in der Mitte zu erreichen. Hier hörst du die letzte Sprachzeile und schließt die Quest ab!"
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/4/47/The-last-caretaker-last-habitat-location.jpg/730px-The-last-caretaker-last-habitat-location.jpg",
+     "https://cdn.staticneo.com/ew/thumb/d/dd/The-last-caretaker-last-habitat.jpg/363px-The-last-caretaker-last-habitat.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/73/The-last-caretaker-last-habitat-security-door.jpg/363px-The-last-caretaker-last-habitat-security-door.jpg"
+    ]
+   }
+  ]
+ },
+ "eden-cradle": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Eden_Cradle",
+  "sections": [
+   {
+    "heading": "Weg zum Stromraum",
+    "paragraphs": [
+     "- Steh am Aufzug mit Blick auf die nach oben führende Treppe und biege dann rechts ab – du kannst die Tür mit dem Griff aufziehen",
+     "- Gehe geradeaus durch diesen Tunnel, bis du rechts ein schwarz-oranges Fass siehst, und biege dann rechts ab",
+     "- Durchquere diesen Raum mit den zwei Engeln auf dem Tisch und gehe durch die Tür an der hinteren rechten Seite.",
+     "- Folge diesem Tunnel geradeaus, bis du zu einem Tunnel auf deiner linken Seite kommst – nimm diese erste Abzweigung links, und du erreichst den Stromraum.",
+     "Im Stromraum kannst du eine Small Battery verwenden, um alle Tunnel mit Strom zu versorgen. Das hält allerdings nicht ewig, daher solltest du irgendwann Kabel von deiner externen Stromquelle verlegen. Wenn du dich aber beeilst, reicht diese Small Battery aus, um alle für die Quest nötigen Räume zu erreichen.",
+     "Sobald die Tunnel mit Strom versorgt sind, musst du dir Zugang zu allen Saatgutkammern verschaffen. Es gibt insgesamt drei: The First Reserve, The Safe Divide und The Last Remainder. Um die Berechtigung zu erhalten, suche die PECO-Terminals, von denen du die Zugangscodes herunterladen kannst. Wir beginnen mit The First Reserve."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/e/e2/The-last-caretaker-eden-cradle-path-1.jpg/363px-The-last-caretaker-eden-cradle-path-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/46/The-last-caretaker-eden-cradle-path-2.jpg/363px-The-last-caretaker-eden-cradle-path-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b4/The-last-caretaker-eden-cradle-path-3.jpg/363px-The-last-caretaker-eden-cradle-path-3.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zum PECO-Terminal von The First Reserve",
+    "paragraphs": [
+     "Folge vom Stromraum aus diesen Schritten, um das erste PECO-Terminal zu finden:",
+     "- Gehe geradeaus aus dem Stromraum hinaus und biege dann links ab – du erreichst eine geschlossene Tür, die du jetzt öffnen kannst, da sie mit Strom versorgt wird",
+     "- Biege an der mit Strom versorgten Tür am Ende dieses Wegs rechts ab und nimm dann die erste Abzweigung links, um eine weitere mit Strom versorgte Tür zu erreichen. Öffne sie und gehe hindurch",
+     "- Folge diesem Tunnel bis zum Ende und öffne dort die Tür, um den Raum mit dem PECO-Terminal zu betreten.",
+     "Verbinde dich am ersten PECO-Terminal und wähle die Option: „Acquire the First Reserve Chamber Authorization.“"
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/5/58/The-last-caretaker-eden-cradle-path-4.jpg/363px-The-last-caretaker-eden-cradle-path-4.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/94/The-last-caretaker-eden-cradle-peco-1.jpg/730px-The-last-caretaker-eden-cradle-peco-1.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zu The First Reserve",
+    "paragraphs": [
+     "Sobald du am PECO-Terminal Zugang zu The First Reserve erhalten hast, können wir uns auf den Weg zur nun geöffneten Saatgutkammer machen. Folge vom ersten PECO-Terminal aus diesen Schritten:",
+     "- Folge dem Tunnel aus dem PECO-Raum hinaus und durch die mit Strom versorgte Tür. Biege dann rechts ab und noch einmal rechts, um durch die andere mit Strom versorgte Tür zu gehen.",
+     "- Folge diesem Tunnel bis zu einer Tür mit Griff und biege dann links oder rechts ab (dies ist ein Rundraum), um eine weitere Tür zu erreichen – achte in diesem Rundraum auf zwei Roller.",
+     "- Sobald du durch die zweite Tür des Rundraums gegangen bist, biege links ab und gehe geradeaus weiter, um The First Reserve zu erreichen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/1/19/The-last-caretaker-eden-cradle-path-5.jpg/363px-The-last-caretaker-eden-cradle-path-5.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/19/The-last-caretaker-eden-cradle-first-reserve.jpg/730px-The-last-caretaker-eden-cradle-first-reserve.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zum PECO-Terminal von The Safe Divide",
+    "paragraphs": [
+     "Nachdem wir The First Reserve gefunden haben, können wir die nächste Kammer freischalten. Dazu müssen wir erneut ein PECO-Terminal finden, das uns die Berechtigung erteilt. Folge von The First Reserve aus diesen Schritten:",
+     "- Verlasse den Raum von The First Reserve und biege dann links ab",
+     "- Öffne die mit Strom versorgte Tür und überquere die Brücke durch eine weitere Tür mit Griff.",
+     "- Folge weiter dem Tunnel, bis du links abbiegen kannst, und gehe dann durch die Tür mit Griff, um den Aufzugsraum zu erreichen.",
+     "- Gehe vom Aufzugsraum aus die Treppe hinauf und durch den linken Tunnel. Es handelt sich um einen langen Tunnel, der ausschließlich zum PECO-Terminal führt.",
+     "Verwende in diesem Raum das PECO-Terminal, um die Option „Acquire the Safe Divide Chamber Authorization.“ zu wählen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/e/e4/The-last-caretaker-eden-cradle-path-6.jpg/363px-The-last-caretaker-eden-cradle-path-6.jpg",
+     "https://cdn.staticneo.com/ew/thumb/7/73/The-last-caretaker-eden-cradle-path-7.jpg/363px-The-last-caretaker-eden-cradle-path-7.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/80/The-last-caretaker-eden-cradle-peco-2.jpg/730px-The-last-caretaker-eden-cradle-peco-2.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zu The Safe Divide",
+    "paragraphs": [
+     "Sobald wir die Berechtigung für The Safe Divide erhalten haben, können wir uns auf den Weg zur nun freigeschalteten Saatgutkammer machen. Folge vom Raum mit dem PECO-Terminal aus diesen Schritten:",
+     "- Verlasse das PECO-Terminal und gehe den ganzen Weg durch den Tunnel zurück, bis du den Aufzugsraum erreichst.",
+     "- Gehe die Treppe hinunter und dann eine weitere Treppe zu deiner Rechten hinab. Anschließend durch den Tunnel unterhalb der aufsteigenden Treppe",
+     "- Gehe durch diesen Tunnel geradeaus weiter, um die Saatgutkammer von The Safe Divide zu betreten – achte auf den Roller, der dir im Weg steht."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/a/a9/The-last-caretaker-eden-cradle-path-8.jpg/363px-The-last-caretaker-eden-cradle-path-8.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/09/The-last-caretaker-eden-cradle-safe-divide.jpg/730px-The-last-caretaker-eden-cradle-safe-divide.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zum PECO-Terminal von The Last Remainder",
+    "paragraphs": [
+     "Sobald du die zweite Saatgutkammer gefunden hast, können wir zur Freischaltung der letzten übergehen. Folge vom Raum von The Safe Divide aus diesen Schritten, um das letzte PECO-Terminal zu erreichen:",
+     "- Verlasse den Raum von The Safe Divide und biege an der Gabelung links ab",
+     "- Gehe durch eine Tür mit Griff und dann sofort die Treppe auf der linken Seite hinauf. Gehe zur rechten Seite und durch eine weitere Tür mit Griff.",
+     "- Biege links ab, gehe bis zum Ende des Gangs und öffne die mit Strom versorgte Tür",
+     "Verwende das PECO-Terminal, um die Option „Acquire The Last Remainder Chamber Authorization.“ zu wählen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/f/fa/The-last-caretaker-eden-cradle-path-9.jpg/363px-The-last-caretaker-eden-cradle-path-9.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/45/The-last-caretaker-eden-cradle-peco-3.jpg/730px-The-last-caretaker-eden-cradle-peco-3.jpg"
+    ]
+   },
+   {
+    "heading": "Weg zu The Last Remainder",
+    "paragraphs": [
+     "Jetzt haben wir Zugang zur allerletzten Saatgutkammer. Folge vom PECO-Terminal aus diesen Schritten, um sie zu erreichen:",
+     "- Verlasse den Raum mit dem PECO-Terminal und nimm die erste Abzweigung links",
+     "- Folge dem Tunnel und biege dann noch einmal links ab – die rot beleuchtete Saatgutkammer liegt direkt vor dir",
+     "Höre dir die Sprachansage an, wenn du die letzte Saatgutkammer betrittst – anschließend erhalten wir Zugang zum Raum auf der oberen Ebene der Anlage.",
+     "Um zum Aufzug zurückzukehren, verlasse den Raum von The Last Remainder und folge diesen Schritten:",
+     "- Gehe durch den Gang und nimm dann die erste Abzweigung links",
+     "- Gehe durch den Raum mit den Engeln auf dem Tisch, nimm dann den ersten Raum und öffne die Tür mit Griff",
+     "Nimm den Aufzug zurück zur Hauptebene. Gehe nun die Treppe hinauf, und du kannst den oberen Raum betreten. Rüste dein Scanner Tool aus und scanne das Modell in der Mitte des Raums. Damit schließt du diese Quest ab!"
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/4/4d/The-last-caretaker-eden-cradle-path-10.jpg/363px-The-last-caretaker-eden-cradle-path-10.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/12/The-last-caretaker-eden-cradle-last-remainder.jpg/730px-The-last-caretaker-eden-cradle-last-remainder.jpg",
+     "https://cdn.staticneo.com/ew/thumb/5/50/The-last-caretaker-eden-cradle-model.jpg/730px-The-last-caretaker-eden-cradle-model.jpg"
+    ]
+   }
+  ]
+ },
+ "project-eden": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/First_Roots",
+  "sections": [
+   {
+    "heading": "Der Weg zu den ersten Wurzeln",
+    "paragraphs": [
+     "Diese Quest erhältst du, sobald du dein Spiel nach dem Erscheinen des 05-Updates startest. Es handelt sich um eine Fortsetzung von Project Eden. Segle zur neuen Stelle auf der Karte, die als Pishion verzeichnet ist – sie liegt direkt nordöstlich der Last Listener Station.",
+     "Wenn du dort ankommst, findest du nur eine kleine, runde, völlig leere Plattform vor. Das liegt daran, dass du darauf die Eden-Pyramide errichten sollst. Zu Beginn müssen wir den Eden Frame – Small bauen. Geh zum Fabricator, klicke mit der rechten Maustaste auf den Eden Frame und wähle „add missing items to queue“.",
+     "Du benötigst folgende Materialien:",
+     "- Stainless Steel x50",
+     "- Connector Ports x3",
+     "- Storage Cylinder x2",
+     "- Compression Pump x1",
+     "Der größte Teil dieses Bauprojekts ist der Stainless Steel. Um Stainless Steel herzustellen, benötigst du Oil – schließe dazu ein Kabel an den Fabricator an. Oil bekommst du entweder vom Black Vein Oil Rig oder du stellst den neuen Recovery Grinder her.",
+     "Sobald du die Materialien für den Rahmen hast, gehe zur Plattform hinaus, öffne dein Build-Menü und platziere ihn dort, wo er einrastet. Du brauchst reichlich Platz rund um die Plattform, damit der Rahmen darauf sitzen kann – halte dein Boot also etwas weiter zurück und aus dem Weg (stelle sicher, dass du alle nötigen Materialien im Inventar hast).",
+     "Nachdem der Rahmen gebaut ist, besteht der nächste Schritt der Quest darin, eine Anbauplattform zu bauen, die am Rahmen einrastet. Dafür benötigst du Stainless Steel x8. Auch hier kannst du zum Fabricator gehen und „add missing items to queue“ drücken und dann die nötigen Materialien zum Eden Frame bringen. Die Plattform rastet an einem der Stege des Rahmens ein.",
+     "Sobald die Anbauplattform steht, benötigst du mehrere Dinge: Wasser, Strom, Erde und einen Seed zum Einpflanzen, der Regeneration bewirkt.",
+     "Richte zunächst die Stromversorgung ein, indem du eine Wind Turbine oder Solar Panels aufstellst und sie an die Steckdosen des Hauptrahmens anschließt. Danach benötigst du einen Water Purifier, den du an die Water Pump auf der unteren Ebene anschließen kannst. Solange frisches Wasser mit dem Hauptrahmen verbunden ist, werden die Pflanzen automatisch bewässert.",
+     "Wirf beliebiges Bio-Material in die Vertiefung der Anbauplattform. Lege dann den Seed in die Bio-Erde – er beginnt automatisch zu wurzeln. Der Seed muss als „Organic“, „Seed“ gekennzeichnet sein, er darf kein Memory-Item sein.",
+     "Die Quest ist abgeschlossen, sobald der Seed Wurzeln geschlagen hat. Welchen Zweck diese Bäume haben, erfahren wir erst in einem zukünftigen Update. Wir können unseren Rahmen jedoch weiterhin mit noch mehr Plattformen erweitern, die wir im Build-Menü freischalten. Dafür benötigst du allerdings Stainless Steel."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/9/9c/The-last-caretaker-pishion-map.jpg/730px-The-last-caretaker-pishion-map.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/03/The-last-caretaker-eden-frame.jpg/730px-The-last-caretaker-eden-frame.jpg",
+     "https://cdn.staticneo.com/ew/thumb/e/e8/The-last-caretaker-place-eden-frame.jpg/730px-The-last-caretaker-place-eden-frame.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b9/The-last-caretaker-eden-garden-platform.jpg/363px-The-last-caretaker-eden-garden-platform.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0f/The-last-caretaker-eden-power.jpg/363px-The-last-caretaker-eden-power.jpg",
+     "https://cdn.staticneo.com/ew/thumb/0/0f/The-last-caretaker-eden-water.jpg/363px-The-last-caretaker-eden-water.jpg",
+     "https://cdn.staticneo.com/ew/thumb/9/97/The-last-caretaker-eden-seed.jpg/730px-The-last-caretaker-eden-seed.jpg"
+    ]
+   }
+  ]
+ },
+ "salvage-gyro-lost-blueprints": {
+  "sourceUrl": "https://www.neoseeker.com/the-last-caretaker/Lost_Blueprints",
+  "sections": [
+   {
+    "heading": "SGS-SW-115-3225",
+    "paragraphs": [
+     "Dieser erste Turm befindet sich in derselben Region wie der Startort, Sanctuary Dock 37. Wenn du dort ankommst, klettere die Leiter zum Gebäude unterhalb der Landeplattform hinauf. In der Ecke rechts neben der Tür findest du eine Small Battery, mit der du den Strom anschließen kannst. Danach findest du im Inneren die Baupläne an der Wand hängen. Verwende den Replica Scanner, um sie einzuscannen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/7/7d/The-last-caretaker-gyro-blueprints-1.jpg/730px-The-last-caretaker-gyro-blueprints-1.jpg"
+    ]
+   },
+   {
+    "heading": "SGS-NW-115-5100",
+    "paragraphs": [
+     "Dieser zweite Standort befindet sich in der nördlichen Region der Karte, südöstlich der Black Vein Station. Das ist wahrscheinlich der gefährlichste der drei Türme, da es dort zahlreiche Korruptionsnester und große Schwärme von Mosquito-Drohnen gibt, die ordentlich austeilen. Versuche, die gesamte Korruption zu beseitigen, bevor du hineingehst, und nimm ein paar heilende Injections mit. Wenn du das Gebäude unterhalb der Plattform betrittst, blockieren einige Kisten die Tür. Du kannst sie zerlegen, um sie aus dem Weg zu räumen, und dann die Small Battery im Inneren verwenden, um den Raum mit Strom zu versorgen. Sobald der Raum sauber und hell erleuchtet ist, kannst du den Bauplan an der Wand scannen."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/e/e9/The-last-caretaker-gyro-blueprints-2.jpg/730px-The-last-caretaker-gyro-blueprints-2.jpg"
+    ]
+   },
+   {
+    "heading": "SGS-SE-145-6950",
+    "paragraphs": [
+     "Zum Schluss können wir uns zum letzten Bauplan-Standort begeben, der sich in der südöstlichen Region der Karte befindet. Du findest ihn direkt nordöstlich der Exodus Station. Auf dem Weg die Leiter hinauf gibt es keine Korruptionsnester, aber achte auf einen großen Schwarm Green Crawlers, sobald du die Tür des Gebäudes öffnest. Verwende im Inneren die Small Battery (auf dem Regal über dem Schreibtisch), um den Raum mit Strom zu versorgen, und scanne anschließend den letzten Bauplan an der Wand."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/8/82/The-last-caretaker-gyro-blueprints-3.jpg/730px-The-last-caretaker-gyro-blueprints-3.jpg"
+    ]
+   }
+  ]
+ },
+ "a-machine-that-still-flies": {
+  "sourceUrl": [
+   "https://www.neoseeker.com/the-last-caretaker/Lost_Blueprints",
+   "https://www.neoseeker.com/the-last-caretaker/A_Place_to_Land"
+  ],
+  "sections": [
+   {
+    "heading": "So verwendest du den Salvage Gyro",
+    "paragraphs": [
+     "Sobald du alle drei Baupläne gefunden und gescannt hast, können wir nun den Skill zum Bauen freischalten! Öffne dein Skills-Menü, dort findest du die Pläne für den Salvage Gyro auf der 14. Ebene des Baums. Du benötigst 3 Skillpunkte, um ihn freizuschalten.",
+     "Sobald er freigeschaltet ist, gehe ins Build-Menü, wähle ihn aus und platziere ihn auf einer ebenen Fläche – das kann direkt auf dem Hauptdeck deines Bootes sein, achte nur darauf, dass genug Abstand zu Wänden besteht, die die Rotorblätter blockieren könnten. Du benötigst folgende Materialien, um ihn zu bauen:",
+     "- Alloy Frame x3",
+     "- Battery Cell x1",
+     "- Storage Cylinder x1",
+     "- Connector Ports x3",
+     "- Turbine Blade x1",
+     "- Cooling Radiator x1",
+     "- Advanced Alloy Mesh x1",
+     "Sobald er gebaut ist, musst du noch ein paar Schritte erledigen, bevor du losfliegen kannst. Zuerst musst du einen Petrol Engine Cylinder herstellen. Ohne ihn startet der Gyro nicht. Du findest ihn in deinem Fabricator-Menü unter der Kategorie Module/Engine Booster. Bringe den Cylinder dann am Heck des Gyros an – direkt hinter dem Pilotensitz.",
+     "Der letzte Schritt, bevor du losfliegen kannst, ist das Betanken des Gyros. Der Gyro läuft, genau wie der Jetski, mit Petrol. Wenn du bereits einen Vorrat an Petrol hast, kannst du Treibstoffkabel an den Fabricator anschließen und zwei Tanks davon herstellen. Zwei Tanks reichen so gut wie aus, um ihn vollständig zu füllen.",
+     "Sobald der Gyro betankt ist, bist du bereit zum Abheben! Das ist praktisch, um hoch gelegene Orte zu erreichen – besonders die Landeplattformen an jedem dieser Wartungsturm-Standorte.",
+     "Wenn du den Salvage Gyro nicht benutzt, kannst du ihn einfach auf dem Deck deines Bootes stehen lassen. Er hat zwei Haken links und rechts vom Pilotensitz. Diese sind technisch nicht für die Mooring-Punkte gedacht, du kannst sie aber trotzdem verwenden, um den Gyro während der Fahrt an Ort und Stelle zu halten."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/1/10/The-last-caretaker-unlock-gyro.jpg/730px-The-last-caretaker-unlock-gyro.jpg",
+     "https://cdn.staticneo.com/ew/thumb/f/fc/The-last-caretaker-gyro-cylinder.jpg/363px-The-last-caretaker-gyro-cylinder.jpg",
+     "https://cdn.staticneo.com/ew/thumb/8/86/The-last-caretaker-gyro-fuel.jpg/363px-The-last-caretaker-gyro-fuel.jpg",
+     "https://cdn.staticneo.com/ew/thumb/1/15/The-last-caretaker-gyro-hooks.jpg/363px-The-last-caretaker-gyro-hooks.jpg"
+    ]
+   },
+   {
+    "heading": "Ein Platz zum Landen (Gyro Deck)",
+    "paragraphs": [
+     "Nachdem du den Salvage Gyro freigeschaltet hast, brauchst du einen Platz, um ihn auf deinem Boot unterzubringen. Zwar hast du vielleicht Platz, um den Gyro auf deinem Deck oder oben auf deinem Boot zu landen, aber mehr Platz wäre für Spieler hilfreich, bei denen es schon etwas eng zugeht – zum Glück ist das Gyro Deck dafür die perfekte Lösung.",
+     "Das Gyro Deck kannst du in deinem Skills-Menü im 13. Zweig freischalten, allerdings musst du zuerst die dazugehörige Quest abschließen. Um die Quest zu beginnen, begib dich zum Standort Sanctuary 12 auf der Karte.",
+     "Wenn du dort ankommst, musst du den Raum mit der Crafting-Station und dem Recycler darin finden. Es gibt zwei verschiedene Wege dorthin – wenn du den Standort noch nicht gesäubert hast, suchst du am besten nach dem Lüftungsschacht direkt unter der Treppe und folgst ihm. Hast du den Standort bereits gesäubert, gehst du einfach die Treppe hoch, durch die Tür und dann links.",
+     "Sobald du im Raum bist (möglicherweise musst du zuerst die Infektion beseitigen), findest du einige Baupläne an der Wand hinter den Regalen. Verwende deinen Scanner, um die Baupläne zu scannen, und du kannst dann die Option freischalten, das Gyro Deck in deinem Skills-Menü zu craften.",
+     "Sobald du alle Materialien hast, die du zum Craften des Decks benötigst, gehst du zum Heck deines Bootes, wo du es einrasten lassen kannst. Falls es nicht richtig einzurasten scheint, stelle sicher, dass du alles entfernst, was du bereits am Heck deines Bootes gebaut hast – es könnte den Bauplatz blockieren.",
+     "Sobald das Deck gebaut ist, kannst du den Salvage Gyro darauf abstellen und auch alles andere bauen, was du möchtest. Es verschafft deinem Boot jede Menge zusätzlichen Platz und erleichtert das Landen des Helikopters, ohne dass du in die Kabine deines Bootes hineinfliegst."
+    ],
+    "images": [
+     "https://cdn.staticneo.com/ew/thumb/2/24/The-last-caretaker-sanctuary-12-location-map.jpg/730px-The-last-caretaker-sanctuary-12-location-map.jpg",
+     "https://cdn.staticneo.com/ew/thumb/3/3c/The-last-caretaker-blueprint-room-1.jpg/363px-The-last-caretaker-blueprint-room-1.jpg",
+     "https://cdn.staticneo.com/ew/thumb/c/cd/The-last-caretaker-blueprint-room-2.jpg/363px-The-last-caretaker-blueprint-room-2.jpg",
+     "https://cdn.staticneo.com/ew/thumb/4/42/The-last-caretaker-deck-blueprints.jpg/730px-The-last-caretaker-deck-blueprints.jpg",
+     "https://cdn.staticneo.com/ew/thumb/b/b0/The-last-caretaker-gyro-deck.jpg/730px-The-last-caretaker-gyro-deck.jpg"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Last Caretaker Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+          integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+          crossorigin=""/>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-YZ96EQNFSB"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-YZ96EQNFSB');
+    </script>
+  <script type="module" crossorigin src="./assets/index-eko3bdVM.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-DA_8ALN9.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div id="cloth-map-controls-left" class="cloth-map-controls cloth-map-controls-left">
+                <div class="cloth-map-slider">
+                    <label for="msz-slider">Cloth Map Size: <span id="msz-value">80</span></label>
+                    <input type="range" id="msz-slider" min="10" max="300" value="80" step="0.5">
+                </div>
+                <div class="cloth-map-slider">
+                    <label for="rotation-slider">Rotation: <span id="rotation-value">10</span>°</label>
+                    <input type="range" id="rotation-slider" min="-180" max="180" value="10" step="0.5">
+                </div>
+            </div>
+            <h1>THE LAST C<span>⋀</span>RETAKER MAP</h1>
+            <!-- <p>Explore locations across the world</p> -->
+            <div id="cloth-map-controls" class="cloth-map-controls">
+                <div class="cloth-map-slider">
+                    <label for="xmod-slider">Cloth Map Vertical offset: <span id="xmod-value">50</span></label>
+                    <input type="range" id="xmod-slider" min="-200" max="200" value="50" step="0.5">
+                </div>
+                <div class="cloth-map-slider">
+                    <label for="ymod-slider">Cloth Map Horizontal offset: <span id="ymod-value">90</span></label>
+                    <input type="range" id="ymod-slider" min="-200" max="200" value="90" step="0.5">
+                </div>
+            </div>
+        </header>
+        
+        <div id="sidebar">
+            <div class="sidebar-header">
+                <h2>Locations</h2>
+                <div style="flex: 1;"></div>
+                <button id="filter-button" class="sidebar-button filter-button" title="Filter by Type">ᯤ</button>
+                <button id="settings-button" class="sidebar-button settings-button" title="Settings">⚙️</button>
+            </div>
+            <div class="search-box">
+                <div class="search-input-container">
+                    <input type="text" id="location-search" placeholder="Search locations..." />
+                    <button id="clear-search" class="clear-search" title="Clear search">✕</button>
+                </div>
+                <div class="search-options">
+                    <label class="search-option-toggle">
+                        <input type="checkbox" id="search-all-text">
+                        <span>Search all location text</span>
+                    </label>
+                </div>
+            </div>
+            <div id="location-list"></div>
+        </div>
+
+        <!-- Settings Popup -->
+        <div id="settings-popup" class="settings-popup">
+            <div class="settings-content">
+                <div class="settings-header">
+                    <h3>Settings</h3>
+                    <button id="close-settings" class="close-button">✕</button>
+                </div>
+                <div class="settings-body">
+                    <div class="setting-item">
+                        <button id="clear-data-button" class="setting-button">Clear Local Data</button>
+                        <p class="setting-description">Reset all preferences (Export your data first)</p>
+                    </div>
+                    <div class="setting-item">
+                        <div style="display: flex; gap: 8px;">
+                            <button id="export-data-button" class="setting-button" style="background: #2196F3; border-color: #2196F3; flex: 1;">Export Data</button>
+                            <button id="import-data-button" class="setting-button" style="background: #4CAF50; border-color: #4CAF50; flex: 1;">Import Data</button>
+                        </div>
+                        <p class="setting-description">Backup or restore all your preferences and notes</p>
+                        <input type="file" id="import-file-input" accept=".json" style="display: none;">
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-hidden-locations">
+                            <span>Show Hidden Locations</span>
+                        </label>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-last-listener">
+                            <span>Show Last Listener Locations</span>
+                        </label>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-caves">
+                            <span>Show Caves</span>
+                        </label>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-primary-numbers">
+                            <span>Display primary numbers on markers</span>
+                        </label>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-visit-overlays" checked>
+                            <span>Show visit status badges on map icons</span>
+                        </label>
+                        <p class="setting-description">Displays ✔ badge on markers when visited or cleared</p>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="show-cloth-map">
+                            <span>Show Cloth Map Overlay</span>
+                        </label>
+                    </div>
+                    <div class="setting-item">
+                        <label class="setting-toggle">
+                            <input type="checkbox" id="use-solid-background">
+                            <span>Use Solid Color Background</span>
+                        </label>
+                        <p class="setting-description">Replace the background map image with a solid color</p>
+                        <div style="display: flex; align-items: center; gap: 12px; margin-top: 12px;">
+                            <label for="background-color" style="color: #ccc; font-size: 13px; white-space: nowrap;">Background Color:</label>
+                            <input type="color" id="background-color" value="#17531b" style="width: 50px; height: 32px; border: 1px solid #555; border-radius: 4px; cursor: pointer;">
+                        </div>
+                    </div>
+                    <div class="setting-item">
+                        <h4 class="color-section-title">Marker Colors</h4>
+                        <p class="setting-description" style="margin-bottom: 12px;">Customize label colors per marker type</p>
+                        <div id="marker-color-settings" class="marker-color-grid"></div>
+                        <div class="color-buttons-row">
+                            <button id="reset-colors-button" class="setting-button reset-colors-button">Reset to Defaults</button>
+                            <button id="all-white-button" class="setting-button reset-colors-button">All White</button>
+                        </div>
+                    </div>
+                    <div class="setting-item">
+                        <a href="https://github.com/the1killer/lastcaretakermap" target="_blank" rel="noopener noreferrer" class="help-link">📖 Help & Documentation</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="map">
+            <div id="version-panel">
+                v1.5.0 by <a href="https://github.com/the1killer/" target="_blank" rel="noopener noreferrer">The1Killer</a>
+            </div>
+        </div>
+        
+    </div>
+    
+    <!-- Custom JS -->
+</body>
+</html>

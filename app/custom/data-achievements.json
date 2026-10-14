@@ -1,0 +1,45 @@
+{
+ "intro_de": "The Last Caretaker hat insgesamt 15 Erfolge zu sammeln. Manche bekommst du ganz von selbst, einfach indem du weiterspielst und Dinge baust oder reparierst. Andere erfordern bestimmte Handlungen oder das Auffinden versteckter Orte.",
+ "categories": [
+  {
+   "name_de": "Story",
+   "items": [
+    {"name_de": "Erster Mensch", "name_en": "First human", "desc_de": "Erhalten durch das Erschaffen deines ersten Menschen im Lazarus Complex."},
+    {"name_de": "Erste Lieferung", "name_en": "First delivery", "desc_de": "Erhalten durch den ersten Raketenstart an der Exodus Station."}
+   ]
+  },
+  {
+   "name_de": "Aufstieg",
+   "items": [
+    {"name_de": "Spielerlevel 5 erreicht", "name_en": "Reach player level 5", "desc_de": "Erhalten durch Erreichen von Spielerlevel 5 (Level steigen durch Herstellen von Gegenständen, Kämpfe gegen Feinde oder das Abschließen von Story-Aufgaben)."},
+    {"name_de": "200 Enhancer-Punkte verwendet", "name_en": "200 player enhancements used", "desc_de": "Erhalten durch Aufsteigen und 200-maliges Verbessern deiner Werte über die Enhance-Seite (TAB)."}
+   ]
+  },
+  {
+   "name_de": "Sammelobjekte",
+   "items": [
+    {"name_de": "Eine Artefakt-Erinnerung gesammelt", "name_en": "Collect an artifact memory", "desc_de": "Erhalten durch das Zerlegen eines Objekts mit der Bezeichnung „Artifact“ in der Umgebung (dieser Gegenstand liefert Schrott und eine Memory – wir haben unseren durch das Zerlegen der Lazarus Pod/Aged Vial im versteckten Raum in Norfolk Grave bekommen)."},
+    {"name_de": "10 Erinnerungen gesammelt", "name_en": "Collect 10 memories", "desc_de": "Erhalten durch das Einsammeln von 10 Memory-Gegenständen aus der Umgebung."},
+    {"name_de": "40 Erinnerungen gesammelt", "name_en": "Collect 40 memories", "desc_de": "Erhalten durch das Einsammeln von Memory-Gegenständen aus der Umgebung."}
+   ]
+  },
+  {
+   "name_de": "Reparieren/Herstellen",
+   "items": [
+    {"name_de": "100 Dinge repariert", "name_en": "Fix 100 things", "desc_de": "Erhalten durch das Reparieren von 100 verschiedenen kaputten Objekten/Maschinen mit dem Repair Tool (Taste 5, um es auszurüsten)."},
+    {"name_de": "100 Dinge gebaut", "name_en": "Build 100 things", "desc_de": "Erhalten durch das Bauen/Herstellen von 100 verschiedenen Gegenständen über das Build-Menü (TAB)."}
+   ]
+  },
+  {
+   "name_de": "Extra",
+   "items": [
+    {"name_de": "30-mal gestorben", "name_en": "Die 30 times", "desc_de": "Erhalten durch 30 oder mehr Tode (durch feindliche Kreaturen, Stürze oder Ertrinken)."},
+    {"name_de": "5 Treffer in Folge auf dem leeren Platz", "name_en": "Sink 5 shots in a row on the empty court", "desc_de": "Erhalten durch 5 Körbe in Folge auf einem beliebigen Basketballplatz (M1 gedrückt halten am Basketball, dann mit M2 werfen – ein Platz befindet sich im Starthangar, erreichbar über das Dach)."},
+    {"name_de": "100 Survival-Dollar-Bündel ins All geschickt", "name_en": "Send 100 Survival Dollar hoards into space", "desc_de": "„Sie versprachen einst Wohlstand; nun verlassen sie die Erde als schwerelose Denkmäler eines Wertesystems, das seine Menschen überlebt hat.“ Erhalten durch das Ablegen von 100 Survival Dollars in der Raketenluke vor dem Start ins All (zu finden in der Lobby der Exodus Station)."},
+    {"name_de": "Einen Teddy in die Umlaufbahn geschickt", "name_en": "Send a teddy to orbit", "desc_de": "„Einst durchsuchte er überflutete Straßen nach einem Kind, das nie zurückkam; nun verlässt er den Planeten und glaubt noch immer, es finden zu können.“ Erhalten durch das Ablegen eines Teddybären in der Raketenluke vor dem Start ins All (zu finden in der Lobby der Exodus Station)."},
+    {"name_de": "Den versteckten Raum im Cube Room Maze gefunden", "name_en": "Find the hidden room inside the Cube Room Maze", "desc_de": "„Manche Türen waren nie dafür gedacht, geöffnet zu werden.“ Erhalten durch das Betätigen von drei versteckten Knöpfen in The Transposium und das Öffnen der Tür mit den drei Lichtern darüber: Knopf im Kistenraum, Boots-Gemälde im Galerieraum und die tickende Uhr."},
+    {"name_de": "Mother tief unter den Wellen gefunden", "name_en": "Find Mother hidden below the waves", "desc_de": "„Ein stilles Denkmal, an dem der Ozean sie bewahrt, nahe dem Ort, an dem du zuerst erwachtest.“ Erhalten durch Abtauchen und Auffinden der Mother-Statue unter Wasser (mit der neuen Sonar-Maschine lassen sich Objekte unter Wasser leichter aufspüren). Am einfachsten findest du sie ganz am Anfang beim ersten Sanctuary-Hangar: entweder tauchst du außen an der Rohrleitung hinab, die vom Gebäude bis nach unten führt, oder du gehst hinein, steigst in das Rohr und rutschst direkt bis zur Statue unter Wasser hinunter."}
+   ]
+  }
+ ]
+}

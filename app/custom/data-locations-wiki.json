@@ -1,0 +1,3203 @@
+{
+ "Sanctuary 37": {
+  "wikiTitle": "Sanctuary Dock 37",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Sanctuary_Dock_37",
+  "revid": 7194,
+  "image": "https://thelastcaretaker.wiki.gg/images/Sanctuary_Dock_37.png?6c01bc",
+  "intro_de": "Dieser Ort ist der Startpunkt des Spielers in jedem Spieldurchlauf. Er liegt im westlichen Teil der Karte. Obwohl er im Radius von Navigationsleuchtfeuer 49 liegt, wird er nicht erst durch das Leuchtfeuer sichtbar, sondern ist als Startpunkt von Anfang an automatisch aufgedeckt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Pink Slime",
+     "Sweetheart"
+    ]
+   },
+   {
+    "header_de": "Geld",
+    "type": "list",
+    "items": [
+     "45 United States Survival Dollar",
+     "23 Continental Reserve Note"
+    ]
+   },
+   {
+    "header_de": "Pigmente",
+    "type": "list",
+    "items": [
+     "1 Iron Oxide Red",
+     "1 Carbon Black",
+     "1 Cobalt Aluminate Blue"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "3 Tommy",
+     "3 Teddy Bear (White)",
+     "2 Teddy Bear (Brown)",
+     "2 Basketball (Blue)",
+     "4 Basketball (Orange)",
+     "2 Small Human Art",
+     "1 Meditation",
+     "1 Crayon",
+     "1 Mystery Box",
+     "1 First Aid",
+     "1 Love Letters",
+     "1 Stopwatch",
+     "1 Small Tree"
+    ]
+   },
+   {
+    "header_de": "Farbe",
+    "type": "text",
+    "text": "5 EXO Standard"
+   },
+   {
+    "header_de": "Kassette",
+    "type": "text",
+    "text": "2 PECO Atheltics - 100m Dash"
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "063: Signal Wave (Approx. 300m east, 14.4: 8.4)"
+    ]
+   },
+   {
+    "header_de": "Start-/Schlafraum:",
+    "type": "text",
+    "text": "Warte die Pods. Schütze die Racks. Sichere die Kontinuität.\n\nDie Menschen, die du aufziehst, werden sich nicht an dich erinnern. Sie werden dir nicht danken. Aber ohne dich würden sie nicht existieren.\n\nDu brauchst keine Anerkennung; du brauchst Ausdauer.\n\nBeginne den Zyklus. Halte den Fluss stetig. Mach weiter, Caretaker."
+   },
+   {
+    "header_de": "Erster Heilungs-/Speicherraum:",
+    "type": "text",
+    "text": "Das Ferrofluid in deinem System ist kein gewöhnliches Kühlmittel. Es wurde als lebendes System angepasst, entwickelt aus EXOs ersten Arbeiten in extremen Umgebungen.\n\nZykliere an der Vitalitätsstation. Halte es in Bewegung. Halte es im Gleichgewicht. Ohne Fluss verschlechtern sich die Systeme, und ein Abschalten folgt.\n\nLass die Resonanz sich stabilisieren. Der Impuls wird deine Bewegungsfähigkeit wiederherstellen.\n\nSpeicherstation: Sichere deinen Zustand. Speichere dein Wissen. Wenn die Energie wiederhergestellt wird, muss alles wiederhergestellt werden.\n\nCaretaker-Abschaltungen sind zu erwarten; Stromausfall, Schäden, Unfälle. Wenn du wieder erwachst, ob Stunden oder Jahrzehnte später.\n\nDie Aufzeichnungen werden sich erinnern, was du getan hast. Vitalität hält dich in Bewegung. Erinnerung hält dich kontinuierlich. Das sind die Grundlagen deiner Aufgabe, vernachlässige sie nicht."
+   }
+  ]
+ },
+ "Habitat Node 06-3.5": {
+  "wikiTitle": "Habitat Node 06-3.5",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_06-3.5",
+  "revid": 6476,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im westlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 49 mit Strom versorgt. Wahrscheinlich entdeckt der Spieler ihn aber schon vorher, da die Seeminen beim Verlassen von Sanctuary Dock 37 sanft in Richtung des Habitat-Knotens leiten.",
+  "sections": [
+   {
+    "header_de": "Geld",
+    "type": "text",
+    "text": "19 United States Survival Dollar"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "1 Teddy Bear (White)",
+     "1 Teddy Bear (Brown)",
+     "1 Guitar",
+     "1 Crayon1 Basketball (Blue)",
+     "3 basketball (Orange)",
+     "1 Camera"
+    ]
+   },
+   {
+    "header_de": "Farbe",
+    "type": "list",
+    "items": [
+     "6 Tricolor Run",
+     "1 Checker Run"
+    ]
+   },
+   {
+    "header_de": "Kassette",
+    "type": "text",
+    "text": "1 PECO Athletics - 100m Dash"
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "024: Carried Body",
+     "035: Measuring Wall",
+     "043: Passing Boat",
+     "056: Handoff (approx 300m southeast, 26.4: 4.9)",
+     "130: Bouncing Echoes"
+    ]
+   }
+  ]
+ },
+ "Navigation Beacon 49": {
+  "wikiTitle": "Navigation Beacon 49",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Navigation_Beacon_49",
+  "revid": 6474,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im westlichen Teil der Karte. Er wird nicht durch ein anderes Navigationsleuchtfeuer sichtbar, sondern deckt selbst andere Orte für den Spieler auf. Er wird jedoch beim Erhalt der Mission Voyage into the Unknown sichtbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Kellertür der Stufe 3."
+   },
+   {
+    "header_de": "Geld",
+    "type": "text",
+    "text": "19 United States Survival Dollar"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "1 Guitar",
+     "1 Where's Tommy",
+     "1 Mirror",
+     "1 Travel Journal"
+    ]
+   },
+   {
+    "header_de": "Farbe",
+    "type": "list",
+    "items": [
+     "5 Sea Dragon",
+     "4 VHS Wave"
+    ]
+   },
+   {
+    "header_de": "Kassette",
+    "type": "list",
+    "items": [
+     "2 PECO Athletics - Javlin",
+     "1 Angerkoski"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "057: Left Behind (Approx 300m east, 37.1: 6.0)"
+    ]
+   }
+  ]
+ },
+ "Lazarus Complex": {
+  "wikiTitle": "Lazarus Complex",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Lazarus_Complex",
+  "revid": 6855,
+  "image": "https://thelastcaretaker.wiki.gg/images/Lazarus_Complex.png?b9a4d3",
+  "intro_de": "Dieser Ort ist der zentralste Punkt der Karte und der Hauptschauplatz des Spiels. Er wird nach Abschluss der Mission Signals from Silence sichtbar, obwohl er außerhalb des Radius von Navigationsleuchtfeuer 49 liegt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "list",
+    "items": [
+     "Lazarus Rack - 4x",
+     "Water Pump - 4x"
+    ]
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Yellow Cocoon",
+     "Red Cocoon",
+     "Angel"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "059: Debris (Approx. 580m northwest, 64.9:-3.9)",
+     "125: Oceanmark White"
+    ]
+   }
+  ]
+ },
+ "Norfolk Grave": {
+  "wikiTitle": "Norfolk Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Norfolk_Grave",
+  "revid": 6841,
+  "image": "https://thelastcaretaker.wiki.gg/images/Norfolk_Grave.png?dd0343",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt. Im Rahmen der Mission Echoes in the Grave muss der Spieler diesen Ort aufsuchen.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort verfügt über mehrere Unterwasserbauten in bis zu 45 m Tiefe; das größte davon trägt ein großes „M“ an seiner Westseite. Die meisten Bauten sind mit roten Kokons bedeckt oder enthalten sie.\n\nDie äußeren und unterwasserliegenden Bereiche des „M“-Gebäudes enthalten diverse Gegenstände, die geplündert oder für Schrott zerlegt werden können, darunter die Überreste eines Talon Shark im Gebäude und eines Angel direkt davor, nahe der Rückseite. Die nicht überfluteten oberen Stockwerke enthalten ein Kletter-/Sprungrätsel sowie weitere rote Kokons. Am Ende dieses Rätsels liegt ein von rotem Licht markierter Raum, in dem die Auflösung der Mission Echoes in the Grave stattfindet. Nach Abschluss der Mission und beim Verlassen des Gebäudes kann der Spieler von mehreren Wellen aus Night Crawlern und Night Spittern angegriffen werden – das lässt sich vermeiden, indem man zügig zum Boot zurückkehrt.\n\nDer Bereich rund um das „M“-Gebäude enthält weitere Gegenstände, die geplündert oder zerlegt werden können."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Night Crawler",
+     "Night Spitter",
+     "Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "The Art of War",
+     "Commander's Log",
+     "Cards",
+     "Camera"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "105: Timetable",
+     "106: Open Door",
+     "107: Crossing",
+     "108: Spill"
+    ]
+   }
+  ]
+ },
+ "Navigation Beacon 15": {
+  "wikiTitle": "Navigation Beacon 15",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Navigation_Beacon_15",
+  "revid": 6385,
+  "image": "https://thelastcaretaker.wiki.gg/images/Navigation_Beacon_15.png?567f57",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird nicht durch ein anderes Navigationsleuchtfeuer sichtbar, sondern deckt selbst andere Orte für den Spieler auf.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Crawler",
+     "Green Cocoon"
+    ]
+   }
+  ]
+ },
+ "Seed Vault Prometheus": {
+  "wikiTitle": "Seed Vault Prometheus",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Vault_Prometheus",
+  "revid": 6815,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Vault_Prometheus.png?2afd07",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort besteht aus einem kleinen Dock, einer Plattform, einem Geräteschuppen, einem Turm und einem Bereich, der sich nach unten ins Meer erstreckt. Er ist der wichtigste Samentresor und liegt nördlich des Lazarus Complex sowie nordöstlich von Navigationsleuchtfeuer 15. Der Eingang zum Samentresor liegt an der Oberfläche und wird zugänglich, nachdem der Schalter im Geräteschuppen hinter dem Tresor mit Strom versorgt wurde.\n\nDer Human-Seed-Tresor liegt tief unter Wasser, erreichbar über einen Aufzug gegenüber dem Haupteingang oder über eine Reihe von Leitern rechts davon. Der Tresor enthielt ursprünglich 12 Samenkapseln; bei der Ankunft des Caretakers sind jedoch bereits 3 Kapseln leer, sodass 9 Human Seeds und 5 voll funktionsfähige Lazarus Pods im Haupttresor verbleiben."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Angel",
+     "Red Cocoon",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Cards",
+     "Cognitive Cards",
+     "Commander's Log",
+     "Compass",
+     "Crayon",
+     "Encyclopedia",
+     "First Aid x2",
+     "Guitar",
+     "Small Human Art",
+     "Small Tree",
+     "Stopwatch",
+     "Teddy Bear x2",
+     "The Art of War",
+     "Travel Journal",
+     "Where's Tommy x2"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "050: Retrieval"
+    ]
+   }
+  ]
+ },
+ "Helios Reserve Orion": {
+  "wikiTitle": "Helios Reserve Orion",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Helios_Reserve_Orion",
+  "revid": 6475,
+  "image": "https://thelastcaretaker.wiki.gg/images/Helios_Reserve_Orion.png?deba42",
+  "intro_de": "Dieser Ort befindet sich im westlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn sowohl Navigationsleuchtfeuer 49 als auch das Leuchtfeuer auf dem Lazarus Complex mit Strom versorgt werden – dabei reicht jeweils eines der beiden aus.",
+  "sections": [
+   {
+    "header_de": "Geld",
+    "type": "text",
+    "text": "12 United States Survival Dollar"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "1 Small Human Art",
+     "5 Assembly Instructions"
+    ]
+   },
+   {
+    "header_de": "Farbe",
+    "type": "text",
+    "text": "5 Senyera Run"
+   },
+   {
+    "header_de": "Kassette",
+    "type": "list",
+    "items": [
+     "1 PECO Athletics - Javelin",
+     "2 PECO Athletics - 100m Dash"
+    ]
+   }
+  ]
+ },
+ "Refuel Outpost Gamma": {
+  "wikiTitle": "Refuel Outpost Gamma",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Refuel_Outpost_Gamma",
+  "revid": 6211,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im westlichen Teil der Karte. Er wird sichtbar, wenn entweder Navigationsleuchtfeuer 49 oder das Leuchtfeuer auf dem Lazarus Complex mit Strom versorgt wird – eines der beiden reicht aus. Bei den meisten Spielern wird er jedoch vermutlich durch Navigationsleuchtfeuer 49 sichtbar, als Ergebnis des Abschlusses der Mission Signals from Silence.",
+  "sections": [
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "127: Smile in the Dark"
+    ]
+   }
+  ]
+ },
+ "Black Vein Station": {
+  "wikiTitle": "Black Vein Station",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Black_Vein_Station",
+  "revid": 6373,
+  "image": "https://thelastcaretaker.wiki.gg/images/Black_Vein_Station.png?436f0c",
+  "intro_de": "Black Vein Station liegt in der nordöstlichen Ecke der Karte. Der Ort wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "An diesem Ort steht eine feste, einzigartige Vorrichtung, mit der Öl vom Meeresboden gepumpt wird. Sie benötigt nur Strom und Öllagerkapazität. Zwei Öltanks sind bereits im Hauptgeschoss verbaut – es reicht, ein Stromkabel dorthin zu verlegen. Ob durch einen Bug oder eine zeitliche Verzögerung: Die Pumpe kann anhalten, selbst wenn diese beiden Tanks noch nicht voll sind. Genaueres ist dazu nicht bekannt.\n\nAußerdem sind an diesem Ort bereits zwei Diesel- und zwei Benzintanks verbaut. Mit geschickter Verkabelung lassen sich alle drei Treibstoffarten über eine einzige Leitung mit Kabelverlängerungen zum Boot führen.\n\nWegen des Aufzugs und seines Strombedarfs empfiehlt es sich, hier mindestens eine mittlere Batterie samt Solarpanel zu bauen.\n\nDie Bauten sollten auch unter Wasser abgesucht werden.\n\nDieser Ort gehört zu den wenigen Stellen, die man wegen der Ölförderung regelmäßig erneut besuchen sollte – es lohnt sich, die Infrastruktur dafür stehen zu lassen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Cocoon",
+     "Orange Cocoon",
+     "Green Crawler",
+     "Mosquito",
+     "Pink Slime",
+     "Red Slime",
+     "Arch Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions",
+     "Biology Notes x2",
+     "Bowling Pin x2",
+     "Camera",
+     "Cognitive Cards",
+     "Guitar",
+     "Love Letters",
+     "Maps",
+     "Mirror",
+     "Music Notes x2",
+     "Travel Journal x2",
+     "Where's Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "013 - Last Shift",
+     "014: Still Pumping",
+     "015: Burner Light",
+     "123: The Fire that Wouldn't Die"
+    ]
+   }
+  ]
+ },
+ "Hampton Grave": {
+  "wikiTitle": "Hampton Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Hampton_Grave",
+  "revid": 5666,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon",
+     "Roller Boi"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions x2",
+     "Programming Manual",
+     "Sudoku Book",
+     "The Art of War x2"
+    ]
+   }
+  ]
+ },
+ "Exodus Station": {
+  "wikiTitle": "Exodus Station",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Exodus_Station",
+  "revid": 6218,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt. Hier steht die Rakete, mit der Humans ins All geschickt werden.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Orange Cocoon",
+     "Red Cocoon",
+     "Roller Boi",
+     "Laser Bob",
+     "Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Ash Notebook",
+     "Biology Notes",
+     "Blueprints",
+     "Camera x2",
+     "Cards",
+     "Compass",
+     "Crayon",
+     "Encyclopedia",
+     "First Aid",
+     "Love Letters",
+     "Maps",
+     "Meditation",
+     "Mystery Box x2",
+     "Programming Manual",
+     "Small Tree x2",
+     "The Art of War",
+     "Teddy Bear",
+     "Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "118: Dr. Evelyn James",
+     "119: Looking at Rocket",
+     "120: Slip",
+     "121: Looking Over the Rail",
+     "122: Inspection at Exodus"
+    ]
+   }
+  ]
+ },
+ "The Last Listener Station": {
+  "wikiTitle": "The Last Listener Station",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Last_Listener_Station",
+  "revid": 7122,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Last_Listener_Station.png?ec1757",
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt. Ist Navigationsleuchtfeuer 32 noch nicht aktiviert, wird der Ort auch durch Annahme der Mission The Last Listener sichtbar. Dieser Ort deckt weitere Orte auf, die von keinem anderen Navigationsleuchtfeuer erfasst werden – offenbar ohne begrenzte Reichweite.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus mehreren miteinander verbundenen Plattformen, die weit über dem Meeresspiegel liegen. Zwei der Plattformen verfügen über einen kleinen Anlegeplatz auf Wasserhöhe. Ganz oben befindet sich ein Navigationsarray – wird dieses mit Strom versorgt, deckt es neue Orte auf der Karte auf."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Laser Bob",
+     "Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Cards",
+     "Encyclopedia",
+     "Guitar x2",
+     "Meditation x2",
+     "Mirror",
+     "Music Notes",
+     "Plans",
+     "Small Tree x2",
+     "The Art of War",
+     "PECO - Rising Tide in the room with the navigation beacon"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 03-12.3": {
+  "wikiTitle": "Habitat Node 03-12.3",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_03-12.3",
+  "revid": 7156,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Es gibt zwei Plattformen. Auf jeder steht ein Wohnbau aus Schiffscontainern.\n\nUnter der südlichen Plattform befindet sich ein versteckter Raum, der schwimmend erreicht werden kann."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Two Roller Bois, one on each platform",
+     "Two swarms of Sweethearts, one on each platform"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "In the secret room under the southern platform:",
+     "1 Love Letters",
+     "1 Stopwatch",
+     "1 Meditation",
+     "1 Basketball",
+     "1 Small Human Art",
+     "1 Mirror",
+     "1 Second Reality",
+     "There are additional memories in the habitat structure(s)."
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "20 - Lantern Dinner",
+     "22 - Bed on Wheels (bugged as of 8/8/26 as the image is from another sample)",
+     "25 - Thirsty Wait"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 09-4": {
+  "wikiTitle": "Habitat Node 09-4",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_09-4",
+  "revid": 6388,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im mittleren Teil der Karte. Er wird auf der Karte sichtbar, wenn man das Navigationsleuchtfeuer auf dem Dach des Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Crawler",
+     "Green Cocoon",
+     "Pink Slime",
+     "Red Slime"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 08-16": {
+  "wikiTitle": "Habitat Node 08-16",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_08-16",
+  "revid": 6361,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird durch Navigationsleuchtfeuer 32 auf der Karte sichtbar.",
+  "sections": [
+   {
+    "header_de": "Proben",
+    "type": "text",
+    "text": "21 - Water Queue"
+   }
+  ]
+ },
+ "Nomads Tower": {
+  "wikiTitle": "Nomads Tower",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Nomads_Tower",
+  "revid": 6066,
+  "image": "https://thelastcaretaker.wiki.gg/images/Nomads_Tower.png?cea1f2",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn entweder Navigationsleuchtfeuer 15 oder das Leuchtfeuer auf dem Lazarus Complex mit Strom versorgt wird – eines der beiden reicht aus.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito",
+     "Green Crawler",
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Biology Notes x2",
+     "Cognitive Cards",
+     "Compass",
+     "Crayon",
+     "Encyclopedia",
+     "Guitar",
+     "Programming Manual",
+     "Small Tree",
+     "Teddy Bear",
+     "The Art of War",
+     "Travel Journal",
+     "Tommy",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "Refuel Outpost Theta": {
+  "wikiTitle": "Refuel Outpost Theta",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Refuel_Outpost_Theta",
+  "revid": 6362,
+  "image": "https://thelastcaretaker.wiki.gg/images/Refuel_Outpost_Theta.png?2a9926",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "list",
+    "items": [
+     "Diesel Tank (x2)",
+     "Petrol Tank (x2)",
+     "Oil Tank (x6)"
+    ]
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Cocoon",
+     "Orange Cocoon",
+     "Mosquito",
+     "Green Crawler",
+     "Pink Slime",
+     "Roller Boi"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions",
+     "Biology Notes",
+     "Camera",
+     "Cards",
+     "Cognitive Cards",
+     "Commander's Log",
+     "Compass",
+     "Meditation",
+     "Music Notes",
+     "Mystery Box",
+     "Plans",
+     "Programming Manual",
+     "Small Human Art",
+     "Sudoku Book",
+     "Survival Diagrams x2",
+     "Teddy Bear",
+     "The Art of War",
+     "Travel Journal"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 05-14.5": {
+  "wikiTitle": "Habitat Node 05-14.5",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_05-14.5",
+  "revid": 6864,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_05-14.5.png?3611af",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort besteht aus 3 Türmen mit Plattformen. Auf diesen Plattformen stehen Schiffscontainer, die als Wohnraum genutzt wurden. Außerdem gibt es 2 Unterwasser-Verstecke, eines in 48 m, das andere in 106 m Tiefe."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Cards",
+     "Cognitive Cards",
+     "Maps",
+     "PECO - Rising Tide",
+     "Programming Manual"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "023 - Shared Blanket",
+     "040 - Last Battery",
+     "044 - Shrine"
+    ]
+   },
+   {
+    "header_de": "Historie",
+    "type": "text",
+    "text": "Vor Update 0.6.5 war dieser Ort als Habitat Node 05-X bekannt."
+   }
+  ]
+ },
+ "Central Warehouse Alpha": {
+  "wikiTitle": "Central Warehouse Alpha",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Central_Warehouse_Alpha",
+  "revid": 6386,
+  "image": "https://thelastcaretaker.wiki.gg/images/Central_Warehouse_Alpha_Map.png?d108a0",
+  "intro_de": "Central Warehouse Alpha liegt südlich des Lazarus Complex. Dieser Ort wird auf der Karte sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Laser Bob",
+     "Angel",
+     "Green Crawler",
+     "Green Cocoon"
+    ]
+   }
+  ]
+ },
+ "Navigation Beacon 32": {
+  "wikiTitle": "Navigation Beacon 32",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Navigation_Beacon_32",
+  "revid": 3893,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird nicht durch ein anderes Navigationsleuchtfeuer sichtbar, sondern deckt selbst andere Orte für den Spieler auf.",
+  "sections": []
+ },
+ "Salem Grave": {
+  "wikiTitle": "Salem Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Salem_Grave",
+  "revid": 7159,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort verfügt über mehrere Unterwasserbauten in bis zu 106 m Tiefe. Die meisten davon sind mit roten Kokons bedeckt oder enthalten sie.\n\nDas größte, noch am besten erhaltene Gebäude trägt zwei zerbrochene Angels auf dem Dach und kann durch ein Loch im obersten Teil der Wand nahe dem verrosteten Lüftungsschacht betreten werden. Darin befinden sich mehrere rote Kokons und Gegenstände, die sich zu Ultra-Tech Scraps zerlegen lassen. Ein roter Kokon blockiert den Vordereingang und kann nach seiner Zerstörung aufgezogen werden.\n\nDie umliegenden Bauten enthalten Gegenstände, die geplündert oder zerlegt werden können, etwa einen zerfallenen, verrottenden Hai."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Cocoon",
+     "Night Crawler",
+     "Night Spitter"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Maps",
+     "Commander's Log",
+     "Compass",
+     "Stopwatch",
+     "Touchin' the Chip"
+    ]
+   }
+  ]
+ },
+ "Helios Reserve Lyra": {
+  "wikiTitle": "Helios Reserve Lyra",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Helios_Reserve_Lyra",
+  "revid": 6889,
+  "image": "https://thelastcaretaker.wiki.gg/images/Helios_Reserve_Lyra.png?3c267b",
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Das Becken in der Mitte ist 125 m tief. In 66 m und 116 m Tiefe befindet sich jeweils eine verschlossene Tür, die erst nach Wiederherstellung der Stromversorgung im Hauptgebäude geöffnet werden kann.\n\nDer Ort verfügt über 10 LumiMid-Solarpanele, die zusammen genug Strom für die Elektronik der Anlage liefern können, sobald sie angeschlossen sind. Es empfiehlt sich jedoch, auf das Hauptgebäude zu klettern und dort ein zusätzliches LumiMid samt Batteriepuffer zu bauen. In dieser Region gibt es reichlich Sonnenlicht, und Stürme sind seltener als an anderen Orten.\n\nNachts sollte man sich vom zentralen Becken fernhalten, da dort Aale aus den Unterwasser-Kokons auftauchen."
+   },
+   {
+    "header_de": "Den Pool bewältigen",
+    "type": "text",
+    "text": "Hier die sicherste und effizienteste Methode, um das Becken zu leeren und die Gänge darunter freizulegen.\n\nBenötigt wird:\n* 1x mittlere Batterie\n* 100x Stromkabel\n* 7–10x Kabelverlängerungen\n* Nebula-Leuchte\n* reichlich Munition\n* maximal ausgebauter Wasserdruck-Skill\n\nAm besten schließt man eine mittlere Batterie an die Solarpanele an und bleibt selbst eingesteckt. Beim Hineinspringen die Nebula-Leuchte benutzen – das hält die Aale in Schach, während man die Kokons bekämpft.\n\nAuf dem Weg zum Boden des Beckens gibt es einige Türen, auf die man achten sollte. Da man beim ersten Mal ohnehin die Kokons räumt, kann man einfach in die Räume schauen und sie dabei leeren.\n\nDer HAUPT-Eingang liegt jenseits von 100 m Tiefe, an der rechten Wand, wenn man direkt auf das Hauptgebäude zuschwimmt. Ist man einmal drin, folgt ein kurzer Aufstieg, und man ist aus dem Wasser in den Gängen. Diese Gänge sind leicht zu navigieren, da die übrigen Richtungen abgesperrt sind. Allerdings gibt es viele grüne und orangene Kokons, also genug Munition mitnehmen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Orange Cocoon",
+     "Red Cocoon",
+     "Sweetheart",
+     "Pink Slime",
+     "2x Roller Boi"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions x2",
+     "Biology Notes x3",
+     "Cards x2",
+     "Cognitive Cards",
+     "Compass",
+     "Encyclopedia",
+     "First Aid",
+     "Guitar x2",
+     "Maps x2",
+     "Mystery Box x2",
+     "Plans",
+     "Porcine Vocal Interface x8",
+     "Sudoku Book",
+     "Teddy Bear x8",
+     "Tommy x3",
+     "Porcine Vocal Interface x9"
+    ]
+   },
+   {
+    "header_de": "Historie",
+    "type": "text",
+    "text": "Ab BETA-UPDATE 04 wurden die verschlossenen Türen in 66 m Tiefe hinzugefügt."
+   }
+  ]
+ },
+ "Dover Grave": {
+  "wikiTitle": "Dover Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Dover_Grave",
+  "revid": 7155,
+  "image": "https://thelastcaretaker.wiki.gg/images/Dover_Grave.png?b0cf57",
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort verfügt über zwei Wolkenkratzer, von denen einer in den anderen gestürzt ist, sowie mehrere Unterwasserbauten in bis zu 140 m Tiefe. Die meisten davon sind mit roten Kokons bedeckt oder enthalten sie.\n\nAm Fuß des aufrecht stehenden Wolkenkratzers liegt ein zerstörter Laser Bob.\n\nEin Loch am Boden des umgestürzten Wolkenkratzers führt zu einem Unterwasser-Labyrinth, das sowohl unterhalb von 110 m liegt (der maximal sicher erreichbaren Tiefe mit voll ausgebauten Verbesserungen) als auch stark mit roten Kokons besetzt ist. Spieler können ein Stromkabel vom Boot herunterführen und mit der Eclipse-Taschenlampe das Labyrinth relativ leicht durchqueren. Am Ende des Labyrinths gibt es mehrere Gegenstände, die zu Ultra-Tech Scraps und High-Tech Scraps zerlegt werden können, sowie eine Heilstation. Am Fuß des umgestürzten Wolkenkratzers liegt ein zerstörter Talon Shark.\n\nDie Gebäude im umliegenden Bereich enthalten mehrere Gegenstände, die zerlegt oder geplündert werden können."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Cocoon",
+     "Night Crawler",
+     "Night Spitter"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Cognitive Cards",
+     "Compass x 2",
+     "First Aid x 2",
+     "Survival Diagrams",
+     "Travel Journal x 2"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "{| class=\"wikitable sortable\" |+ ! No. ! Name ! Remarks |- | 095 | Balcony Handoff | In the main tower, 54 meters deep |- | 097 | Roofline Argument | On the second floor of a building to the east of the main tower, 134 meters deep |- | 098 | Cabinet Barricade | In the fallen tower, 98 meters deep |- | 099 | Returned Keys | In the main tower, 112 meters deep |- | 112 | Porch Sleep | Outside a building on the east side, near the foundation edge for the entire location |}"
+    ]
+   }
+  ]
+ },
+ "Refuel Outpost Delta": {
+  "wikiTitle": "Refuel Outpost Delta",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Refuel_Outpost_Delta",
+  "revid": 6859,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "list",
+    "items": [
+     "Diesel Tank x4",
+     "Petrol Tank x4"
+    ]
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Cocoon (Red, Orange)",
+     "Mosquitoes"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Bowling Ball x3",
+     "Bowling Pin x 10",
+     "Commander's Log",
+     "Maps",
+     "Plans",
+     "Programming Manual",
+     "Stopwatch",
+     "Sudoku Book",
+     "Travel Journal"
+    ]
+   }
+  ]
+ },
+ "Lincoln Grave": {
+  "wikiTitle": "Lincoln Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Lincoln_Grave",
+  "revid": 5394,
+  "image": null,
+  "intro_de": "Dieser Ort liegt direkt südöstlich des Lazarus Complex. Er wird auf der Karte sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Encyclopedia",
+     "First Aid",
+     "Love Letters",
+     "Maps",
+     "Survival Diagrams"
+    ]
+   }
+  ]
+ },
+ "Helios Reserve Gemini": {
+  "wikiTitle": "Helios Reserve Gemini",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Helios_Reserve_Gemini",
+  "revid": 7055,
+  "image": "https://thelastcaretaker.wiki.gg/images/Helios_Reserve_Gemini.png?f4d281",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn sowohl Navigationsleuchtfeuer 15 als auch das Leuchtfeuer auf dem Lazarus Complex mit Strom versorgt werden – dabei reicht jeweils eines der beiden aus.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer mehrstöckigen Plattform und einem Geräteschuppen. Auf der obersten Ebene stehen LumiMid- und Cyclone-Module zur Stromerzeugung, von denen die meisten nach jahrelanger Vernachlässigung defekt sind."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Roller Boi"
+    ]
+   }
+  ]
+ },
+ "Winston Grave": {
+  "wikiTitle": "Winston Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Winston_Grave",
+  "revid": 5589,
+  "image": "https://thelastcaretaker.wiki.gg/images/Winston_Grave.png?a757ba",
+  "intro_de": "Dieser Ort befindet sich im westlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 49 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort verfügt über einen unter Wasser liegenden Wolkenkratzer, umgeben von Stadtresten. Er lässt sich in drei Bereiche unterteilen.\n\nDie oberen Stockwerke des Wolkenkratzers enthalten einige zerlegbare Gegenstände, nur wenig Beute und mindestens einen roten Kokon.\n\nDas Erdgeschoss des Wolkenkratzers und die Stadtreste liegen etwa 140 m unter Wasser – 30 m tiefer, als Verbesserungen sicher erlauben. Dieser Bereich ist nur mit Heilmitteln, Batterien oder einem vom Boot herabgeführten Stromkabel erreichbar. Er enthält mehrere zerlegbare Gegenstände, wobei die Sicht selbst tagsüber schlecht ist.\n\nDie unteren Stockwerke des Wolkenkratzers sind nicht überflutet und enthalten ein anspruchsvolles Klettern-/Sprungrätsel. Ein Sturz kann tödlichen Fallschaden verursachen oder im Wasser unterhalb der Quetschtiefe enden – Heilmittel mitzubringen wird empfohlen. Das Lösen des Rätsels belohnt mit Ultra-Tech Scraps, High-Tech Scraps und weiteren Gegenständen sowie zusätzlichen zerlegbaren Objekten. Dieser „Belohnungsraum“ enthält außerdem Sicherungs- und Heilstationen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon",
+     "Night Crawler",
+     "Night Spitter"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Biology Notes",
+     "Cognitive Cards",
+     "Music Notes",
+     "Programming Manual",
+     "The Art of War"
+    ]
+   }
+  ]
+ },
+ "Brighton Grave": {
+  "wikiTitle": "Brighton Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Brighton_Grave",
+  "revid": 7085,
+  "image": null,
+  "intro_de": "Dieser Ort liegt direkt nordwestlich des Lazarus Complex. Er wird sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt. Maximale Tiefe 175 m.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dies ist eine untergegangene Unterwasserstadt mit mehreren verfallenen Gebäuden, die erforscht werden können."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Commander's Log",
+     "Compass",
+     "Love Letters",
+     "Maps",
+     "Small Human Art",
+     "Small Tree",
+     "Stopwatch",
+     "Survival Diagrams"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "085: Rooftop Wait",
+     "086: Dead Traffic",
+     "087: Ladder Nowhere",
+     "113: Bag Trade"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 04-7": {
+  "wikiTitle": "Habitat Node 04-7",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_04-7",
+  "revid": 7161,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_04-7.png?75345a",
+  "intro_de": "Dieser Ort befindet sich im mittleren Teil der Karte. Er wird sichtbar, wenn man das Leuchtfeuer auf dem Dach des Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Hauptbau ist ein zu einem Turm gestapelter Stapel Schiffscontainer.\n\nEs gibt drei versteckte Bereiche im Wasser:\n* Der erste liegt an der Wasseroberfläche, mit einigen plünderbaren Gegenständen an einem Rohr.\n* Der zweite ist ein vollständig mit Wasser gefüllter Raum, zugänglich über eine Öffnung darunter. Er enthält Geld, Erinnerungen und hochwertigen Schrott.\n* Der dritte liegt noch tiefer, unterhalb des zweiten, und enthält Erinnerungen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito",
+     "Pink Slime",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "The Art of War",
+     "Chiptropolis",
+     "Mirror",
+     "Programming Manual",
+     "Stopwatch",
+     "Sudoku Book",
+     "Travel Journal"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "019: Saved Seat",
+     "026: Broken Desalination",
+     "033: Divided Warmth",
+     "132: Over the Drop"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 01-2.5": {
+  "wikiTitle": "Habitat Node 01-2.5",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_01-2.5",
+  "revid": 6805,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_01-2.5.png?bef214",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus 4 Stockwerken, auf denen jeweils als Wohnraum genutzte Schiffscontainer stehen. Leitern verbinden alle Stockwerke mit dem Wasserspiegel."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Cocoon",
+     "Green Crawler",
+     "Pink Slime",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Guitar x2",
+     "Mirror",
+     "Music Notes",
+     "Mystery Box x2",
+     "Tommy",
+     "Where's Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "017: Ocean Funeral",
+     "029: Hydroponic Check",
+     "046: Dead Signal"
+    ]
+   }
+  ]
+ },
+ "York Grave": {
+  "wikiTitle": "York Grave",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/York_Grave",
+  "revid": 6796,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort verfügt über mehrere Unterwasserbauten in bis zu 137 m Tiefe. Die meisten davon sind mit roten Kokons bedeckt oder enthalten sie.\n\nDas Erdgeschoss des Hauptturms ist über eine Röhre an der Nordseite des Fundaments erreichbar. Es enthält eine Heilstation, eine Poushki-Kassette sowie höherwertigen Schrott (Broken Laser Bob, Broken Laser Boys, Aged Lazarus Vial und Aged Lazarus Seed Container)."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Commander's Log x 2",
+     "Compass",
+     "Plans x 3",
+     "Small Tree x 3",
+     "Guitar",
+     "Breakdown",
+     "Fluctuations",
+     "Poushki"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "100 - Blanket Corner - 128 meters deep, on the 2nd floor of a building in the northeast corner (not the main tower)",
+     "101 - Lost and Found - 82 meters deep, in the main tower",
+     "102 - Silent Classroom - 116 meters deep, in the main tower",
+     "103 - All In - 25 meters deep, in the main tower"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 02-23": {
+  "wikiTitle": "Habitat Node 02-23",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_02-23",
+  "revid": 6725,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_02-23.png?6b013d",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi x3",
+     "Pink Slime",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "016: Open Container",
+     "018: Numbered Door",
+     "027: Ration Split",
+     "039: Stretcher Corridor"
+    ]
+   }
+  ]
+ },
+ "Helios Reserve Draco": {
+  "wikiTitle": "Helios Reserve Draco",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Helios_Reserve_Draco",
+  "revid": 5336,
+  "image": "https://thelastcaretaker.wiki.gg/images/Helios_Reserve_Draco.png?301f1c",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Sweetheart",
+     "Roller Boi"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions x2",
+     "Biology Notes",
+     "Blueprints",
+     "Mystery Box",
+     "Stopwatch",
+     "Survival Diagrams",
+     "Teddy Bear"
+    ]
+   }
+  ]
+ },
+ "Sanctuary Dock 12": {
+  "wikiTitle": "Sanctuary Dock 12",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Sanctuary_Dock_12",
+  "revid": 3911,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": []
+ },
+ "NDNS Node 55, -2": {
+  "wikiTitle": "NDNS Node 55, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_55%2C_-2",
+  "revid": 7117,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_55%2C_-2.png?eb1905",
+  "intro_de": "Dieser Ort wird sichtbar, wenn man Navigationsleuchtfeuer 49 oder das Navigationsleuchtfeuer am Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort besteht aus einer kleinen Plattform mit einem kleinen Raum darauf. Der Raum ist über eine Schiebetür zugänglich."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "2 Biology Notes",
+     "1 Mystery Box"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "060: Cargo Net (Approx. 345m south, 55.3: 1.1)"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 70, 14": {
+  "wikiTitle": "NDNS Node 70, 14",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_14",
+  "revid": 6787,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_14.png?7a23ff",
+  "intro_de": "Dieser Ort wird sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer kleinen Plattform mit einem Raum, der über ein Schiebetor zugänglich ist."
+   }
+  ]
+ },
+ "NDNS Node 84, -2": {
+  "wikiTitle": "NDNS Node 84, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_84%2C_-2",
+  "revid": 5393,
+  "image": null,
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Crayon",
+     "Small Human Art"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 70, -17": {
+  "wikiTitle": "NDNS Node 70, -17",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_-17",
+  "revid": 6790,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_-17.png?b83e7c",
+  "intro_de": "Dieser Ort wird sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort besteht aus einer kleinen Plattform mit einer Schiebetür sowie einer Treppe zur Wasseroberfläche."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "First Aid",
+     "Music Notes"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 70, -42": {
+  "wikiTitle": "NDNS Node 70, -42",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_-42",
+  "revid": 6877,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_-42.png?45565a",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer kleinen Plattform mit einer Leiter, die nicht bis ans Wasser reicht, sowie einem kleinen Raum mit Schiebetor."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Orange Cocoon",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Guitar",
+     "Mystery Box"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 70, -82": {
+  "wikiTitle": "NDNS Node 70, -82",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_-82",
+  "revid": 6715,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_-82.png?1ac58f",
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dies ist ein einzelner Raum, erreichbar über eine Leiter über dem Meeresspiegel. Man muss entweder mit dem Boot daneben anlegen oder mit einem der Tideripper aus dem Wasser an die Leiter „springen“."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel x 2"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Cognitive Cards",
+     "PECO - Rising Tide",
+     "Programming Manual",
+     "Sudoku Book"
+    ]
+   }
+  ]
+ },
+ "Transposium": {
+  "wikiTitle": "The Maze (Transposium)",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Maze_%28Transposium%29",
+  "revid": 5667,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt. Er beherbergt außerdem die Mission Accept The Rules.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Ash Notebook x10",
+     "Guitar",
+     "Small Tree x2",
+     "Stopwatch",
+     "Teddy Bear x9",
+     "Tommy"
+    ]
+   }
+  ]
+ },
+ "Platform Omega": {
+  "wikiTitle": "Platform Omega",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Platform_Omega",
+  "revid": 6992,
+  "image": null,
+  "intro_de": "Dieser Ort liegt südöstlich des Lazarus Complex. Er wird auf der Karte sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Orange Cocoon",
+     "Red Cocoon",
+     "Ram Shark"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions",
+     "Camera",
+     "Cognitive Cards x2",
+     "Commander's Log",
+     "Crayon",
+     "Encyclopedia",
+     "Guitar",
+     "Maps",
+     "Meditation",
+     "Mirror",
+     "Music Notes x2",
+     "Mystery Box",
+     "Programming Manual",
+     "Small Human Art",
+     "Stopwatch",
+     "Teddy Bear",
+     "Where's Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "126: Talon Shark ID-407"
+    ]
+   }
+  ]
+ },
+ "Talon Offshore Proving Deck": {
+  "wikiTitle": "Talon Offshore Proving Deck",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Talon_Offshore_Proving_Deck",
+  "revid": 6778,
+  "image": "https://thelastcaretaker.wiki.gg/images/Talon_Offshore_Proving_Deck.png?85e697",
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt. Hier findet die Mission A Loyal Sphere statt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Dockbereich und dem Prüfbereich. In beiden Bereichen stehen Schiffscontainer mit allgemeiner Beute. Im Dockbereich gibt es außerdem einen Kran zum Erforschen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Der Prüfbereich setzt beim Einschalten der Arena mehrere Roller Bois frei. Nach deren Vernichtung öffnet sich das große Tor, hinter dem ein Laser Bob wartet. In beiden Bereichen sind außerdem mehrere Kokons verteilt."
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Maps",
+     "Biology Notes",
+     "The Art of War"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "text",
+    "text": "An diesem Ort gibt es keine sammelbaren Proben."
+   }
+  ]
+ },
+ "SGS-E-81-6660": {
+  "wikiTitle": "SGS-E-81-6660",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-E-81-6660",
+  "revid": 6252,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-E-81-6660.png?bf901e",
+  "intro_de": "Diese Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Laser Bob"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "First Aid",
+     "Encyclopedia"
+    ]
+   }
+  ]
+ },
+ "SGS-NE-115-4600": {
+  "wikiTitle": "SGS-NE-115-4600",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-NE-115-4600",
+  "revid": 6865,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-NE-115-4600.png?b467c9",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird durch Aktivieren von Navigationsleuchtfeuer 15 sichtbar. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort besteht aus einem Turm mit einem Landeplatz obenauf."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Guitar",
+     "Teddy Bear"
+    ]
+   }
+  ]
+ },
+ "SGS-SW-115-3255": {
+  "wikiTitle": "SGS-SW-115-3255",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-SW-115-3255",
+  "revid": 5566,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 49 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera",
+     "Compass",
+     "Programming Manual"
+    ]
+   }
+  ]
+ },
+ "SGS-NW-150-6850": {
+  "wikiTitle": "SGS-NW-150-6850",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-NW-150-6850",
+  "revid": 6833,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-NW-150-6850.png?f58ad3",
+  "intro_de": "Dieser Ort befindet sich im nordwestlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Landeplatz mit ein paar Laufstegen direkt darunter."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Angerkoski",
+     "Programming Manual",
+     "Teddy Bear",
+     "Tommy"
+    ]
+   }
+  ]
+ },
+ "SGS-NE-114-1510": {
+  "wikiTitle": "SGS-NE-114-1510",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-NE-114-1510",
+  "revid": 6852,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-NE-114-1510.png?702181",
+  "intro_de": "SGS-NE-114-1510 liegt nordöstlich des Lazarus Complex. Dieser Ort wird auf der Karte sichtbar, wenn man das Navigationsleuchtfeuer auf dem Lazarus Complex mit Strom versorgt. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "None"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera",
+     "Compass",
+     "Teddy Bear",
+     "The Art of War"
+    ]
+   }
+  ]
+ },
+ "SGS-S-150-6300": {
+  "wikiTitle": "SGS-S-150-6300",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-S-150-6300",
+  "revid": 5573,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-S-150-6300.png?4e34a4",
+  "intro_de": "Dieser Ort befindet sich im südlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "none"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Teddy Bear"
+    ]
+   }
+  ]
+ },
+ "SGS-NW-115-5100": {
+  "wikiTitle": "SGS-NW-115-5100",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-NW-115-5100",
+  "revid": 5553,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-NW-115-5100.png?d89685",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Meditation",
+     "Small Tree",
+     "Stopwatch",
+     "Sudoku Book",
+     "Teddy Bear",
+     "The Art of War"
+    ]
+   }
+  ]
+ },
+ "SGS-SE-145-6950": {
+  "wikiTitle": "SGS-SE-145-6950",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-SE-145-6950",
+  "revid": 5523,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Crawler"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Encyclopedia",
+     "First Aid",
+     "Programming Manual",
+     "Teddy Bear",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "SGS-SE-101-7200": {
+  "wikiTitle": "SGS-SE-101-7200",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-SE-101-7200",
+  "revid": 6772,
+  "image": null,
+  "intro_de": "Diese Plattform befindet sich im südöstlichen Teil der Karte. Sie wird auf der Karte sichtbar, wenn man Navigationsleuchtfeuer 32 mit Strom versorgt.\n\nDie Plattform muss zunächst mit dem Bergungs-Gyrokopter besucht werden; danach kann eine Leiter herabgelassen werden, um sie auch vom Wasser aus zu erreichen.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Diese Plattform enthält einen Benzintank mit 1600 l Benzin sowie einen großen Haufen zerstörter Roller Bois, Laser Bobs, Angels und einen verrotteten Hai."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "None"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "text",
+    "text": "1x PECO - Rising Tide"
+   }
+  ]
+ },
+ "SGS-E-96-11400": {
+  "wikiTitle": "SGS-E-96-11400",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-E-96-11400",
+  "revid": 6911,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-E-96-11400.png?52070f",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Turm mit einem Landeplatz obenauf. Am Landeplatz befindet sich ein kleiner Raum, in dem die Plattform mit Strom versorgt werden kann."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito",
+     "Pink Slime"
+    ]
+   }
+  ]
+ },
+ "SGS-SW-72-6800": {
+  "wikiTitle": "SGS-SW-72-6800",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/SGS-SW-72-6800",
+  "revid": 7200,
+  "image": "https://thelastcaretaker.wiki.gg/images/SGS-SW-72-6800.png?a2e10f",
+  "intro_de": "Dieser Ort befindet sich im südwestlichen Teil der Karte. Er wird von keinem der Navigationsleuchtfeuer sichtbar gemacht. Die Plattform ist nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Turm mit einem Landeplatz obenauf."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Encyclopedia",
+     "Mystery Box",
+     "Small Human Art",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "MCV-17 Dead Breath": {
+  "wikiTitle": "MCV-17 Dead Breath",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/MCV-17_Dead_Breath",
+  "revid": 6205,
+  "image": "https://thelastcaretaker.wiki.gg/images/MCV-17_Dead_Breath.png?6670ab",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird nach Aktivierung von Navigationsleuchtfeuer 15 sichtbar. Nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Am Boden des Schachts steht ein großer Benzintank mit 9900 l Benzin."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon",
+     "Mosquito"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Encyclopedia",
+     "Maps",
+     "Music Notes",
+     "Mystery Box",
+     "Small Human Art",
+     "Small Tree",
+     "The Art of War"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "053: Warm Shaft"
+    ]
+   }
+  ]
+ },
+ "MCV-12 Eternal Flame": {
+  "wikiTitle": "MCV-12 Eternal Flame",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/MCV-12_Eternal_Flame",
+  "revid": 6254,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im südlichen Teil der Karte. Er wird nach Aktivierung von Navigationsleuchtfeuer 32 sichtbar. Nur mit dem Bergungs-Gyrokopter erreichbar.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Compass",
+     "Encyclopedia",
+     "Plans x2",
+     "Small Tree",
+     "Stopwatch",
+     "Sudoku Book",
+     "Teddy Bear x2",
+     "Where's Tommy x2"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "054: Earthfire"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 10-4": {
+  "wikiTitle": "Habitat Node 10-4",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_10-4",
+  "revid": 6835,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_10-4.png?9c71dd",
+  "intro_de": "Dieser Ort befindet sich im nordwestlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht. Weitersuchen, Caretaker.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer kleinen Plattform mit einem Schiffscontainer darauf."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Encyclopedia",
+     "Mirror",
+     "Survival Diagrams"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "045: Final Cast"
+    ]
+   }
+  ]
+ },
+ "Seed Reserve 06": {
+  "wikiTitle": "Seed Reserve 06",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_06",
+  "revid": 7002,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_06.png?9273e9",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte, außerhalb jedes aufgedeckten Bereichs, und muss daher selbst gefunden werden.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 84 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine bekannten Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 17": {
+  "wikiTitle": "Seed Reserve 17",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_17",
+  "revid": 6838,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_17.png?8feb35",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte, außerhalb jedes aufgedeckten Bereichs, und muss daher selbst gefunden werden.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 80 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 18": {
+  "wikiTitle": "Seed Reserve 18",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_18",
+  "revid": 6827,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_18.png?97f337",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte, außerhalb jedes aufgedeckten Bereichs, und muss daher selbst gefunden werden.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 115 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An diesem Ort befindet sich ein Angel, der angreift, sobald die Human Seeds an die Oberfläche kommen. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "NDNS Node 110, -2": {
+  "wikiTitle": "NDNS Node 110, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_110%2C_-2",
+  "revid": 6935,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_110%2C_-2.png?972306",
+  "intro_de": "Dieser Ort wird von keinem Navigationsleuchtfeuer sichtbar gemacht und muss daher selbst gefunden werden.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer kleinen Plattform mit einer Kiste obenauf. Von der Plattform führt eine Treppe zum Wasser hinab; die Kiste lässt sich über eine Schiebeklappe öffnen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Plans",
+     "Tommy",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 150, -2": {
+  "wikiTitle": "NDNS Node 150, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_150%2C_-2",
+  "revid": 6918,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_150%2C_-2.png?b8ccd8",
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer kleinen Plattform mit einer Kiste obenauf. Eine Leiter führt von der Plattform hinab zum Wasserspiegel; die Kiste ist über eine Schiebeklappe zugänglich."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Angel x2",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Compass",
+     "Encyclopedia",
+     "Assembly Instructions",
+     "Maps"
+    ]
+   }
+  ]
+ },
+ "NDNS Node -10, -2": {
+  "wikiTitle": "NDNS Node -10, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_-10%2C_-2",
+  "revid": 6140,
+  "image": null,
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Angel X2"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "text",
+    "text": "Mirror X3"
+   }
+  ]
+ },
+ "NDNS Node 70, 38": {
+  "wikiTitle": "NDNS Node 70, 38",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_38",
+  "revid": 5209,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_38.png?af1e22",
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel x2",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Teddy Bear"
+    ]
+   }
+  ]
+ },
+ "NDNS Node 70, 78": {
+  "wikiTitle": "NDNS Node 70, 78",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_78",
+  "revid": 6779,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_70%2C_78.png?66afa5",
+  "intro_de": "Dieser Ort befindet sich im südlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einer Kiste mit Schiebetür und einer Treppe zum Wasser."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Biology Notes x3",
+     "Cards x3",
+     "Teddy Bear x2"
+    ]
+   }
+  ]
+ },
+ "NDNs Node -70,-2": {
+  "wikiTitle": "NDNS Node -70, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_-70%2C_-2",
+  "revid": 5588,
+  "image": null,
+  "intro_de": "Dieser Ort ist der westlichste Punkt der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Mystery Box",
+     "Sudoku Book x3",
+     "Small Tree"
+    ]
+   }
+  ]
+ },
+ "NDNs Node 70,-142": {
+  "wikiTitle": "NDNS Node 70, -142",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_-142",
+  "revid": 6253,
+  "image": null,
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints x1",
+     "Mystery Box x1",
+     "Maps x1",
+     "Music Notes x1"
+    ]
+   }
+  ]
+ },
+ "NDNs Node 70,138": {
+  "wikiTitle": "NDNS Node 70, 138",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_70%2C_138",
+  "revid": 6265,
+  "image": null,
+  "intro_de": "Dieser Ort ist der südlichste Punkt der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera",
+     "Cards",
+     "Commander's Log",
+     "First Aid",
+     "Programming Manual",
+     "Small Human Art",
+     "Small Tree",
+     "Stopwatch"
+    ]
+   }
+  ]
+ },
+ "NDNs Node 210.-2": {
+  "wikiTitle": "NDNS Node 210, -2",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/NDNS_Node_210%2C_-2",
+  "revid": 6909,
+  "image": "https://thelastcaretaker.wiki.gg/images/NDNS_Node_210%2C_-2.png?132a0a",
+  "intro_de": "Dieser Ort besteht aus einer kleinen Plattform mit einem Raum, der über eine Schiebeklappe zugänglich ist.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Roller Boi",
+     "Red Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera x2",
+     "Small Tree x6"
+    ]
+   }
+  ]
+ },
+ "Habitat Node 38-98": {
+  "wikiTitle": "Habitat Node 38-98",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Habitat_Node_38-98",
+  "revid": 6722,
+  "image": "https://thelastcaretaker.wiki.gg/images/Habitat_Node_38-98.png?71f016",
+  "intro_de": "Dieser Ort befindet sich im nordwestlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort verfügt über zwei Gebäude:\n* Das nördliche Gebäude enthält eine Strombank, die den Ort versorgt, sowie eine elektrische Wandsteckdose.\n* Das südliche Gebäude hat eine verschlossene, strombetriebene Tür, die im Rahmen der Mission Mother freigeschaltet wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Laser Bob x 1",
+     "Arch Angel x 2"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Cards",
+     "Love Letters",
+     "Small Human Art",
+     "Travel Journal",
+     "Plans",
+     "Blueprints",
+     "Survival Diagrams",
+     "Music Notes",
+     "Commander's Log",
+     "Assembly Instructions",
+     "Biology Notes",
+     "Maps",
+     "Programming Manual",
+     "Sudoku Book",
+     "Cognitive Cards",
+     "The Art of War",
+     "Where's Tommy",
+     "First Aid",
+     "Meditation",
+     "Encyclopedia",
+     "Small Tree",
+     "Mystery Box",
+     "Mirror",
+     "Stopwatch",
+     "Teddy Bear",
+     "Camera",
+     "Guitar",
+     "Bowling Ball",
+     "Basketball",
+     "Bowling Pin",
+     "Tommy",
+     "Crayon",
+     "Compass"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "028: Net Pull",
+     "030: Power Cable",
+     "047: Machine Warmth"
+    ]
+   }
+  ]
+ },
+ "Unlisted Tower": {
+  "wikiTitle": "Unlisted Tower",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Unlisted_Tower",
+  "revid": 6898,
+  "image": "https://thelastcaretaker.wiki.gg/images/Unlisted_Tower.png?933a46",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird sichtbar, wenn man Navigationsleuchtfeuer 15 mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem aus dem Meer ragenden Felsen mit einem erforschbaren Gebäude darauf. Ganz oben befindet sich ein Kommunikationspult."
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "660: Strength in Stone",
+     "666: Early Code"
+    ]
+   }
+  ]
+ },
+ "Quarantine Stack Amen": {
+  "wikiTitle": "Quarantine Stack Amen",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Quarantine_Stack_Amen",
+  "revid": 6899,
+  "image": "https://thelastcaretaker.wiki.gg/images/Quarantine_Stack_Amen.png?a52be1",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem aus dem Meer ragenden Felsen mit einem kleinen Dock. Auf dem Felsen befinden sich mehrere erforschbare Bauten. Am Dock gibt es außerdem ein großes Tor, das sich öffnen lässt, nachdem der Ort mit Strom versorgt wurde."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Green Cocoon",
+     "Red Cocoon",
+     "Red Slime",
+     "Laser Bob"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Cards",
+     "Camera",
+     "Commander's Log",
+     "Guitar",
+     "Love Letters",
+     "Maps",
+     "Stopwatch",
+     "Sudoku Book"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "575: A Small Model of the World",
+     "702: The Moving Plain",
+     "703: The Marked Horse",
+     "704: The Bond Remembered",
+     "NOTE: Blast rocks blocking tunnels 3 samples are inside the spire"
+    ]
+   }
+  ]
+ },
+ "Quarantine Stack Aurora": {
+  "wikiTitle": "Quarantine Stack Aurora",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Quarantine_Stack_Aurora",
+  "revid": 6905,
+  "image": "https://thelastcaretaker.wiki.gg/images/Quarantine_Stack_Aurora.png?59a42b",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem aus dem Meer ragenden Felsen. Mehrere zerbrochene Laufstege bilden zusammen einen Pfad nach oben. Ganz oben befindet sich ein Kommunikationspult."
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Encyclopedia",
+     "Small Tree"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "547: A Figure That Outlived Its Maker",
+     "568: A Map Before Maps"
+    ]
+   }
+  ]
+ },
+ "Quarantine Stack Chorus": {
+  "wikiTitle": "Quarantine Stack Chorus",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Quarantine_Stack_Chorus",
+  "revid": 6886,
+  "image": "https://thelastcaretaker.wiki.gg/images/Quarantine_Stack_Chorus.png?44585f",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus 2 aus dem Meer ragenden Felsen mit mehreren erforschbaren Bauten. Ganz oben befindet sich ein Kommunikationspult."
+   },
+   {
+    "header_de": "Proben",
+    "type": "text",
+    "text": "559: A Bird Worth Remembering"
+   }
+  ]
+ },
+ "Quarantine Stack Dawn": {
+  "wikiTitle": "Quarantine Stack Dawn",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Quarantine_Stack_Dawn",
+  "revid": 6894,
+  "image": "https://thelastcaretaker.wiki.gg/images/Quarantine_Stack_Dawn.png?b1a98c",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem aus dem Meer ragenden Felsen. Darauf befindet sich etwas, das wie eine Kampfarena aussieht. Ein Kommunikationspult sitzt oben auf einem der Türme."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Roller Boi"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "text",
+    "text": "Cards"
+   },
+   {
+    "header_de": "Proben",
+    "type": "text",
+    "text": "589: One Who Stood Different"
+   }
+  ]
+ },
+ "Manifest Tower": {
+  "wikiTitle": "Manifest Tower",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Manifest_Tower",
+  "revid": 6901,
+  "image": "https://thelastcaretaker.wiki.gg/images/Manifest_Tower.png?74ad85",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Turm mit einer Ebene aus Schiffscontainern. Darüber befindet sich ein Landeplatz für einen Bergungs-Gyrokopter, umgeben von LumiMid-Solarpanelen."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Pink Slime"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Basketball",
+     "Cards",
+     "Crayon",
+     "Life Jacket",
+     "Shoes",
+     "Small Human Art",
+     "Teddy Bear",
+     "The Manifest Chant"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "text",
+    "text": "133: Sisters"
+   }
+  ]
+ },
+ "The Spire of Exodus": {
+  "wikiTitle": "The Spire of Exodus",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Spire_of_Exodus",
+  "revid": 6907,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Spire_of_Exodus.png?f7e403",
+  "intro_de": "Dieser Ort befindet sich im nordöstlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem aus dem Meer ragenden Felsen. Auf der Spitze der Nadel steht eine Statue, knapp darunter liegt eine Höhle. Der Höhleneingang ist mit Felsen blockiert."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine spezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "617: Thought Becomes Code",
+     "624: Environmental Memory",
+     "628: Between Human and Animal"
+    ]
+   }
+  ]
+ },
+ "Courier Sieve Node Facility": {
+  "wikiTitle": "Courier Sieve Node Facility",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Courier_Sieve_Node_Facility",
+  "revid": 6993,
+  "image": "https://thelastcaretaker.wiki.gg/images/Courier_Sieve_Node_Facility.png?d1730c",
+  "intro_de": "Dieser Ort befindet sich im östlichen Teil der Karte. Er wird sichtbar, sobald die Mission True Choices begonnen wird.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort besteht aus einem Riff mit der Anlage in dessen Mitte. Die Anlage verfügt über einen Geräteschuppen und 3 erforschbare Stockwerke."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Arch Angel",
+     "Ram Shark"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions",
+     "Blueprints",
+     "Meditation",
+     "Sudoku Book",
+     "Star Child Memory"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "676: Learning to Belong",
+     "683: The Shared Scene",
+     "687: Mountain of Resources",
+     "694: Speed Remembered",
+     "701: Beasts in Conflict"
+    ]
+   }
+  ]
+ },
+ "The Spire of Command": {
+  "wikiTitle": "The Spire of Command",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Spire_of_Command",
+  "revid": 7202,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Spire_of_Command.png?ca9755",
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An den Klippenkanten ist man nicht sicher."
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Compass",
+     "Meditation"
+    ]
+   },
+   {
+    "header_de": "Ressourcen",
+    "type": "text",
+    "text": "An diesem Ort finden sich unter anderem folgende Ressourcen: 9 Golderz, 3 Titanerz, 2 kleine Benzinkanister (insgesamt 400 l) und 2 abgesetzte Täuschungskapseln."
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "598: Knowledge in Pieces",
+     "604: The Social Wall",
+     "641: The Shared Pursuit"
+    ]
+   }
+  ]
+ },
+ "The Spire of Industry": {
+  "wikiTitle": "The Spire of Industry",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Spire_of_Industry",
+  "revid": 6757,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Spire_of_Industry.png?a072c7",
+  "intro_de": "",
+  "sections": [
+   {
+    "header_de": "Beschreibung",
+    "type": "text",
+    "text": "The Spire of Industry ist ein Ort im Norden der Karte. Es handelt sich um eine bergähnliche Nadel mit einer großen Statue an der Spitze. Der Spieler kann den Gipfel erreichen, indem er Wall Steps baut oder den Bergungs-Gyrokopter benutzt.\n\nÜber einen Felsvorsprung knapp unterhalb des Gipfels ist eine Höhle erreichbar. Sie ist mit einem großen Felsbrocken blockiert, der sich mit zwei Large Grenades zerstören lässt. Dahinter liegt Beute, darunter zwei Quantum Crystals und etwas Geld. Außerdem befindet sich dort eine Karte an der Wand, die weder gescannt noch eingesammelt werden kann, aber möglicherweise eine Bedeutung hat."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Keine, jedoch können Night Crawler im Wasser rund um die Nadel auftauchen."
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera x 1",
+     "Maps x 1",
+     "Teddy Bear x 1",
+     "Commander's Log x 1",
+     "Guitar x 1"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "603: Moving As One",
+     "647: Branching Thought",
+     "635: Feelings Made Visible"
+    ]
+   }
+  ]
+ },
+ "North Deep Intake Station": {
+  "wikiTitle": "North Deep Intake Station",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/North_Deep_Intake_Station",
+  "revid": 6739,
+  "image": null,
+  "intro_de": "North Deep Intake Station liegt im Norden der Karte, südwestlich von NDNS Node 70, -142. Dieser Ort wird sichtbar, sobald die Mission Memory for Aron begonnen wird.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Orange Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "A Future Without Him",
+     "Camera",
+     "Compass"
+    ]
+   },
+   {
+    "header_de": "Bemerkenswerte Beute",
+    "type": "list",
+    "items": [
+     "Ammonite",
+     "Nuggets harvested from ores that are underwater at the base of the station",
+     "Quantum Crystal",
+     "Titanium Nugget",
+     "Gold Nugget"
+    ]
+   }
+  ]
+ },
+ "Eden Cradle": {
+  "wikiTitle": "Eden Cradle",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Eden_Cradle",
+  "revid": 6214,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im östlichen Teil der Karte. Er wird von keinem Navigationsleuchtfeuer sichtbar gemacht.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Blue Cocoon",
+     "Green Cocoon",
+     "Red Cocoon",
+     "Sweetheart",
+     "Roller Boi",
+     "Laser Bob",
+     "Angel"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Camera",
+     "Mirror",
+     "Programming Manual",
+     "Stopwatch",
+     "The Art of War",
+     "Tommy x2",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "Seed Reserve 03": {
+  "wikiTitle": "Seed Reserve 03",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_03",
+  "revid": 6924,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_03.png?798d1a",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 104 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 04": {
+  "wikiTitle": "Seed Reserve 04",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_04",
+  "revid": 7086,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_04.png?dfc39b",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 174 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An diesem Ort befindet sich ein Angel, der angreift, sobald die Human Seeds an die Oberfläche kommen. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 05": {
+  "wikiTitle": "Seed Reserve 05",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_05",
+  "revid": 6926,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_05.png?ea69e4",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 145 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 08": {
+  "wikiTitle": "Seed Reserve 08",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_08",
+  "revid": 6929,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_08.png?671c29",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 145 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 09": {
+  "wikiTitle": "Seed Reserve 09",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_09",
+  "revid": 7197,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_09.png?6a7648",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 75 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 11": {
+  "wikiTitle": "Seed Reserve 11",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_11",
+  "revid": 6927,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_11.png?715546",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 145 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Es gibt an diesem Ort keine ortsspezifischen Gegner. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "124: \tInternal System Log"
+    ]
+   }
+  ]
+ },
+ "Seed Reserve 12": {
+  "wikiTitle": "Seed Reserve 12",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_12",
+  "revid": 6921,
+  "image": null,
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte, außerhalb jedes aufgedeckten Bereichs, und muss daher selbst gefunden werden.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 40 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An diesem Ort befindet sich ein Angel, der angreift, sobald die Human Seeds an die Oberfläche kommen. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 13": {
+  "wikiTitle": "Seed Reserve 13",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_13",
+  "revid": 6928,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_13.png?33a61b",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 94 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An diesem Ort befindet sich ein Angel, der angreift, sobald die Human Seeds an die Oberfläche kommen. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Seed Reserve 16": {
+  "wikiTitle": "Seed Reserve 16",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Seed_Reserve_16",
+  "revid": 6930,
+  "image": "https://thelastcaretaker.wiki.gg/images/Seed_Reserve_16.png?a6a3d8",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird auf der Karte sichtbar, wenn man The Last Listener Station mit Strom versorgt.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Der Ort sieht aus, als wäre eine Raketenkapsel ins Meer gestürzt und hätte sich in 113 m Tiefe abgesetzt. In der Kapsel befinden sich 4 Human Seeds in 4 Tresoren. Der Eingang liegt am Boden und ist verschlossen; er lässt sich öffnen, sobald die Kapsel mit Strom versorgt wird."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "An diesem Ort befindet sich ein Angel, der angreift, sobald die Human Seeds an die Oberfläche kommen. Talon Sharks und Night Crawler können im offenen Meer auftauchen."
+   }
+  ]
+ },
+ "Twin Tide": {
+  "wikiTitle": "Twin Tide",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Twin_Tide",
+  "revid": 5203,
+  "image": null,
+  "intro_de": "Dieser Ort liegt direkt nördlich von Navigationsleuchtfeuer 32. Eingang in 97 m Tiefe, maximale Tiefe 103 m.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "None"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Compass",
+     "Encyclopedia",
+     "Maps",
+     "Small Human Art",
+     "The Art of War"
+    ]
+   }
+  ]
+ },
+ "North Lantern": {
+  "wikiTitle": "North Lantern",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/North_Lantern",
+  "revid": 6217,
+  "image": "https://thelastcaretaker.wiki.gg/images/North_Lantern_1.jpg?ac69a5",
+  "intro_de": "Dieser Ort liegt direkt nördlich von Black Vein Station. Eingang in 66 m Tiefe, maximale Tiefe 93 m.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Crayon",
+     "Guitar",
+     "Mirror",
+     "Sudoku Book",
+     "Teddy Bear",
+     "Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "517: Animals In Motion",
+     "518: Work Beneath The Tree"
+    ]
+   }
+  ]
+ },
+ "Grey Mouth": {
+  "wikiTitle": "Grey Mouth",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Grey_Mouth",
+  "revid": 6933,
+  "image": "https://thelastcaretaker.wiki.gg/images/Grey_Mouth.png?2e51b8",
+  "intro_de": "Dieser Ort liegt nordwestlich von The Last Listener Station. Eingang in 200 m Tiefe, maximale Tiefe ebenfalls 200 m.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort ist eine Höhle mit einem kleinen, erforschbaren Raum am Ende."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "list",
+    "items": [
+     "Red Cocoon"
+    ]
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Commander's Log",
+     "Meditation",
+     "Stopwatch",
+     "Maps"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "505: Before Words",
+     "506: Inside the Living Pattern",
+     "510: Many Around the Herd"
+    ]
+   }
+  ]
+ },
+ "South Echo": {
+  "wikiTitle": "South Echo",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/South_Echo",
+  "revid": 6783,
+  "image": null,
+  "intro_de": "Dieser Ort liegt direkt östlich von NDNS Node 70, 38. Eingang in 94 m Tiefe, maximale Tiefe ebenfalls 94 m.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Assembly Instructions",
+     "Biology Notes",
+     "Cognitive Cards",
+     "Guitar",
+     "Where's Tommy"
+    ]
+   }
+  ]
+ },
+ "Deep Silence": {
+  "wikiTitle": "Deep Silence",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Deep_Silence",
+  "revid": 6234,
+  "image": "https://thelastcaretaker.wiki.gg/images/Deep_Silence_Cave_1.jpg?ad7a37",
+  "intro_de": "Dieser Ort liegt am Grund eines schluchtartigen Bereichs. Eingang in 165 m Tiefe.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Blueprints",
+     "Cards",
+     "Stopwatch"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "511: Wall of Shared Signs",
+     "521: Circle of The Herd"
+    ]
+   }
+  ]
+ },
+ "Far Horizon": {
+  "wikiTitle": "Far Horizon",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/Far_Horizon",
+  "revid": 6232,
+  "image": null,
+  "intro_de": "Dieser Ort liegt direkt südöstlich von Exodus Station. Eingang in 137 m Tiefe, maximale Tiefe ebenfalls 137 m.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Cognitive Cards",
+     "Encyclopedia",
+     "Small Tree",
+     "Where's Tommy"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "512: Facing Bison",
+     "514: The Marked Hand"
+    ]
+   }
+  ]
+ },
+ "First Whisper": {
+  "wikiTitle": "First Whisper",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/First_Whisper",
+  "revid": 6704,
+  "image": "https://thelastcaretaker.wiki.gg/images/First_Whisper_Cave_1.jpg?264212",
+  "intro_de": "Dieser Ort liegt direkt östlich des Felsblocks. Eingang in 75 m Tiefe, maximale Tiefe ebenfalls 75 m.",
+  "sections": [
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Red Cocoon"
+   },
+   {
+    "header_de": "Erinnerungen",
+    "type": "list",
+    "items": [
+     "Commander's Log",
+     "Meditation",
+     "Mystery Box",
+     "The Art of War"
+    ]
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "502: The Shape of Us",
+     "504: Among Larger Lives"
+    ]
+   }
+  ]
+ },
+ "The Forth Chamber": {
+  "wikiTitle": "The Forth Chamber",
+  "url": "https://thelastcaretaker.wiki.gg/wiki/The_Forth_Chamber",
+  "revid": 6874,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Forth_Chamber.png?6a805f",
+  "intro_de": "Dieser Ort befindet sich im nördlichen Teil der Karte. Er wird durch kein Navigationsleuchtfeuer auf der Karte sichtbar.",
+  "sections": [
+   {
+    "header_de": "Einrichtungen",
+    "type": "text",
+    "text": "Dieser Ort ist eine versteckte Unterwasserhöhle in 150 m Tiefe. Der Eingang liegt in 120 m Tiefe, oben auf einem Plateau."
+   },
+   {
+    "header_de": "Gegner",
+    "type": "text",
+    "text": "Am Eingang befinden sich Red Cocoons. Sharks und Night Crawler können im offenen Meer auftauchen."
+   },
+   {
+    "header_de": "Proben",
+    "type": "list",
+    "items": [
+     "522: Hands Among the Animals",
+     "527: What the Water Gave",
+     "531: Among Larger Bodies",
+     "537: What Could Feed and Wound"
+    ]
+   },
+   {
+    "header_de": "Historie",
+    "type": "text",
+    "text": "Update 5.0: Einführung.\n\nUpdate 5.5: Fehler behoben, durch den ein zweiter Eingang ins Nichts führte."
+   }
+  ]
+ }
+}

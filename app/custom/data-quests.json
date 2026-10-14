@@ -1,0 +1,767 @@
+[
+ {
+  "id": "from-darkness-light",
+  "en": "From Darkness, Light",
+  "de": "Aus der Dunkelheit, Licht",
+  "experience": 50,
+  "points": 0,
+  "initiated_de": "Beim Start eines neuen Spiels.",
+  "description_de": "Finde Electric Cables, schließe die Battery an die Outlet an und stelle die Stromversorgung wieder her.",
+  "tasks_de": [
+   "Battery an die Outlet anschließen",
+   "Den Hauptschalter aktivieren"
+  ],
+  "rewards_de": [
+   "+50 Erfahrung"
+  ],
+  "locations": [
+   "Sanctuary 37"
+  ]
+ },
+ {
+  "id": "where-waters-wait",
+  "en": "Where Waters Wait",
+  "de": "Wo die Wasser warten",
+  "experience": 50,
+  "points": 0,
+  "initiated_de": "Nach Abschluss von \"Aus der Dunkelheit, Licht\".",
+  "description_de": "Mach dich auf den Weg zur Bootshalle, um deine Aufgabe herauszufinden. Vielleicht weist dir das Boot dort den Weg zu deiner wahren Bestimmung.",
+  "tasks_de": [
+   "Zur Bootshalle gehen",
+   "Die Heal Station nutzen und Gesundheit wiederherstellen (optional)",
+   "Die Save Station nutzen und den Fortschritt speichern (optional)"
+  ],
+  "rewards_de": [
+   "+50 Erfahrung"
+  ],
+  "locations": [
+   "Sanctuary 37"
+  ]
+ },
+ {
+  "id": "light-the-way-home",
+  "en": "Light the Way Home",
+  "de": "Erleuchte den Weg nach Hause",
+  "experience": 100,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Wo die Wasser warten\".",
+  "description_de": "Stelle die Stromversorgung des Oberdecks wieder her, damit der Betrieb weiterlaufen kann. Die Stromversorgung des Docks ist ausgefallen. Aktiviere den Hauptschalter am Dock.",
+  "tasks_de": [
+   "Den Strom aktivieren"
+  ],
+  "rewards_de": [
+   "+100 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Sanctuary 37"
+  ]
+ },
+ {
+  "id": "vessel-of-tomorrow",
+  "en": "Vessel of Tomorrow",
+  "de": "Gefährt von morgen",
+  "experience": 100,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Erleuchte den Weg nach Hause\".",
+  "description_de": "Repariere, betanke und mach das Boot bereit für die Reise. Es hat viel zu lange still gewartet: Motor instand setzen, mit Diesel betanken und die Docktore öffnen.",
+  "tasks_de": [
+   "Das Boot mit Strom versorgen (optional)",
+   "Das Boot mit Diesel betanken (optional)",
+   "Den Dieselmotor des Boots reparieren (optional)",
+   "Den Engine Cylinder wieder an den Dieselmotor anschließen (optional)",
+   "Wenn bereit: die Docktore öffnen und rausfahren"
+  ],
+  "rewards_de": [
+   "+100 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Sanctuary 37"
+  ]
+ },
+ {
+  "id": "rags-to-riches",
+  "en": "Rags to Riches",
+  "de": "Vom Müll zum Wert",
+  "experience": 25,
+  "points": 0,
+  "initiated_de": "Nach Abschluss von \"Gefährt von morgen\".",
+  "description_de": "Nutze den Recycler, um Materialien aus Müll bzw. Gegenständen zu gewinnen.",
+  "tasks_de": [
+   "Eisen gewinnen",
+   "Kunststoff gewinnen",
+   "Stoff gewinnen"
+  ],
+  "rewards_de": [
+   "+25 Erfahrung"
+  ],
+  "locations": []
+ },
+ {
+  "id": "voyage-into-the-unknown",
+  "en": "Voyage into the Unknown",
+  "de": "Reise ins Ungewisse",
+  "experience": 100,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Gefährt von morgen\".",
+  "description_de": "Segle zur Navigation Beacon 49, östlich von Sanctuary Dock 37. Sie birgt ein wichtiges Relais – wird es wieder funktionstüchtig, zeigt sich dir der Weg zum Lazarus Complex deutlicher.",
+  "tasks_de": [
+   "Zur Navigation Beacon 49 segeln"
+  ],
+  "rewards_de": [
+   "+100 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Navigation Beacon 49"
+  ]
+ },
+ {
+  "id": "first-light",
+  "en": "First Light",
+  "de": "Erstes Licht",
+  "experience": 50,
+  "points": 0,
+  "initiated_de": "Nach Abschluss von \"Vom Müll zum Wert\".",
+  "description_de": "Lerne die Grundlagen der Fertigung und stelle ein LumiLite Solar Panel her. Die See wird unbarmherzig sein, bereite dich vor.",
+  "tasks_de": [
+   "LumiLite Solar Panel in den Skills freischalten",
+   "Ein LumiLite Solar Panel herstellen",
+   "Die Fertigung abschließen"
+  ],
+  "rewards_de": [
+   "+50 Erfahrung"
+  ],
+  "locations": [
+   "Navigation Beacon 49"
+  ]
+ },
+ {
+  "id": "signals-from-silence",
+  "en": "Signals from Silence",
+  "de": "Signale aus der Stille",
+  "experience": 200,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Reise ins Ungewisse\".",
+  "description_de": "Stelle die Stromversorgung wieder her und reaktiviere das Navigations-Relais an Beacon 49. Diese Bake ist entscheidend, um den Weg zum Überleben der Menschheit freizulegen.",
+  "tasks_de": [
+   "Die Stromversorgung an Navigation Beacon 49 wiederherstellen",
+   "Zum Relay Control Room gehen",
+   "Das Relais aufladen",
+   "Das Communications Array reparieren",
+   "Das Relais aktivieren"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Navigation Beacon 49"
+  ]
+ },
+ {
+  "id": "lazarus-come-forth",
+  "en": "Lazarus, Come Forth",
+  "de": "Lazarus, erhebe dich",
+  "experience": 250,
+  "points": 20,
+  "initiated_de": "Nach Abschluss von \"Signale aus der Stille\".",
+  "description_de": "Entdecke den Lazarus Complex und betrete ihn, um die Zukunft der Menschheit wiederherzustellen. Einst das schlagende Herz der Wiedergeburt der Menschheit, liegt er nun still und vergessen.",
+  "tasks_de": [
+   "Einen Weg in den Lazarus Complex finden",
+   "Die Hall of Humanity betreten – Mission \"Erweckung der Halle\" abschließen"
+  ],
+  "rewards_de": [
+   "+250 Erfahrung",
+   "+20 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Lazarus Complex"
+  ]
+ },
+ {
+  "id": "awakening-the-hall",
+  "en": "Awakening the Hall",
+  "de": "Erweckung der Halle",
+  "experience": 100,
+  "points": 10,
+  "initiated_de": "Nach Abschluss des ersten Ziels von \"Lazarus, erhebe dich\".",
+  "description_de": "Stelle die Stromversorgung des Lazarus Complex wieder her, um Zugang zur Hall of Humanity zu erhalten.",
+  "tasks_de": [
+   "Die Stromversorgung des Lazarus Complex wiederherstellen"
+  ],
+  "rewards_de": [
+   "+100 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Lazarus Complex"
+  ]
+ },
+ {
+  "id": "from-ashes-we-rise",
+  "en": "From Ashes, We Rise",
+  "de": "Aus der Asche erheben wir uns",
+  "experience": 200,
+  "points": 20,
+  "initiated_de": "Nach Abschluss von \"Lazarus, erhebe dich\".",
+  "description_de": "Repariere und bestrome ein Lazarus Rack. Die Racks liegen still da und warten auf deine Hilfe – sie werden die Seeds der Menschheit großziehen.",
+  "tasks_de": [
+   "Eines der Lazarus Racks reparieren",
+   "Das reparierte Lazarus Rack mit Strom versorgen"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+20 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Lazarus Complex"
+  ]
+ },
+ {
+  "id": "guiding-light",
+  "en": "Guiding Light",
+  "de": "Leitstern",
+  "experience": 200,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Lazarus, erhebe dich\".",
+  "description_de": "Aktiviere das Navigations-Relais oben im Lazarus Complex. Es ist entscheidend, um weitere Baken und wichtige Einrichtungen zum Erhalt der Menschheit zu finden.",
+  "tasks_de": [
+   "Das Navigations-Relais aufladen",
+   "Das Communications Array reparieren",
+   "Das Navigations-Relais aktivieren"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Lazarus Complex"
+  ]
+ },
+ {
+  "id": "seeds-of-the-future",
+  "en": "Seeds of the Future",
+  "de": "Saat der Zukunft",
+  "experience": 400,
+  "points": 30,
+  "initiated_de": "Nach Abschluss von \"Aus der Asche erheben wir uns\".",
+  "description_de": "Finde einen Seed Vault, hole einen Human Seed heraus und bringe ihn zur Hall of Humanity zurück. Diese Tresore bergen den Schlüssel zum Überleben der Menschheit – jede Minute zählt.",
+  "tasks_de": [
+   "Einen Seed Vault finden – Gerüchten nach einer im Norden: Missionen \"Echos im Grab\" und \"Reise zur Wiege\" abschließen",
+   "Zugang zum Seed Vault verschaffen",
+   "In die Seed Chamber hinabsteigen",
+   "Einen Seed entnehmen und in eine Lazarus Pod legen",
+   "Die Pod mit dem Seed zur Hall of Humanity im Lazarus Complex bringen"
+  ],
+  "rewards_de": [
+   "+400 Erfahrung",
+   "+30 Enhancer-Punkte"
+  ],
+  "locations": []
+ },
+ {
+  "id": "echoes-in-the-grave",
+  "en": "Echoes in the Grave",
+  "de": "Echos im Grab",
+  "experience": 300,
+  "points": 20,
+  "initiated_de": "Nach Abschluss von \"Aus der Asche erheben wir uns\".",
+  "description_de": "Erkunde das versunkene Norfolk Grave, um Hinweise auf den Seed Vault zu finden.",
+  "tasks_de": [
+   "Nach Norfolk Grave segeln",
+   "Die versteckte Kammer im Grab finden",
+   "Am PECO-Terminal die Seed-Vault-Daten abrufen"
+  ],
+  "rewards_de": [
+   "+300 Erfahrung",
+   "+20 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Norfolk Grave"
+  ]
+ },
+ {
+  "id": "beyond-the-horizon",
+  "en": "Beyond the Horizon",
+  "de": "Jenseits des Horizonts",
+  "experience": 200,
+  "points": 10,
+  "initiated_de": "Bei Annäherung an Navigation Beacon 32.",
+  "description_de": "Reaktiviere das Navigations-Relais an Beacon 32. Sie ist offline und schränkt die Navigation ein.",
+  "tasks_de": [
+   "Das Navigations-Relais aufladen",
+   "Das Communications Array reparieren",
+   "Das Navigations-Relais aktivieren"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Navigation Beacon 32"
+  ]
+ },
+ {
+  "id": "relight-the-way",
+  "en": "Relight the Way",
+  "de": "Entfache den Weg neu",
+  "experience": 200,
+  "points": 10,
+  "initiated_de": "Bei Annäherung an Navigation Beacon 15.",
+  "description_de": "Reaktiviere das Navigations-Relais an Beacon 15. Sie ist offline und schränkt die Navigation ein.",
+  "tasks_de": [
+   "Das Navigations-Relais aufladen",
+   "Das Communications Array reparieren",
+   "Das Navigations-Relais aktivieren"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Navigation Beacon 15"
+  ]
+ },
+ {
+  "id": "voyage-to-the-cradle",
+  "en": "Voyage to the Cradle",
+  "de": "Reise zur Wiege",
+  "experience": 200,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Echos im Grab\".",
+  "description_de": "Segle zur Seed Vault Prometheus, deine Zugangsberechtigung wurde erteilt. Dieser heilige Ort birgt die letzten Seeds der Menschheit.",
+  "tasks_de": [
+   "Zur Seed Vault Prometheus segeln"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Seed Vault Prometheus"
+  ]
+ },
+ {
+  "id": "the-next-step-of-evolution",
+  "en": "The Next Step of Evolution",
+  "de": "Der nächste Schritt der Evolution",
+  "experience": 400,
+  "points": 30,
+  "initiated_de": "Nach Abschluss von \"Saat der Zukunft\".",
+  "description_de": "Starte das Wachstum eines Menschen – versorge ihn mit frischem Wasser, Memories und Food, und hole ihn nach dem Heranwachsen ab.",
+  "tasks_de": [
+   "Das Wachstum des Human Seed starten (frisches Wasser, Memories, Food bereitstellen)",
+   "Warten, bis der Wachstumszyklus abgeschlossen ist"
+  ],
+  "rewards_de": [
+   "+400 Erfahrung",
+   "+30 Enhancer-Punkte"
+  ],
+  "locations": []
+ },
+ {
+  "id": "time-to-let-go-soon",
+  "en": "Time to Let Go Soon",
+  "de": "Bald ist es Zeit loszulassen",
+  "experience": 500,
+  "points": 30,
+  "initiated_de": "Nach Abschluss von \"Der nächste Schritt der Evolution\".",
+  "description_de": "Begleite den herangewachsenen Menschen zur Exodus Station, südöstlich des Lazarus Complex. Der Moment ist gekommen – bring ihn sicher zur Abflughalle, wo die Menschheit einst zu den Sternen aufbrach.",
+  "tasks_de": [
+   "Den Menschen zur Exodus Station transportieren",
+   "Die Arrival Hall betreten, indem der Mensch in die Docking Socket gelegt wird",
+   "Den Menschen sicher zur Rocket Platform begleiten"
+  ],
+  "rewards_de": [
+   "+500 Erfahrung",
+   "+30 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Exodus Station"
+  ]
+ },
+ {
+  "id": "earth-is-the-cradle",
+  "en": "Earth is the Cradle of Humanity, but we can not stay",
+  "de": "Die Erde ist die Wiege der Menschheit, doch wir können nicht bleiben",
+  "experience": 500,
+  "points": 30,
+  "initiated_de": "Nach Abschluss von \"Bald ist es Zeit loszulassen\".",
+  "description_de": "Bereite die Rakete für den Start vor: Methan tanken, Sauerstoff für die Verbrennung bereitstellen, wichtige Systeme mit Strom versorgen und alle Startchecks auf Grün bringen.",
+  "tasks_de": [
+   "Den Menschen in die Rakete setzen",
+   "Die elektrischen Systeme anschließen und aktivieren",
+   "Die Tanks mit Methan befüllen",
+   "Sauerstoff für die Zündsysteme bereitstellen"
+  ],
+  "rewards_de": [
+   "+500 Erfahrung",
+   "+30 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Exodus Station"
+  ]
+ },
+ {
+  "id": "ascension",
+  "en": "Ascension",
+  "de": "Aufstieg",
+  "experience": 1000,
+  "points": 50,
+  "initiated_de": "Nach Abschluss von \"Die Erde ist die Wiege der Menschheit, doch wir können nicht bleiben\".",
+  "description_de": "Leite die Rückkehr der Menschheit zu den Sternen ein. Das ist der Höhepunkt all deiner bisherigen Arbeit – zünde die Triebwerke der Rakete an der Launch Control.",
+  "tasks_de": [
+   "Die Launch Control betreten",
+   "Den Raketenstart einleiten"
+  ],
+  "rewards_de": [
+   "+1000 Erfahrung",
+   "+50 Enhancer-Punkte"
+  ],
+  "locations": []
+ },
+ {
+  "id": "gift-from-above",
+  "en": "Gift from Above",
+  "de": "Geschenk von oben",
+  "experience": 200,
+  "points": 20,
+  "initiated_de": "Nach Abschluss von \"Aufstieg\".",
+  "description_de": "Hole das Geschenk der Menschheit ab. Eine geheimnisvolle weiße Kapsel ist herabgekommen – ihr Inhalt spiegelt die Qualität der ins All gesendeten Menschen wider.",
+  "tasks_de": [
+   "Zur Drop Pod segeln",
+   "Die Drop Pod betreten und die Belohnung abholen"
+  ],
+  "rewards_de": [
+   "+200 Erfahrung",
+   "+20 Enhancer-Punkte",
+   "Farming Bed wird in den Skills freigeschaltet"
+  ],
+  "locations": []
+ },
+ {
+  "id": "the-council-of-humanity",
+  "en": "The Council of Humanity",
+  "de": "Der Rat der Menschheit",
+  "experience": 250,
+  "points": 5,
+  "initiated_de": "Nach Abschluss von \"Geschenk von oben\".",
+  "description_de": "Betrete den Rat der Menschheit. Kehre zum Lazarus Complex zurück und betritt die Kammer des Rats – er wartet darauf, deinen ersten erfolgreichen Start zu prüfen.\n\nHinweis: Die Tür zur Ratskammer ist zunächst verschlossen (\"Kein orbitaler Vertreter zugewiesen\"). Sie sollte sich automatisch öffnen, sobald deine ersten Menschen alt genug sind.",
+  "tasks_de": [
+   "Den Rat der Menschheit betreten"
+  ],
+  "rewards_de": [
+   "+250 Erfahrung",
+   "+5 Enhancer-Punkte",
+   "Schaltet Committees frei"
+  ],
+  "locations": [
+   "Lazarus Complex"
+  ]
+ },
+ {
+  "id": "the-last-listener",
+  "en": "The Last Listener",
+  "de": "Der letzte Lauscher",
+  "experience": 400,
+  "points": 30,
+  "initiated_de": "Nach Abschluss von \"Aufstieg\".",
+  "description_de": "Segle zur Last Listener Station und entdecke ihre Geheimnisse. Diese Moses-Einrichtung liegt im Dunkeln verborgen und scheint dich nun zu rufen.",
+  "tasks_de": [
+   "Zur Last Listener Station segeln",
+   "Die Spitze des Kontrollturms erreichen",
+   "Das Relais wiederherstellen und aktivieren"
+  ],
+  "rewards_de": [
+   "+400 Erfahrung",
+   "+30 Enhancer-Punkte"
+  ],
+  "locations": [
+   "The Last Listener Station"
+  ]
+ },
+ {
+  "id": "one-before-me",
+  "en": "One Before Me",
+  "de": "Einer vor mir",
+  "experience": 1000,
+  "points": 25,
+  "initiated_de": "Bei Annäherung an Sanctuary Dock 12.",
+  "description_de": "Finde heraus, warum nur du erwacht bist. Ein anderer Caretaker hätte hier erwachen sollen – aber nur du bist es. Etwas in dir antwortete, als alle anderen still blieben.",
+  "tasks_de": [
+   "Einen Weg in Sanctuary Dock 12 finden",
+   "Den Dock mit Strom versorgen",
+   "Zu den Ladebuchten hinabsteigen und den ruhenden Caretaker finden"
+  ],
+  "rewards_de": [
+   "+1000 Erfahrung",
+   "+25 Enhancer-Punkte",
+   "Night Sight wird in den Skills freigeschaltet"
+  ],
+  "locations": [
+   "Sanctuary Dock 12"
+  ]
+ },
+ {
+  "id": "the-warehouse",
+  "en": "The Warehouse",
+  "de": "Das Lagerhaus",
+  "experience": 1000,
+  "points": 25,
+  "initiated_de": "Bei Annäherung an Central Warehouse Alpha.",
+  "description_de": "Betrete das Lagerhaus und finde heraus, welche Geheimnisse es birgt. Ein gewaltiges Logistik-Lagerhaus – weit größer, als ein einzelner Außenposten je bräuchte.",
+  "tasks_de": [
+   "Das Lagerhaus durchsuchen und seine Geheimnisse entdecken"
+  ],
+  "rewards_de": [
+   "+1000 Erfahrung",
+   "+25 Enhancer-Punkte",
+   "Brass Telescope wird in den Skills freigeschaltet"
+  ],
+  "guide_de": [
+   "Im Hauptlagerhaus ins obere Büro links gelangen.",
+   "Im oberen Büro geradeaus von der Tür aus nach einem Griff am Wandschrank suchen.",
+   "Das Geheimnis befindet sich dahinter."
+  ],
+  "locations": [
+   "Central Warehouse Alpha"
+  ]
+ },
+ {
+  "id": "mother",
+  "en": "Mother",
+  "de": "Mutter",
+  "experience": 1000,
+  "points": 25,
+  "initiated_de": "Bei Annäherung an Habitat Node 02-23.",
+  "description_de": "Durchsuche die angegebenen Habitat Nodes, um herauszufinden, was Mother für dich hinterlassen hat – über Annas Vergangenheit und euren gemeinsamen Zweck.",
+  "tasks_de": [
+   "Herausfinden, was bei Habitat Node 02-23 hinterlassen wurde",
+   "Herausfinden, was bei Habitat Node 08-16 hinterlassen wurde",
+   "Herausfinden, was bei Habitat Node 05-14.5 hinterlassen wurde",
+   "Zu den markierten Koordinaten reisen",
+   "Herausfinden, was bei Habitat Node 38-98 für uns hinterlassen wurde"
+  ],
+  "rewards_de": [
+   "+1000 Erfahrung",
+   "+25 Enhancer-Punkte",
+   "Abyss Glow wird in den Skills freigeschaltet"
+  ],
+  "locations": [
+   "Habitat Node 02-23",
+   "Habitat Node 08-16",
+   "Habitat Node 05-14.5",
+   "Habitat Node 38-98"
+  ]
+ },
+ {
+  "id": "the-isolation",
+  "en": "The Isolation",
+  "de": "Die Isolation",
+  "experience": 250,
+  "points": 10,
+  "initiated_de": "Bei Annäherung an Unlisted Tower.",
+  "description_de": "Erreiche die Spitze des Unlisted Tower. Ein abgelegener Turm außerhalb der normalen Moses-Routen wurde entdeckt. Klettere bis ganz nach oben und nutze das AM-Radio.",
+  "tasks_de": [
+   "Zu den markierten Koordinaten des Unlisted Tower reisen",
+   "Die Spitze des Unlisted Tower erreichen",
+   "Ein Gebet über das AM-Radio empfangen"
+  ],
+  "rewards_de": [
+   "+250 Erfahrung",
+   "+10 Enhancer-Punkte",
+   "CS-17 Courier Skimmer wird in den Skills freigeschaltet"
+  ],
+  "locations": [
+   "Unlisted Tower"
+  ]
+ },
+ {
+  "id": "friendly-by-design",
+  "en": "Friendly by Design",
+  "de": "Freundlich by Design",
+  "stub": true,
+  "locations": [
+   "Talon Offshore Proving Deck"
+  ]
+ },
+ {
+  "id": "salvage-gyro-lost-blueprints",
+  "en": "Salvage Gyro - Lost Blueprints",
+  "de": "Salvage Gyro – Verlorene Baupläne",
+  "stub": true,
+  "locations": [
+   "SGS-SW-115-3255",
+   "SGS-SE-145-6950",
+   "SGS-NW-115-5100",
+   "SGS-SE-101-7200"
+  ]
+ },
+ {
+  "id": "a-machine-that-still-flies",
+  "en": "A Machine That Still Flies",
+  "de": "Eine Maschine, die noch fliegt",
+  "stub": true,
+  "locations": [
+   "Sanctuary Dock 12"
+  ]
+ },
+ {
+  "id": "eden-cradle",
+  "en": "Eden Cradle",
+  "de": "Eden Cradle",
+  "stub": true,
+  "description_de": "Auf dem Wiki bisher nur als Ort beschrieben, noch keine eigene Missions-Seite.",
+  "locations": [
+   "Eden Cradle"
+  ]
+ },
+ {
+  "id": "quarantine-stacks",
+  "en": "Quarantine Stacks",
+  "de": "Quarantine Stacks",
+  "experience": 250,
+  "points": 10,
+  "initiated_de": "Nach Abschluss von \"Die Isolation\".",
+  "description_de": "Segle zur Quarantine Stack Amen, die auf deiner Karte markiert ist.",
+  "tasks_de": [
+   "Zur Quarantine Stack Amen segeln"
+  ],
+  "rewards_de": [
+   "+250 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Quarantine Stack Amen"
+  ]
+ },
+ {
+  "id": "the-codes-of-stone",
+  "en": "The Codes of Stone",
+  "de": "Die Codes aus Stein",
+  "experience": 500,
+  "points": 20,
+  "initiated_de": "Nach Abschluss von \"Quarantine Stacks\".",
+  "description_de": "Finde den Tresor innerhalb der Quarantine Stack Amen, von dem im Funkspruch-Gebet die Rede war.",
+  "tasks_de": [
+   "Den Tresor in der Quarantine Stack Amen finden"
+  ],
+  "rewards_de": [
+   "+500 Erfahrung",
+   "+20 Enhancer-Punkte"
+  ],
+  "locations": [
+   "Quarantine Stack Amen"
+  ]
+ },
+ {
+  "id": "signal-chain",
+  "en": "Signal Chain",
+  "de": "Signalkette",
+  "experience": 1000,
+  "points": 25,
+  "initiated_de": "Nach Abschluss von \"Die Codes aus Stein\".",
+  "description_de": "Stelle die Receiver Spine wieder her, um Zugang zum Tresor zu erhalten. Sie braucht vier 833X-Class Power Triodes – durchsuche die umliegenden Türme danach, scanne sie zur Fertigung und stelle das System wieder her.",
+  "tasks_de": [
+   "Alle 833X-Class Power Triodes an der Spine wiederherstellen und Zugang zum Tresor erhalten"
+  ],
+  "rewards_de": [
+   "+1.000 Erfahrung",
+   "+25 Enhancer-Punkte",
+   "Deep Scan-500 Add-On"
+  ],
+  "locations": [
+   "Quarantine Stack Amen"
+  ]
+ },
+ {
+  "id": "project-eden",
+  "en": "Project Eden",
+  "de": "Projekt Eden",
+  "stub": true,
+  "locations": [
+   "Pishon"
+  ]
+ },
+ {
+  "id": "seats-of-care",
+  "en": "Seats of Care",
+  "de": "Sitze der Fürsorge",
+  "stub": true,
+  "locations": []
+ },
+ {
+  "id": "true-choices",
+  "en": "True Choices",
+  "de": "Wahre Entscheidungen",
+  "stub": true,
+  "locations": [
+   "Courier Sieve Node Facility"
+  ]
+ },
+ {
+  "id": "true-choices-grow-the-perfect-human",
+  "en": "True Choices - Grow the Perfect Human",
+  "de": "Wahre Entscheidungen – Den perfekten Menschen züchten",
+  "stub": true,
+  "locations": [
+   "Courier Sieve Node Facility"
+  ]
+ },
+ {
+  "id": "round-this-quiet-secrets",
+  "en": "Round This, Quiet Secrets",
+  "de": "Ringsum, stille Geheimnisse",
+  "stub": true,
+  "locations": [
+   "Talon Offshore Proving Deck"
+  ]
+ },
+ {
+  "id": "a-loyal-sphere",
+  "en": "A Loyal Sphere",
+  "de": "Eine treue Sphäre",
+  "stub": true,
+  "locations": [
+   "Talon Offshore Proving Deck"
+  ]
+ },
+ {
+  "id": "accept-the-rules",
+  "en": "Accept The Rules",
+  "de": "Die Regeln akzeptieren",
+  "stub": true,
+  "locations": []
+ },
+ {
+  "id": "omega-nursery",
+  "en": "Omega Nursery",
+  "de": "Omega-Kinderstube",
+  "stub": true,
+  "locations": [
+   "Platform Omega"
+  ]
+ },
+ {
+  "id": "memory-for-aron",
+  "en": "Memory for Aron",
+  "de": "Erinnerung für Aron",
+  "experience": 500,
+  "points": 10,
+  "initiated_de": "Durch das Spielen des PECO – Rising Tide Game-Cartridge und Erfüllen bestimmter Bedingungen darin (siehe dort für Details).",
+  "description_de": "Reise zur North Deep Intake Station und finde heraus, welche Information Elina Voss verborgen hat.\n\nRising Tide enthüllte versteckte Koordinaten und den Namen Aron Voss. Reise zur North Deep Intake Station und finde heraus, warum Elina Voss diese Information im Spiel vergrub.",
+  "tasks_de": [
+   "Zur North Deep Intake Station reisen",
+   "Arons Zimmer betreten"
+  ],
+  "rewards_de": [
+   "+500 Erfahrung",
+   "+10 Enhancer-Punkte"
+  ],
+  "locations": [
+   "North Deep Intake Station"
+  ]
+ }
+]

@@ -1,0 +1,210 @@
+[
+ {
+  "id": "6956975a90fe83746dba528f",
+  "name": "High-Fat",
+  "description_de": "Eine dichte, energiereiche Mischung, die körperliche Eigenschaften stärkt.",
+  "weight": 2,
+  "tier": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/High-Fat.png?21742a&format=original",
+  "attrs": {
+   "Strength": 1,
+   "Height": 1,
+   "Weight": 8,
+   "Intellect": 1,
+   "Life_Expectancy": 1
+  },
+  "name_de": "Fettreich"
+ },
+ {
+  "id": "6956975a90fe83746dba5290",
+  "name": "Mind Surge",
+  "description_de": "Zylindrischer Behälter, dunkles Metallgrau, mit tiefroter bis dunkelrot-samtiger Substanz.",
+  "weight": 2,
+  "tier": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Mind_Surge.png?a0fe4c&format=original",
+  "attrs": {
+   "Strength": 1,
+   "Height": 1,
+   "Weight": 1,
+   "Intellect": 6,
+   "Life_Expectancy": 6
+  },
+  "name_de": "Geistesschub"
+ },
+ {
+  "id": "6956975a90fe83746dba5291",
+  "name": "Nutri-Core",
+  "description_de": "Metallisch-grauer, zylindrischer Behälter mit blass sandfarbener Substanz.",
+  "weight": 2,
+  "tier": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Nutri-Core.png?e62e6d&format=original",
+  "attrs": {
+   "Strength": 3,
+   "Height": 3,
+   "Weight": 3,
+   "Intellect": 3,
+   "Life_Expectancy": 3
+  },
+  "name_de": "Nährstoffkern"
+ },
+ {
+  "id": "6956975a90fe83746dba5292",
+  "name": "Physique Fuel",
+  "description_de": "Graue Zylinderröhre mit hellgrüner Substanz.",
+  "weight": 2,
+  "tier": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Physique_Fuel.png?22c005&format=original",
+  "attrs": {
+   "Strength": 5,
+   "Height": 5,
+   "Weight": 1,
+   "Intellect": 1,
+   "Life_Expectancy": 1
+  },
+  "name_de": "Körper-Treibstoff"
+ },
+ {
+  "id": "6956975a90fe83746dba5293",
+  "name": "Bone-Fortify",
+  "description_de": "Weiße Zylinderröhre mit blauer Substanz.",
+  "weight": 2,
+  "tier": 2,
+  "image": "https://thelastcaretaker.wiki.gg/images/Bone-Fortify.png?5abf1d&format=original",
+  "attrs": {
+   "Strength": 14,
+   "Height": 8,
+   "Weight": 2,
+   "Intellect": 2,
+   "Life_Expectancy": 2
+  },
+  "name_de": "Knochenstärker"
+ },
+ {
+  "id": "6956975a90fe83746dba5294",
+  "name": "Endura-Growth",
+  "description_de": "Weiße Zylinderröhre mit gelber Substanz.",
+  "weight": 2,
+  "tier": 2,
+  "image": "https://thelastcaretaker.wiki.gg/images/Endura-Growth.png?e5884a&format=original",
+  "attrs": {
+   "Strength": 2,
+   "Height": 2,
+   "Weight": 2,
+   "Intellect": 12,
+   "Life_Expectancy": 8
+  },
+  "name_de": "Ausdauer-Wachstum"
+ },
+ {
+  "id": "6956975a90fe83746dba5295",
+  "name": "Immune Boost",
+  "description_de": "Weiße Zylinderröhre mit hellgrüner Substanz.",
+  "weight": 2,
+  "tier": 4,
+  "image": "https://thelastcaretaker.wiki.gg/images/Immune_Boost.png?c807f9&format=original",
+  "attrs": {
+   "Strength": 6,
+   "Height": 6,
+   "Weight": 6,
+   "Intellect": 6,
+   "Life_Expectancy": 6
+  },
+  "name_de": "Immun-Boost"
+ },
+ {
+  "id": "6956975a90fe83746dba5296",
+  "name": "Muscle Fortification",
+  "description_de": "Glänzend-weißer, zylindrischer Behälter mit kräftig pinker Substanz.",
+  "weight": 2,
+  "tier": 2,
+  "image": "https://thelastcaretaker.wiki.gg/images/Muscle_Fortification.png?81d28f&format=original",
+  "attrs": {
+   "Strength": 15,
+   "Height": 2,
+   "Weight": 8,
+   "Intellect": 2,
+   "Life_Expectancy": 2
+  },
+  "name_de": "Muskelstärkung"
+ },
+ {
+  "id": "6956975a90fe83746dba5297",
+  "name": "Neuro-Boost",
+  "description_de": "Weiße Zylinderröhre mit weißer Substanz.",
+  "weight": 2,
+  "tier": 3,
+  "image": "https://thelastcaretaker.wiki.gg/images/Neuro-Boost.png?691e9b&format=original",
+  "attrs": {
+   "Strength": 2,
+   "Height": 2,
+   "Weight": 2,
+   "Intellect": 15,
+   "Life_Expectancy": 10
+  },
+  "name_de": "Neuro-Boost"
+ },
+ {
+  "id": "6956975a90fe83746dba5298",
+  "name": "Hyper-Evolution",
+  "description_de": "Goldene Zylinderröhre mit grüner Substanz.",
+  "weight": 2,
+  "tier": 6,
+  "image": "https://thelastcaretaker.wiki.gg/images/Hyper-Evolution.png?7bd686&format=original",
+  "attrs": {
+   "Strength": 3,
+   "Height": 30,
+   "Weight": 3,
+   "Intellect": 20,
+   "Life_Expectancy": 5
+  },
+  "name_de": "Hyper-Evolution"
+ },
+ {
+  "id": "6956975a90fe83746dba5299",
+  "name": "Mitochondrial Surge",
+  "description_de": "Goldene Zylinderröhre mit rot-schwarzer Substanz.",
+  "weight": 2,
+  "tier": 6,
+  "image": "https://thelastcaretaker.wiki.gg/images/Mitochondrial_Surge.png?95ffab&format=original",
+  "attrs": {
+   "Strength": 28,
+   "Height": 20,
+   "Weight": 3,
+   "Intellect": 3,
+   "Life_Expectancy": 12
+  },
+  "name_de": "Mitochondrien-Schub"
+ },
+ {
+  "id": "6956975a90fe83746dba529a",
+  "name": "Nanite Infusion",
+  "description_de": "Metallisch-goldener, zylindrischer Behälter mit leuchtend türkiser, schimmernder Substanz.",
+  "weight": 2,
+  "tier": 5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Nanite_Infusion.png?ff9320&format=original",
+  "attrs": {
+   "Strength": 3,
+   "Height": 25,
+   "Weight": 3,
+   "Intellect": 25,
+   "Life_Expectancy": 6
+  },
+  "name_de": "Nanit-Infusion"
+ },
+ {
+  "id": "6956975a90fe83746dba529b",
+  "name": "Ultimate Genesis",
+  "description_de": "Metallisch-goldener, zylindrischer Behälter mit strahlend warmgelber, bernsteinfarbener Substanz.",
+  "weight": 2,
+  "tier": 7,
+  "image": "https://thelastcaretaker.wiki.gg/images/Ultimate_Genesis.png?1e4052&format=original",
+  "attrs": {
+   "Strength": 10,
+   "Height": 50,
+   "Weight": 10,
+   "Intellect": 50,
+   "Life_Expectancy": 40
+  },
+  "name_de": "Ultimative Genesis"
+ }
+]

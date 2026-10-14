@@ -1,105 +1,57 @@
-# Last Caretaker Map
+# Last Caretaker Map – Companion App (Deutsch)
 
-An interactive map application built with Leaflet.js and Vite that displays locations from `data.json`.
+*English: a German-language companion app for [The Last Caretaker](https://thelastcaretaker.com/) that wraps and extends The1Killer's original [Last Caretaker Map](https://github.com/the1killer/lastcaretakermap). See [Lizenz](#lizenz--credits) below for the license split.*
 
-Based on the game ["The Last Caretaker"](https://thelastcaretaker.com/) by [Channel 37](https://www.channel37.co/). This map is not affiliated with Channel 37, and just made by a loving fan.
+Eine inoffizielle, rein von Fans gebaute Begleit-App für das Spiel **[The Last Caretaker](https://thelastcaretaker.com/)** von [Channel 37](https://www.channel37.co/). Nicht mit Channel 37 oder The1Killer verbunden/affiliiert.
 
-For your viewing pleasure: https://the1killer.github.io/LastCaretakerMap/
+Diese App baut auf der wunderbaren interaktiven Karte **[Last Caretaker Map](https://the1killer.github.io/LastCaretakerMap/)** von **[The1Killer](https://github.com/the1killer)** auf (unverändert enthalten in `app/site/`, siehe Lizenz unten) und packt drumherum eine kleine, lokal laufende Windows-App mit vollständig deutscher Oberfläche und einigen Zusatzfunktionen, die über die reine Karte hinausgehen.
 
-<img width="529" height="326" alt="tlc-map" src="https://github.com/user-attachments/assets/3c27b5f5-8a32-4344-9140-ac96625547b5" />
+## Funktionsumfang
 
+- 🗺️ Die Original-Karte (The1Killer), eingebettet mit deutschsprachiger Oberfläche, Status-Tracking (Offen/Besucht/Erledigt), Suche, Notizen und Reset/Bereinigungs-Funktion.
+- 📥 Automatische Update-Funktion, die neue/geänderte Kartendaten vom Original-Projekt nachlädt – `app/site` wird dabei ersetzt, nie von Hand verändert.
+- 📖 Deutsche Wiki-Texte & Bilder zu jedem Ort, fest im Programm hinterlegt (kein Internet nötig).
+- 🧭 Missionen-Fenster mit allen 44 Story-Missionen auf Deutsch inkl. Walkthrough-Texten und Erledigt-Status.
+- 🏆 Erfolge-Übersicht.
+- 👥 "Rat der Menschheit" mit allen Ausschüssen und ihren Berufen.
+- 🧮 Wachstumsrechner für die Menschenzucht (alle Berufe, Eigenschaften, Bestandsverwaltung).
+- 💾 Eigene Spielstand-Rubrik: liest die echte `.sav`-Datei (selbst reverse-engineertes Format) und zeigt Erinnerungen, Nahrung, Missionsstatus und bereits gezüchtete Menschen direkt als Übersicht – inklusive Abgleich mit dem Rechner und Korrektur-Funktion bei Verklickern.
+- 📊 Fortschritts-Dashboard mit Export als CSV/Text.
+- 🔒 Läuft komplett lokal (eigener kleiner Node-Server, nur `127.0.0.1`), alle Daten bleiben auf dem eigenen Rechner.
 
-## Features
+Vollständiges, laufend gepflegtes Änderungsprotokoll: im Zahnrad-Menü der App selbst.
 
-- 🗺️ Interactive map with Icons from the game.
-- 📋 Sidebar with location list
-- 🔍 Click locations to zoom and view details
-- 📱 Responsive design for mobile and desktop
-- ⚡ Fast development with Vite and HMR
+## Installation & Start
 
-### Future plans/hopes
+Voraussetzung: [Node.js](https://nodejs.org/) (v18 oder neuer).
 
-- 🎨 Add custom markers
-- 🔍 Add search functionality
-- 📋 Enhance location details
-- 🗝️ Add hidden locations
+1. Dieses Repository herunterladen/klonen.
+2. `start.bat` doppelklicken – installiert beim ersten Start automatisch die benötigten Abhängigkeiten und startet den lokalen Server.
+3. Die App öffnet sich im Standardbrowser unter `http://localhost:37373`.
 
-## Getting Started
+Optional: `desktop-verknuepfung.bat` legt eine Desktop-Verknüpfung mit eigenem Karten-Icon an.
 
-### Prerequisites
+Ausführliche deutsche Nutzer-Dokumentation: [`LIESMICH.txt`](LIESMICH.txt).
 
-- Node.js (v16 or higher)
-- npm or yarn
-
-### Installation
-
-1. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-
-### Running the Application
-
-1. **Development mode (with hot reload):**
-   ```bash
-   npm run dev
-   ```
-   The app will automatically open at `http://localhost:3000`
-
-2. **Build for production:**
-   ```bash
-   npm run build
-   ```
-
-3. **Preview production build:**
-   ```bash
-   npm run preview
-   ```
-
-## Project Structure
+## Aufbau des Repositories
 
 ```
-lastcaretakermap/
-├── index.html         # Main HTML file
-├── main.js            # JavaScript entry point with Leaflet integration
-├── styles.css         # Styling and layout
-├── data.json          # Location data
-├── package.json       # npm dependencies and scripts
-├── vite.config.js     # Vite configuration
-├── .gitignore         # Git ignore rules
-└── README.md          # This file
+├── app/              ← die eigentliche Companion-App (dieses Projekt)
+│   ├── custom/        ← deutsche Übersetzungen, eigene Funktionen, Zusatz-Daten
+│   ├── server.mjs      ← lokaler Node-Server (liefert die App aus, Speicherung, Spielstand-Auslesen)
+│   ├── site/           ← unveränderte, automatisch aktualisierte Kopie der Original-Karte
+│   └── LICENSE          ← Lizenz für alles in app/ außer app/site/
+├── public/, src/, index.html, …  ← Original-Quellcode der Last Caretaker Map (The1Killer)
+└── LICENSE            ← Original-Lizenz (BSD-2-Clause, The1Killer), gilt für Repo-Root & app/site/
 ```
 
-## Data Format
+Die Original-Projektdateien im Repo-Root (und ihre gebaute Kopie in `app/site/`) stammen unverändert von The1Killer und werden nur über die eingebaute Update-Funktion aktualisiert, nie von Hand bearbeitet.
 
-The application reads location data from `data.json`. Each location should have:
+## Lizenz & Credits
 
-```json
-{
-  "name": "Location Name",
-  "id": "unique-id",
-  "description": "Location description",
-  "latitude": 0.0,
-  "longitude": 0.0,
-  "image": "optional-image.png"
-}
-```
+Dieses Repository enthält zwei unterschiedlich lizenzierte Teile:
 
-## Customization
+- **Repo-Root** (`public/`, `src/`, `index.html`, `package.json`, … sowie die daraus gebaute Kopie in `app/site/`): das Original-Projekt **Last Caretaker Map** von **[The1Killer](https://github.com/the1killer)**, unverändert übernommen, Lizenz: **BSD 2-Clause**, siehe [`LICENSE`](LICENSE). Alle Rechte am Original liegen bei The1Killer.
+- **`app/`** (außer `app/site/`): die eigene Companion-App – Server, deutsche Übersetzungen, Spielstand-Auslesen, Rechner, Wiki-Texte usw. © 2026 **ODINnuss**, Lizenz: **MIT**, siehe [`app/LICENSE`](app/LICENSE).
 
-- **Map Style**: Change the tile layer in `main.js` to use different map styles
-- **Marker Icons**: Modify the `customIcon` configuration in `main.js`
-- **Colors**: Update the gradient colors in `styles.css`
-- **Initial View**: Adjust the `setView()` parameters in `main.js`
-
-## Technologies Used
-
-- [Vite](https://vitejs.dev/) - Fast build tool and dev server
-- [Leaflet.js](https://leafletjs.com/) - Interactive map library
-- [OpenStreetMap](https://www.openstreetmap.org/) - Map tiles
-- Vanilla JavaScript (ES6 modules)
-- CSS Grid - Modern layout system
-
-## License
-
-This project is BSD-2 licensed and available for personal use.
+*The Last Caretaker* ist ein Spiel von [Channel 37](https://www.channel37.co/). Diese App ist ein inoffizielles Fan-Projekt ohne jede Verbindung zu Channel 37.

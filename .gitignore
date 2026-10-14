@@ -22,3 +22,13 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# --- Companion-App (app/) ---
+# Persönliche Spielstand-Sicherungen & laufende Nutzerdaten - nie veröffentlichen
+userdata/
+
+# Interne Backup-Kopie des Original-Seiten-Builds (wird bei "Update" neu erzeugt)
+app/site.bak/
+
+# Scratch-/Arbeitsdateien aus der Entwicklung, nicht Teil der App
+Claude outputs/

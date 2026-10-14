@@ -1,0 +1,210 @@
+﻿THE LAST CARETAKER MAP - lokale App
+====================================
+
+STARTEN
+  Doppelklick auf  start.bat  (oder auf die Desktop-Verknüpfung, siehe unten).
+  Beim ersten Start prüft start.bat alles selbst: fehlt Node.js (ab Version 18), wird es per
+  winget installiert (Windows fragt evtl. nach Erlaubnis); fehlen die Kartendaten, werden sie
+  geladen; danach wird einmalig die Desktop-Verknüpfung angeboten. Die Karte öffnet sich
+  in einem eigenen Fenster.
+
+DESKTOP-VERKNÜPFUNG MIT KARTEN-SYMBOL
+  Wird beim ersten Start angeboten. Nachträglich: Doppelklick auf  desktop-verknuepfung.bat.
+
+BILDFEHLER IM KARTENFENSTER (schwarze/verzerrte Bereiche)
+  Kommt auf manchen Systemen durch die Grafik-Beschleunigung des Fensters vor. Die App startet
+  das Fenster jetzt standardmäßig ohne Hardware-Beschleunigung, das behebt es in der Regel
+  dauerhaft (kein spürbarer Geschwindigkeitsverlust bei dieser Art Karte). Tritt es trotzdem noch
+  auf: Fenster kurz in der Größe verändern oder F5 drücken, das erzwingt ein Neuzeichnen.
+
+LOCATIONS ALS ERLEDIGT MARKIEREN
+  Marker auf der Karte oder Eintrag in der Liste anklicken, im Fenster unter "Status"
+  auf "Erledigt" klicken -> das Symbol wird gelb. (Offen / Besucht / Erledigt)
+  Oben in der Liste siehst du den Fortschritt und kannst nach offenen/erledigten filtern.
+  Die Suche (oben links) durchsucht Namen; mit "Gesamten Ortstext durchsuchen" auch die Beschreibung.
+
+DESIGN UND FUNKTIONEN
+  Kopfzeile: Fortschrittsring (x / 115) und Knöpfe "Dashboard", "Filter", "Menschen", "Rechner",
+                       "Missionen", "Spielstand", "Erfolge" und "?".
+  Dashboard (Taste D): Ring, Zahlen, Fortschritt nach Bereich und Ortstyp, zuletzt erledigte Orte als
+                       Tabelle (anklicken springt zum Ort; bei mehr als 8 Einträgen wird in der Tabelle
+                       gescrollt, statt das ganze Dashboard in die Länge zu ziehen), Export als CSV
+                       (Excel) oder Textliste.
+  Filter & Legende (Taste F): Ortstypen einzeln auf der Karte aus-/einblenden, "Erledigte
+                       ausblenden", Mini-Karte (Taste M) mit Sichtfeld - per Klick/Ziehen navigieren,
+                       Gräber-Karte (Bild der Spiel-Karte) als Hintergrund ein-/ausblenden + Deckkraft,
+                       "Missions-Orte auf der Karte markieren" (kleines lila Ausrufezeichen-Symbol oben
+                       rechts am Marker-Icon jedes Ortes, der zu einer Mission gehört).
+  Gräber-Karte:        Zeigt die von dir gelieferte Spielkarte (Gräber/Regionen) als Hintergrund an
+                       genau der Stelle, an der die App die Orte auch platziert. Die Zeichnung im Spiel
+                       ist ein stilisiertes Diagramm ohne echten Maßstab, daher passt es gut, aber nicht
+                       pixelgenau. Ein-/Ausschalten und Deckkraft unter Filter & Legende (Taste F).
+  Farben der Orte (Zahnrad -> "Farben der Orte"): "Farbig (wie jetzt)" nach Ortstyp, oder "Nur Weiß"
+                       - dann sind offene Orte schlicht weiß, erledigte weiterhin gelb.
+  Wiki-Infos:          Im Fenster eines Ortes stehen Text und Bild vom offiziellen Wiki
+                       (thelastcaretaker.wiki.gg), komplett ins Deutsche übersetzt und fest im Programm
+                       hinterlegt (app\custom\data-locations-wiki.json) - erscheinen also sofort, ganz
+                       ohne Internet. Für 14 der 115 Orte gibt es auf dem Wiki selbst noch keinen Artikel
+                       (z. B. reine Seed-Reserve-Nummern ohne eigene Seite); dort bleibt der Abschnitt
+                       leer, das ist kein Fehler der App. Link zum ganzen Wiki-Artikel wird mit angezeigt.
+                       Ein-/Ausschalten unter Filter & Legende (Taste F) -> "Wiki-Infos im Ortsfenster laden".
+  Menschen:            Übersicht der Zucht-Mechanik (Human Seeds, Lazarus Rack, Ressourcen) und aller
+                       40 Berufe mit ihren nötigen Eigenschaften, komplett auf Deutsch übersetzt vom
+                       offiziellen Wiki.
+  Rechner (Taste R):   Wachstumsrechner für die Menschenzucht, nachgebaut nach dem "Human Growth
+                       Calculator" von thelastcaretaker-tools.com (auf Deutsch, gleicher Aufbau wie dort).
+                       Trage links deinen Bestand an Erinnerungen (58 Memories) und Nahrung (13 Food) ein
+                       - pro Ressource ein Mengenfeld, dazu je ein Prozent-Regler "Nutzbarer Anteil vom
+                       Bestand" (verhindert, dass aus Versehen der ganze Vorrat einer Ressource für einen
+                       einzigen Menschen draufgeht). Rechts erscheinen live die Gesamtwerte aller 15
+                       Eigenschaften und eine Karten-Übersicht aller 40 Berufe: grüner Rand = mit dem
+                       aktuellen Bestand sofort züchtbar. Karte anklicken zeigt die genaue Aufschlüsselung
+                       (benötigt/vorhanden je Eigenschaft, gelb = für diesen Beruf zwingend); der Knopf
+                       "Züchten" zieht die passenden Ressourcen automatisch vom eingetragenen Bestand ab
+                       und merkt sich, wie oft dieser Beruf schon gezüchtet wurde (Liste "Bereits
+                       gezüchtet" mit "Entfernen"-Knopf je Eintrag, falls man sich mal verklickt hat -
+                       bucht die damals verbrauchten Materialien automatisch wieder zurück). Filter: nach Stufe
+                       (1-4), Kategorie, nur züchtbare anzeigen, bereits gezüchtete ausblenden, nach
+                       wenigstem Ressourcenbedarf sortieren. Alle Basiswerte (20 Gewicht, 30 Größe,
+                       10 Lebenserwartung) sind automatisch in jedem Berufsbedarf mit eingerechnet.
+                       Hinweis: Welche Ressourcen beim Züchten genau verbraucht werden, entscheidet ein
+                       eigener, nachvollziehbarer Algorithmus dieser App (bevorzugt Items, die stark auf
+                       die jeweils benötigte Eigenschaft spezialisiert sind) - die exakte interne Formel
+                       der Vorlage-Seite ist nicht öffentlich einsehbar.
+                       Auswirkungen je Gegenstand: Jede Erinnerung und jedes Nahrungsmittel zeigt direkt
+                       in der Liste kleine Kürzel-Chips (z. B. "LOG +8", "GRÖ +30"), welche Eigenschaften
+                       sie in welcher Höhe liefert - abgeglichen mit den offiziellen Wiki-Tabellen
+                       (thelastcaretaker.wiki.gg/wiki/Food bzw. .../Memories, stimmen exakt überein), Namen
+                       auf Deutsch übersetzt (Eigennamen/Demoszene-Titel wie "Second Reality" bleiben Original).
+                       Kompakte Info-Karte: Beim Aufklappen eines Menschen ist die Karte jetzt schmal und
+                       kompakt nach unten aufgebaut (Optik angelehnt an den "Human Growth Calculator" von
+                       thelastcaretaker-tools.com) statt als breites Raster.
+                       Materialliste: Direkt darunter zeigt die App die "Materialliste - optimale Auswahl
+                       aus deinem Bestand": genau die Gegenstände (mit Menge), die der Züchten-Algorithmus
+                       aus deinem eingetragenen Bestand tatsächlich verwenden würde, um die Werte dieses
+                       Berufs bestmöglich zu maximieren - keine allgemeine Empfehlung mehr, sondern
+                       errechnet aus deinen echten Mengenangaben. Reicht der Bestand für eine Eigenschaft
+                       nicht aus, erscheint darunter "Fehlt noch - am besten geeignet" mit den am besten
+                       passenden Erinnerungen/Nahrungsmitteln dafür (wenig Streuverlust, hoher Beitrag),
+                       inkl. aktuellem Bestand und einem "+1"-Knopf zum schnellen Hochzählen der Menge.
+  Missionen:           Alle Story-Missionen auf Deutsch, mit Startbedingung, Beschreibung, Aufgaben und
+                       Belohnung. Jede Mission hat einen eigenen Erledigt-Haken, unabhängig vom Status
+                       der Orte. Offene Missionen stehen oben, erledigte rutschen automatisch unter eine
+                       Trennlinie ans Ende der Liste - für bessere Übersicht. Ist eine Mission an einen
+                       bestimmten Ort gebunden, taucht sie auch direkt im Fenster dieses Ortes auf und
+                       lässt sich dort mit-erledigen. Elf der 44 im Wiki gelisteten Missionen haben dort
+                       selbst noch keinen ausführlichen Artikel (Stub) -
+                       die stehen trotzdem in der Liste, nur ohne Beschreibung.
+  Walkthrough:         36 der 44 Missionen haben zusätzlich einen ausführlichen Schritt-für-Schritt-
+                       Walkthrough (aus dem Fan-Guide auf neoseeker.com, komplett ins Deutsche übersetzt,
+                       mit den Original-Bildern). Im Missionen-Fenster erscheint bei diesen Missionen ein
+                       Knopf "Walkthrough anzeigen" - er öffnet ein eigenes Fenster (bessere Lesbarkeit bei
+                       langen Anleitungen mit vielen Bildern). Ließ sich aus dem Walkthrough-Text erkennen,
+                       an welchem Ort eine Mission beginnt, wurde dieser Ort automatisch mit der Mission
+                       verknüpft (erscheint dann wie gewohnt als Knopf "Ort" bei der Mission bzw. im
+                       Ortsfenster). Für die restlichen 8 Missionen gibt es auf neoseeker.com keinen
+                       passenden Guide-Artikel; dort erscheint kein Walkthrough-Knopf.
+  Erfolge:             Alle 15 Erfolge des Spiels auf Deutsch, mit Beschreibung, wie man sie bekommt
+                       (aus neoseeker.com übersetzt). Auch hier lässt sich jeder Erfolg einzeln als
+                       erledigt markieren, unabhängig von den Orten und Missionen.
+  Rat der Menschheit (Taste C): Referenz der Ausschüsse im Rat der Menschheit mit ihren jeweils
+                       4 zugehörigen Berufen. Im Rechner lässt sich die Berufsliste per Filter auch
+                       auf genau einen Ausschuss eingrenzen.
+  Spielstand (Taste S):  Eigenes Fenster zum Einlesen deines echten Spielstands (.sav) direkt aus
+                       dem Steam-Speicherordner - unabhängig vom Rechner, der nur deine von Hand
+                       eingetragenen Mengen kennt. Liste der gefundenen Speicherstände auswählen,
+                       "Einlesen" klicken; danach zeigt die App:
+                         - Kompatibilitäts-Hinweis, falls deine Spielversion vom zuletzt geprüften
+                           Stand abweicht (das Speicherformat könnte sich mit einem Spiel-Update
+                           geändert haben - kein Grund zur Sorge, nur ein Hinweis zum Gegenprüfen).
+                         - Erinnerungen & Nahrung als Bildkarten mit Menge (Gesamtmenge aus
+                           Spielerinventar + Schiffslager + allen Kisten zusammen).
+                         - Gefundene, aber (noch) nicht automatisch zuordenbare Gegenstände als
+                           Liste zum Selbst-Nachtragen.
+                         - Missionsstatus aus dem Spielstand (abgeschlossen / in Arbeit).
+                         - Im Spiel bereits gezüchtete Menschen (Beruf, geliefert / noch nicht
+                           abgeholt) seit Beginn dieses Spielstands.
+                       Über "Im Rechner übernehmen" werden die Mengen in den Wachstumsrechner
+                       übertragen (fragt vorher extra nach, weil vorhandene Mengen dabei ersetzt statt
+                       addiert werden), abgeschlossene Missionen zugleich im Missionen-Fenster als
+                       erledigt markiert, und im Spielstand gezüchtete Menschen, die in "Bereits
+                       gezüchtet" noch fehlen, dort ergänzt (nur hinzugefügt, nie entfernt - keine
+                       Materialien werden dabei abgezogen, die wurden im Spiel ja schon verbraucht).
+  Änderungsprotokoll (Zahnrad -> Einstellungen): zeigt, was sich in dieser App zuletzt geändert hat.
+  Rückgängig:          Nach jeder Statusänderung erscheint ein Hinweis mit "Rückgängig" (auch Strg+Z).
+  Tastenkürzel:        / Suche · E erledigt · V besucht · O offen · D Dashboard · F Filter · R Rechner
+                       · S Spielstand · C Rat der Menschheit · ? Hilfe
+  Notizen:             Orte mit Notiz haben in der Liste ein kleines Notiz-Symbol.
+  Popup:               "Name kopieren" und "Koordinaten kopieren".
+
+SPRACHE
+  Die Oberfläche ist komplett auf Deutsch. Namen und Beschreibungen der Orte sind Spieldaten
+  des Originals und bleiben englisch.
+
+UPDATES VOM ORIGINAL
+  Zahnrad (Einstellungen) -> "Nach Updates suchen". Gibt es Neues, werden neue/geänderte
+  Locations aufgelistet und "Update installieren" lädt sie. Ein gelber Punkt am Zahnrad
+  zeigt an, dass ein Update bereitsteht (Prüfung automatisch alle 12 Stunden).
+  Deine Markierungen und Notizen bleiben dabei unverändert.
+
+WIKI-UPDATES
+  Zahnrad (Einstellungen) -> "Nach Wiki-Updates suchen" (direkt unter "Nach Updates suchen").
+  Vergleicht die im Programm hinterlegten Wiki-Infos mit den echten, aktuellen Artikeln auf
+  thelastcaretaker.wiki.gg (braucht dafür Internet) und listet auf, wo sich seit der letzten
+  Übersetzung etwas geändert hat oder wo inzwischen ein neuer Artikel existiert. Über
+  "Wiki-Updates übernehmen" werden diese Orte sofort mit dem frischen Wikitext aktualisiert -
+  allerdings zunächst unübersetzt auf Englisch (im Ortsfenster mit einem Hinweis "Wiki-Update -
+  noch nicht ins Deutsche übersetzt" gekennzeichnet). Die deutsche Übersetzung dafür folgt mit
+  einem künftigen App-Update; bis dahin bleibt der englische Text als bester verfügbarer Stand
+  erhalten. Übernommene Wiki-Updates landen in userdata\wiki-overrides.json und überschreiben
+  nie die mitgelieferte deutsche Datei.
+
+DEIN FORTSCHRITT
+  Alles was du einträgst (Status, Notizen, Einstellungen, Farben, letzte Kartenposition)
+  wird sofort automatisch in  userdata\progress.json  gespeichert (plus Sicherungen in
+  userdata\backups). In der Seitenleiste steht "gespeichert <Uhrzeit>".
+  Zum Umziehen auf einen anderen PC einfach den Ordner userdata kopieren.
+  Daten von der Online-Karte übernehmen: dort Einstellungen -> "Export Data",
+  hier Einstellungen -> "Daten importieren".
+  Falls kurz "NICHT gespeichert" erscheint: das Programm versucht danach automatisch mehrfach
+  erneut zu speichern (der Punkt fährt von selbst wieder auf "gespeichert" hoch, sobald es klappt) -
+  meist reicht das schon. Fährt der Hinweis mit der Maus, zeigt er den genauen Grund an. Bleibt
+  er dauerhaft stehen, taucht daneben ein Knopf "&#8635; Erneut verbinden" auf - damit sofort
+  (ohne Wartezeit) einen neuen Versuch starten, z. B. nachdem start.bat neu gestartet wurde.
+  Das Programm toleriert es inzwischen auch, wenn das Fenster länger im Hintergrund/minimiert
+  liegt (der Server schließt sich dann nicht mehr vorzeitig, nur weil der Browser Zeitgeber in
+  Hintergrund-Tabs drosselt) - bleibt die Warnung trotzdem bestehen: prüfen, ob das
+  start.bat-Fenster noch offen ist (falls nicht: einfach neu starten, der "Erneut
+  verbinden"-Knopf findet die Verbindung dann automatisch wieder), und den Programmordner in
+  Windows Defender/deinem Virenscanner von der Echtzeitprüfung ausschließen (ein kurzzeitiges
+  Sperren der Datei durch den Scanner ist die häufigste Ursache bei kurzen Ausfällen).
+  Speichert gar nichts mehr UND erscheint dabei nicht mal die Warnung "NICHT gespeichert":
+  einmal die Seite neu laden (F5) bzw. start.bat neu starten - das behebt es zuverlässig.
+  Seit 06.10. gibt es dafür zusätzlich ein eingebautes Sicherheitsnetz (siehe Änderungsprotokoll),
+  und unerwartete Serverfehler landen jetzt in  userdata\error.log  statt den Server unbemerkt
+  zu beenden - bei erneuten Aussetzern lohnt ein Blick in diese Datei.
+
+BEREINIGEN / ZURÜCKSETZEN  (Zahnrad -> "Bereinigung & Zurücksetzen")
+  Aufräumen                  entfernt Datenmüll (verwaiste Einträge, leere Notizen, Standardwerte)
+  Alle Status auf "Offen"    setzt nur Besucht/Erledigt zurück (Notizen/Einstellungen bleiben)
+  Alle Notizen löschen       löscht nur Notizen
+  Alles auf Anfang           setzt Status, Notizen und Einstellungen komplett zurück
+  Vor jeder dieser Aktionen wird automatisch eine Sicherung angelegt; sie kann im selben
+  Bereich über "Sicherung wiederherstellen" zurückgeholt werden (die letzten 40 bleiben).
+
+ORDNER
+  start.bat / desktop-verknuepfung.bat   Starten bzw. Verknüpfung anlegen
+  app\server.mjs                         kleiner lokaler Server (ohne Zusatzpakete)
+  app\site                               Kopie der Original-Webseite (wird per Update erneuert)
+  app\custom                             eigene Erweiterungen (Design, Deutsch, Dashboard, Update ...)
+  app\custom\data-locations-wiki.json    deutsche Wiki-Infos je Ort (Text, Bild, Wiki-Link)
+  app\custom\data-walkthroughs.json      deutsche Walkthrough-Texte je Mission (von neoseeker.com)
+  app\custom\data-achievements.json      deutsche Erfolge-Liste (von neoseeker.com)
+  app\custom\data-calc-savemap.json      ordnet Spielstand-interne Namen den Rechner-Gegenständen zu
+  app\custom\data-changelog.json         Änderungsprotokoll dieser Custom-App (im Zahnrad sichtbar)
+  userdata                               dein Fortschritt
+  userdata\wiki-overrides.json           übernommene Wiki-Updates (Englisch, bis übersetzt)
+  src, package.json, ...                 Original-Quellcode (wird für die App nicht gebraucht)
+
+Die Karte stammt von The1Killer (https://github.com/the1killer/lastcaretakermap, BSD-2-Clause),
+ist ein Fan-Projekt zu "The Last Caretaker" von Channel 37 und nicht mit diesem verbunden.

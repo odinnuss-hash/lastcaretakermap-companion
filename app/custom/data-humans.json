@@ -1,0 +1,162 @@
+{
+  "intro_de": "Menschen wachsen aus einem Human Seed (Samen), der in ein Lazarus Rack im Lazarus Complex gelegt wird. Für den Rat der Menschheit (The Council of Humanity) müssen Menschen mit bestimmten Eigenschaften gezüchtet werden, damit sie zum passenden Beruf werden.",
+  "obtaining_de": [
+    "Human Seeds findest du in Seed Vault Prometheus, Eden Cradle und weiteren Seed Reserves überall auf der Karte.",
+    "Sie werden gefroren in Kapseln namens Seed Vaults gelagert.",
+    "Sobald ein Seed entnommen ist, läuft ein 2-Stunden-Countdown.",
+    "Seeds sind grundsätzlich unzerstörbar – trotzdem nicht in den Recycler werfen oder an eine Sentinel Mine verfüttern."
+  ],
+  "timeLimit_de": [
+    "Nach der Entnahme muss der Seed innerhalb von 2 Stunden in eine Lazarus Pod gelegt und diese in ein bestromtes Lazarus Rack (mit frischem Wasser) gesteckt werden. Sonst verfällt der Seed.",
+    "Legst du den Seed zurück in eine Seed-Vault-Kapsel, wird der Timer zurückgesetzt.",
+    "Die Transportzeit lässt sich durch \"Zeit-Reset\" an anderen Seed Reserves unterwegs verlängern – funktioniert nur, solange der Seed noch NICHT in eine Lazarus Pod gelegt wurde.",
+    "Human Seeds sind nur begrenzt verfügbar."
+  ],
+  "growingRequirements_de": {
+    "title": "Voraussetzungen zum Züchten (Lazarus Rack)",
+    "needs": ["Strom", "Frisches Wasser", "Memories (Erinnerungsstücke)", "Food (Nahrung)"],
+    "minimums_title": "Mindestwerte für einen Menschen",
+    "minimums": [
+      { "label": "Gewicht", "value": "20 kg" },
+      { "label": "Größe", "value": "30 cm" },
+      { "label": "Lebenserwartung", "value": "10 Jahre" }
+    ]
+  },
+  "resourceCosts_de": {
+    "title": "Ressourcenkosten",
+    "items": [
+      "Strombedarf: 10,0 kWh",
+      "Wasserbedarf: 10.000 L",
+      "Wachstumszeit: startet bei 1 Minute für 1 Item, steigt auf 2 Minuten bei 8 Items, danach +10 Sekunden je weiterem Item"
+    ]
+  },
+  "mechanics_de": [
+    "Food und Memories beeinflussen das Ergebnis (Eigenschaften und Beruf).",
+    "Es gibt 40 mögliche Wachstums-Vorhersagen auf Basis der körperlichen und geistigen Eigenschaften (siehe Berufe unten).",
+    "Der endgültige Beruf wird zufällig aus den passenden Möglichkeiten gewählt, höherwertige Treffer werden bevorzugt.",
+    "Der gewählte Beruf steht auf der Lazarus-Pod-Anzeige als letzte Zeile unter \"Traits\" (Feld \"Profession\").",
+    "Steigt ein Rohwert einer Eigenschaft über 200, zählen weitere Zugaben nur noch mit Abschlag (Verwässerungs-Malus) – ab dann lohnt es sich kaum noch, diesen Wert weiter zu erhöhen."
+  ],
+  "byproducts_de": "Jedes verwendete Item erzeugt 1 Bio Waste, das hinten aus der Rutsche ausgeworfen wird.",
+  "afterGrowth_de": "Nach Abschluss des Wachstums gibt es kein Zeitlimit mehr für den Transport der Lazarus Pod.",
+  "rejoining_de": [
+    "Ein ausgewachsener Mensch muss in eine Lazarus Pod gelegt und sicher zur Exodus Station (Abflughalle) gebracht werden.",
+    "Von dort aus reist er zu den Sternen und schließt sich wieder der Menschheit an."
+  ],
+  "attrNames_de": {
+    "Strength": "Stärke", "Discipline": "Disziplin", "Focus": "Fokus", "Logic": "Logik",
+    "Creativity": "Kreativität", "Communication": "Kommunikation", "Patience": "Geduld",
+    "Weight": "Gewicht", "Height": "Größe", "Life Expectancy": "Lebenserwartung",
+    "Wisdom": "Weisheit", "Empathy": "Empathie", "Adaptability": "Anpassungsfähigkeit",
+    "Leadership": "Führung", "Intellect": "Intellekt", "Required Item": "Benötigtes Item"
+  },
+  "categories": [
+    {
+      "name_en": "Engineers", "name_de": "Ingenieure",
+      "attrs": ["Strength", "Discipline", "Focus", "Logic"],
+      "jobs": [
+        { "en": "Maintenance Engineer", "de": "Wartungstechniker", "values": [50, 5, 4, 3] },
+        { "en": "Systems Engineer", "de": "Systemingenieur", "values": [70, 10, 10, 10] },
+        { "en": "Energy Engineer", "de": "Energieingenieur", "values": [120, 30, 30, 30] },
+        { "en": "Quantum Engineer", "de": "Quanteningenieur", "values": [181, 61, 80, 80] }
+      ]
+    },
+    {
+      "name_en": "Arts & Culture", "name_de": "Kunst & Kultur",
+      "attrs": ["Life Expectancy", "Creativity", "Communication", "Patience"],
+      "jobs": [
+        { "en": "Visual Technician", "de": "Bildtechniker", "values": [50, 5, 4, 3] },
+        { "en": "Sculptor", "de": "Bildhauer", "values": [80, 20, 10, 15] },
+        { "en": "Cultural Archivist", "de": "Kulturarchivar", "values": [140, 45, 35, 40] },
+        { "en": "Existential Expressionist", "de": "Existenzieller Expressionist", "values": [200, 120, 60, 80] }
+      ]
+    },
+    {
+      "name_en": "Educators", "name_de": "Pädagogen",
+      "attrs": ["Weight", "Height", "Communication", "Patience", "Wisdom"],
+      "jobs": [
+        { "en": "Manual Holder", "de": "Anleitungswärter", "values": [40, 100, 5, 10, 10] },
+        { "en": "Teacher", "de": "Lehrer", "values": [60, 160, 15, 15, 10] },
+        { "en": "Professor", "de": "Professor", "values": [90, 180, 20, 30, 60] },
+        { "en": "Existential Chancellor", "de": "Existenzieller Kanzler", "values": [48, 200, 100, 80, 120] }
+      ]
+    },
+    {
+      "name_en": "Agriculture", "name_de": "Landwirtschaft",
+      "attrs": ["Height", "Life Expectancy", "Creativity", "Focus", "Patience"],
+      "jobs": [
+        { "en": "Nutrient Handler", "de": "Nährstoffwart", "values": [160, 50, 5, 5, 5] },
+        { "en": "Growth Specialist", "de": "Wachstumsspezialist", "values": [180, 60, 20, 10, 15] },
+        { "en": "Biosphere Director", "de": "Biosphärendirektor", "values": [190, 120, 35, 30, 40] },
+        { "en": "Sustenance Architect", "de": "Versorgungsarchitekt", "values": [200, 180, 50, 50, 160] }
+      ]
+    },
+    {
+      "name_en": "Logistics", "name_de": "Logistik",
+      "attrs": ["Height", "Discipline", "Focus", "Logic"],
+      "jobs": [
+        { "en": "Basic Supplier", "de": "Einfacher Versorger", "values": [100, 3, 4, 2] },
+        { "en": "Distributor", "de": "Verteiler", "values": [160, 12, 15, 10] },
+        { "en": "Resource Director", "de": "Ressourcendirektor", "values": [190, 35, 40, 30] },
+        { "en": "Logistics High Command", "de": "Logistik-Oberkommando", "values": [220, 82, 100, 120] }
+      ]
+    },
+    {
+      "name_en": "Military", "name_de": "Militär",
+      "attrs": ["Height", "Strength", "Discipline", "Focus", "Leadership"],
+      "jobs": [
+        { "en": "Door Jammer", "de": "Türblockierer", "values": ["—", 60, 2, 2, 5] },
+        { "en": "Guard", "de": "Wächter", "values": ["—", 120, 15, 12, 10] },
+        { "en": "Station Protector", "de": "Stationsbeschützer", "values": [180, 130, 40, 35, 30] },
+        { "en": "Guardian of Humanity", "de": "Hüter der Menschheit", "values": [200, 200, 100, 120, 80] }
+      ]
+    },
+    {
+      "name_en": "Science", "name_de": "Wissenschaft",
+      "attrs": ["Intellect", "Logic", "Patience", "Wisdom"],
+      "jobs": [
+        { "en": "Lab Technician", "de": "Labortechniker", "values": [80, 5, 5, 3] },
+        { "en": "Field Research Scientist", "de": "Feldforscher", "values": [110, 9, 10, 9] },
+        { "en": "Theoretical Scientist", "de": "Theoretischer Wissenschaftler", "values": [170, 25, 30, 40] },
+        { "en": "Quantum Physicist", "de": "Quantenphysiker", "values": [221, 120, 80, 100] }
+      ]
+    },
+    {
+      "name_en": "Healthcare", "name_de": "Gesundheitswesen",
+      "attrs": ["Weight", "Empathy", "Patience", "Wisdom"],
+      "jobs": [
+        { "en": "Health Assistant", "de": "Gesundheitsassistent", "values": [50, 5, 5, 3] },
+        { "en": "Doctor", "de": "Arzt", "values": [80, 15, 12, 10] },
+        { "en": "Neuro Specialist", "de": "Neurospezialist", "values": [120, 40, 35, 30] },
+        { "en": "Neural Architect", "de": "Neuroarchitekt", "values": [200, 100, 80, 120] }
+      ]
+    },
+    {
+      "name_en": "Leadership", "name_de": "Führungskräfte",
+      "attrs": ["Life Expectancy", "Communication", "Empathy", "Leadership"],
+      "jobs": [
+        { "en": "Room Supervisor", "de": "Raumaufsicht", "values": [40, 4, 3, 5] },
+        { "en": "Station Quartermaster", "de": "Stationsquartiermeister", "values": [70, 10, 10, 15] },
+        { "en": "Settlement Governor", "de": "Siedlungsgouverneur", "values": [100, 35, 30, 40] },
+        { "en": "Colonel of Humanity", "de": "Oberst der Menschheit", "values": [220, 100, 80, 120] }
+      ]
+    },
+    {
+      "name_en": "Explorer", "name_de": "Entdecker",
+      "attrs": ["Life Expectancy", "Strength", "Adaptability", "Creativity", "Focus"],
+      "jobs": [
+        { "en": "Station Roamer", "de": "Stationsstreifer", "values": [20, 60, 1, 2, 5] },
+        { "en": "Star Analyzer", "de": "Sternenanalyst", "values": [60, 100, 15, 20, 10] },
+        { "en": "Mission Seeker", "de": "Missionssucher", "values": [90, 100, 40, 36, 30] },
+        { "en": "Frontier Explorer", "de": "Grenzforscher", "values": [140, 120, 100, 80, 120] }
+      ]
+    },
+    {
+      "name_en": "Other / Special", "name_de": "Sonstiges",
+      "attrs": ["Required Item"],
+      "jobs": [
+        { "en": "Star Child", "de": "Star Child", "values": ["Star Child"] }
+      ]
+    }
+  ]
+}

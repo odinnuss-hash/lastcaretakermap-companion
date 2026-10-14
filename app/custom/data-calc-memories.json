@@ -1,0 +1,739 @@
+[
+ {
+  "id": "6956975a90fe83746dba526e",
+  "name": "Assembly Instructions",
+  "description_de": "Weißes Blatt mit vier auffälligen schwarzen Punkten – eine Bauanleitung.",
+  "weight": 0.6,
+  "image": "https://thelastcaretaker.wiki.gg/images/Assembly_Instructions.png?671cd4&format=original",
+  "attrs": {
+   "Logic": 8,
+   "Discipline": 2
+  },
+  "name_de": "Montageanleitung"
+ },
+ {
+  "id": "6956975a90fe83746dba526f",
+  "name": "Basketball",
+  "description_de": "Ein Basketball, braun oder blau.",
+  "weight": 0.6,
+  "image": "https://thelastcaretaker.wiki.gg/images/Basketball.png?43882f&format=original",
+  "attrs": {
+   "Patience": 1
+  },
+  "name_de": "Basketball"
+ },
+ {
+  "id": "6956975a90fe83746dba5270",
+  "name": "Biology Notes",
+  "description_de": "Papiere in graugrünem Ton mit aufgedruckten Walen.",
+  "weight": 0.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Biology_Notes.png?18da93&format=original",
+  "attrs": {
+   "Wisdom": 10
+  },
+  "name_de": "Biologie-Notizen"
+ },
+ {
+  "id": "6956975a90fe83746dba5271",
+  "name": "Blueprints",
+  "description_de": "Blaue Blätter mit Rasterlinien – klassische Blaupausen.",
+  "weight": 0.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Blueprints.png?4ae578&format=original",
+  "attrs": {
+   "Logic": 5,
+   "Adaptability": 10
+  },
+  "name_de": "Baupläne"
+ },
+ {
+  "id": "6956975a90fe83746dba5272",
+  "name": "Bowling Ball",
+  "description_de": "Eine lilafarbene Bowlingkugel.",
+  "weight": 5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Bowling_Ball.png?dee982&format=original",
+  "attrs": {
+   "Patience": 1
+  },
+  "name_de": "Bowlingkugel"
+ },
+ {
+  "id": "6956975a90fe83746dba5273",
+  "name": "Bowling Pin",
+  "description_de": "Ein weißer Bowling-Pin mit rotem Streifen am Hals.",
+  "weight": 1.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Bowling_Pin.png?296fdf&format=original",
+  "attrs": {
+   "Patience": 1
+  },
+  "name_de": "Bowling-Pin"
+ },
+ {
+  "id": "6956975a90fe83746dba5274",
+  "name": "Camera",
+  "description_de": "Eine schwarze Kamera.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Camera.png?2890db&format=original",
+  "attrs": {
+   "Creativity": 5,
+   "Communication": 5
+  },
+  "name_de": "Kamera"
+ },
+ {
+  "id": "6956975a90fe83746dba5275",
+  "name": "Cards",
+  "description_de": "Weiße Karte mit bunten Luftballons.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Cards.png?fe6e93&format=original",
+  "attrs": {
+   "Communication": 5,
+   "Empathy": 5
+  },
+  "name_de": "Spielkarten"
+ },
+ {
+  "id": "6956975a90fe83746dba5276",
+  "name": "Cognitive Cards",
+  "description_de": "Grüne Papiere mit aufgedruckten Bildern.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Cognitive_Cards.png?2ad7ad&format=original",
+  "attrs": {
+   "Logic": 5,
+   "Wisdom": 3,
+   "Adaptability": 7
+  },
+  "name_de": "Denkkarten"
+ },
+ {
+  "id": "6956975a90fe83746dba5277",
+  "name": "Commander's Log",
+  "description_de": "Beige Blätter mit Kritzeleien, unten rechts eine Flasche abgebildet.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Commander%27s_Log.png?fcec8a&format=original",
+  "attrs": {
+   "Discipline": 7,
+   "Leadership": 8
+  },
+  "name_de": "Kommandanten-Logbuch"
+ },
+ {
+  "id": "6956975a90fe83746dba5278",
+  "name": "Compass",
+  "description_de": "Armeegrüner Kompass mit rotem Zentrum.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Compass.png?c72c59&format=original",
+  "attrs": {
+   "Focus": 3,
+   "Leadership": 3,
+   "Adaptability": 6
+  },
+  "name_de": "Kompass"
+ },
+ {
+  "id": "6956975a90fe83746dba5279",
+  "name": "Crayon",
+  "description_de": "Eine Schachtel Wachsmalstifte mit der Aufschrift „CRAYON“.",
+  "weight": 0.25,
+  "image": "https://thelastcaretaker.wiki.gg/images/Crayon.png?f310e3&format=original",
+  "attrs": {
+   "Focus": 2,
+   "Creativity": 5
+  },
+  "name_de": "Wachsmalstift"
+ },
+ {
+  "id": "6956975a90fe83746dba527a",
+  "name": "Encyclopedia",
+  "description_de": "Rotes Buch mit goldener Schrift, Schild und Kreuz auf dem Einband.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Encyclopedia.png?e43cfb&format=original",
+  "attrs": {
+   "Logic": 5,
+   "Wisdom": 10
+  },
+  "name_de": "Enzyklopädie"
+ },
+ {
+  "id": "6956975a90fe83746dba527b",
+  "name": "First Aid",
+  "description_de": "Rotes Buch mit weißer Aufschrift „FIRST AID“.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/First_Aid.png?580f2c&format=original",
+  "attrs": {
+   "Adaptability": 10
+  },
+  "name_de": "Erste Hilfe"
+ },
+ {
+  "id": "6956975a90fe83746dba527c",
+  "name": "Guitar",
+  "description_de": "Eine braun-beige Gitarre.",
+  "weight": 2,
+  "image": "https://thelastcaretaker.wiki.gg/images/Guitar.png?2038ed&format=original",
+  "attrs": {
+   "Focus": 3,
+   "Creativity": 3,
+   "Communication": 3
+  },
+  "name_de": "Gitarre"
+ },
+ {
+  "id": "6956975a90fe83746dba527d",
+  "name": "Love Letters",
+  "description_de": "Papiere mit einer Abbildung von Menschen darauf.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Love_Letters.png?b9ce35&format=original",
+  "attrs": {
+   "Wisdom": 10
+  },
+  "name_de": "Liebesbriefe"
+ },
+ {
+  "id": "6956975a90fe83746dba527e",
+  "name": "Maps",
+  "description_de": "Kartenblätter mit Pfeilen und markierten Orten.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Maps.png?ce1835&format=original",
+  "attrs": {
+   "Leadership": 5,
+   "Wisdom": 10
+  },
+  "name_de": "Landkarten"
+ },
+ {
+  "id": "6956975a90fe83746dba527f",
+  "name": "Meditation",
+  "description_de": "Weißes Buch, orangener Kreis, blaues Personen-Symbol, Titel „Still Waters“.",
+  "weight": 0.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Meditation.png?ff5779&format=original",
+  "attrs": {
+   "Focus": 5
+  },
+  "name_de": "Meditation"
+ },
+ {
+  "id": "6956975a90fe83746dba5280",
+  "name": "Mirror",
+  "description_de": "Ein Spiegel mit glasklarer Reflexion.",
+  "weight": 2,
+  "image": "https://thelastcaretaker.wiki.gg/images/Mirror.png?e93aaf&format=original",
+  "attrs": {
+   "Empathy": 5
+  },
+  "name_de": "Spiegel"
+ },
+ {
+  "id": "6956975a90fe83746dba5281",
+  "name": "Music Notes",
+  "description_de": "Blätter mit Notenzeilen und großem „H“ oben links, rote Ecken.",
+  "weight": 0.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Music_Notes.png?dc1954&format=original",
+  "attrs": {
+   "Creativity": 6,
+   "Communication": 4
+  },
+  "name_de": "Notenblätter"
+ },
+ {
+  "id": "6956975a90fe83746dba5282",
+  "name": "Mystery Box",
+  "description_de": "Eine Kiste mit großem Fragezeichen darauf.",
+  "weight": 1.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Mystery_Box.png?c5a827&format=original",
+  "attrs": {
+   "Patience": 5
+  },
+  "name_de": "Rätselbox"
+ },
+ {
+  "id": "6956975a90fe83746dba5283",
+  "name": "Plans",
+  "description_de": "Papiere mit dickem rotem Rand, Aufschrift „Evacuation Plan“.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Plans.png?5dc029&format=original",
+  "attrs": {
+   "Discipline": 7,
+   "Communication": 8
+  },
+  "name_de": "Pläne"
+ },
+ {
+  "id": "6956975a90fe83746dba5284",
+  "name": "Programming Manual",
+  "description_de": "Gelbes Buch, weiße Hände tippen auf einer Tastatur.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Programming_Manual.png?2a4435&format=original",
+  "attrs": {
+   "Logic": 10
+  },
+  "name_de": "Programmierhandbuch"
+ },
+ {
+  "id": "6956975a90fe83746dba5285",
+  "name": "Small Human Art",
+  "description_de": "Weißes Blatt mit Kinderzeichnung, gelbem Kreuz und roten/orangen Kreisen.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Small_Human_Art.png?bf738a&format=original",
+  "attrs": {
+   "Empathy": 5
+  },
+  "name_de": "Kinderzeichnung"
+ },
+ {
+  "id": "6956975a90fe83746dba5286",
+  "name": "Small Tree",
+  "description_de": "Ein kleiner grüner Baum in einer Schneekugel.",
+  "weight": 1.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Small_Tree.png?3f6d4d&format=original",
+  "attrs": {
+   "Discipline": 5,
+   "Patience": 5
+  },
+  "name_de": "Kleiner Baum"
+ },
+ {
+  "id": "6956975a90fe83746dba5287",
+  "name": "Stopwatch",
+  "description_de": "Eine Box mit goldener, runder Stoppuhr in der Mitte.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Stopwatch.png?4a68ff&format=original",
+  "attrs": {
+   "Patience": 5
+  },
+  "name_de": "Stoppuhr"
+ },
+ {
+  "id": "6956975a90fe83746dba5288",
+  "name": "Sudoku Book",
+  "description_de": "Blaues Buch mit Sudoku-Raster, Aufschrift „1.001“ oben.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Sudoku_Book.png?a91271&format=original",
+  "attrs": {
+   "Logic": 10
+  },
+  "name_de": "Sudoku-Buch"
+ },
+ {
+  "id": "6956975a90fe83746dba5289",
+  "name": "Survival Diagrams",
+  "description_de": "Bräunliche Papiere mit schwarzem Text und Zeichnungen.",
+  "weight": 0.5,
+  "image": "https://thelastcaretaker.wiki.gg/images/Survival_Diagrams.png?e8e626&format=original",
+  "attrs": {
+   "Leadership": 5,
+   "Adaptability": 10
+  },
+  "name_de": "Überlebensdiagramme"
+ },
+ {
+  "id": "6956975a90fe83746dba528a",
+  "name": "Teddy Bear",
+  "description_de": "Weißer oder brauner Teddybär mit rot-orangenem Schal.",
+  "weight": 0.4,
+  "image": "https://thelastcaretaker.wiki.gg/images/Teddy_Bear.png?81e243&format=original",
+  "attrs": {
+   "Empathy": 3
+  },
+  "name_de": "Teddybär"
+ },
+ {
+  "id": "6956975a90fe83746dba528b",
+  "name": "The Art of War",
+  "description_de": "Rotes Buch mit weißer Schrift und schwarzem Symbol.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/The_Art_of_War.png?ec307d&format=original",
+  "attrs": {
+   "Communication": 5,
+   "Leadership": 10
+  },
+  "name_de": "Die Kunst des Krieges"
+ },
+ {
+  "id": "6956975a90fe83746dba528c",
+  "name": "Tommy",
+  "description_de": "Grünes Dinosaurier-Spielzeug mit rotem Hut.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Tommy.png?5041d2&format=original",
+  "attrs": {
+   "Empathy": 3
+  },
+  "name_de": "Tommy"
+ },
+ {
+  "id": "6956975a90fe83746dba528d",
+  "name": "Travel Journal",
+  "description_de": "Weißes Blatt mit einem Rad-Symbol oben.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Travel_Journal.png?6b1149&format=original",
+  "attrs": {
+   "Adaptability": 10
+  },
+  "name_de": "Reisetagebuch"
+ },
+ {
+  "id": "6956975a90fe83746dba528e",
+  "name": "Where's Tommy",
+  "description_de": "Weißes Buch mit blauem Bild und Lupe auf dem Einband.",
+  "weight": 1,
+  "image": "https://thelastcaretaker.wiki.gg/images/Where%27s_Tommy.png?9edf87&format=original",
+  "attrs": {
+   "Focus": 5,
+   "Patience": 5
+  },
+  "name_de": "Wo ist Tommy?"
+ },
+ {
+  "id": "699a7c3d4bbbf8dbf7c6bc63",
+  "name": "Ash Notebook",
+  "description_de": "Ein besonderes Notizbuch mit ungewöhnlich hohem Wert auf alle Eigenschaften.",
+  "weight": 1,
+  "image": "https://base44.app/api/apps/69568de937da2ce2c1873efe/files/public/69568de937da2ce2c1873efe/9641bdbae_AshNotebook.png",
+  "attrs": {
+   "Logic": 100,
+   "Focus": 100,
+   "Discipline": 100,
+   "Creativity": 100,
+   "Communication": 100,
+   "Empathy": 100,
+   "Leadership": 100,
+   "Wisdom": 100,
+   "Patience": 100,
+   "Adaptability": 100
+  },
+  "name_de": "Asche-Notizbuch"
+ },
+ {
+  "id": "6a8bf03f108810b444a6cf9b",
+  "name": "Star Child Memory",
+  "description_de": "Eine Erinnerung, die mit dem Star Child in Verbindung steht.",
+  "weight": 1,
+  "image": null,
+  "attrs": {},
+  "name_de": "Sternenkind-Erinnerung"
+ },
+ {
+  "id": "6a8bf03f2aad9bc9ffb32c1e",
+  "name": "Recyclable Memory",
+  "description_de": "Eine recycelbare Erinnerung ohne besondere Merkmale.",
+  "weight": 1,
+  "image": null,
+  "attrs": {
+   "Adaptability": 10
+  },
+  "name_de": "Recycelbare Erinnerung"
+ },
+ {
+  "id": "6a8bf03f59a4cd330d78da61",
+  "name": "Porcine Vocal Interface",
+  "description_de": "Eine mechanische Pfeife, angebracht an Versuchssubjekten des Projekts CANTICLE, damit Forscher kontrollierte Lautmuster untersuchen konnten. Erwartet wurden Befehle, Reaktionen, verwertbare Daten. Was zurückkam, war Musik. Dann Flehen.",
+  "weight": 1.5,
+  "image": null,
+  "attrs": {
+   "Creativity": 50,
+   "Communication": 100,
+   "Empathy": 50
+  },
+  "name_de": "Schweine-Stimminterface"
+ },
+ {
+  "id": "6a8bf03f79388562c3946052",
+  "name": "Oath Token",
+  "description_de": "Ein kleines metallenes Versprechen von Menschen, die ihren eigenen Systemen nicht mehr trauten. In eine Lazarus Pod gelegt, verlangsamt es den Wachstumsprozess und gibt dem Menschen mehr Zeit, ganz zu werden. Es ist absichtlich ineffizient. Das ist die Gnade daran.",
+  "weight": 3,
+  "image": null,
+  "attrs": {
+   "Logic": 50,
+   "Focus": 50,
+   "Discipline": 50,
+   "Creativity": 50,
+   "Communication": 50,
+   "Empathy": 50,
+   "Leadership": 50,
+   "Wisdom": 50,
+   "Patience": 50,
+   "Adaptability": 50
+  },
+  "name_de": "Eidzeichen"
+ },
+ {
+  "id": "6a8bf040187d6a0ec5fbbc4d",
+  "name": "Keys to Imagination",
+  "description_de": "Ein Modul-Cartridge – Schlüssel zur Fantasie.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Schlüssel zur Fantasie"
+ },
+ {
+  "id": "6a8bf0404f1f68ab2be28ccb",
+  "name": "PECO Athletics - 100m Dash",
+  "description_de": "PECO-Cartridge – 100-Meter-Sprint.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "PECO-Leichtathletik – 100-Meter-Lauf"
+ },
+ {
+  "id": "6a8bf0406b16337e0ada1714",
+  "name": "Amiga Boing Ball",
+  "description_de": "PECO-Cartridge – die klassische Amiga-„Boing Ball“-Demo.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Amiga Boing Ball"
+ },
+ {
+  "id": "6a8bf04093f6861d4724d839",
+  "name": "Chiptropolis Cartridge",
+  "description_de": "PECO-Cartridge „Chiptropolis“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Chiptropolis-Kassette"
+ },
+ {
+  "id": "6a8bf040974f69579e6cb2fa",
+  "name": "Second Reality",
+  "description_de": "PECO-Cartridge – die Demo „Second Reality“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Second Reality"
+ },
+ {
+  "id": "6a8bf040c6826cc89201bf17",
+  "name": "Poushki",
+  "description_de": "PECO-Cartridge „Poushki“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Poushki"
+ },
+ {
+  "id": "6a8bf040d6745fdb8cbc7d83",
+  "name": "Touchin' the Chip",
+  "description_de": "PECO-Cartridge „Touchin’ the Chip“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Touchin' the Chip"
+ },
+ {
+  "id": "6a8bf040e66729bf1cc5fa9f",
+  "name": "Guitar Slinger",
+  "description_de": "PECO-Cartridge „Guitar Slinger“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Guitar Slinger"
+ },
+ {
+  "id": "6a8bf040f2dfd6d2555dd9fa",
+  "name": "PECO Athletics - Javelin",
+  "description_de": "PECO-Cartridge – Speerwurf.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "PECO-Leichtathletik – Speerwurf"
+ },
+ {
+  "id": "6a8bf041108810b444a6cf9e",
+  "name": "Turbulence",
+  "description_de": "PECO-Cartridge „Turbulence“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Turbulence"
+ },
+ {
+  "id": "6a8bf0411197b3f9e4eb5674",
+  "name": "Angerkoski",
+  "description_de": "PECO-Cartridge „Angerkoski“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Angerkoski"
+ },
+ {
+  "id": "6a8bf0412d98f335cdb2119e",
+  "name": "PECO Athletics - Triple Jump",
+  "description_de": "PECO-Cartridge – Dreisprung.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "PECO-Leichtathletik – Dreisprung"
+ },
+ {
+  "id": "6a8bf04159d12c64dc6dd2c2",
+  "name": "Lonelies",
+  "description_de": "PECO-Cartridge „Lonelies“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Lonelies"
+ },
+ {
+  "id": "6a8bf041872a9bc94ed85f03",
+  "name": "Fluctuations",
+  "description_de": "PECO-Cartridge „Fluctuations“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Fluctuations"
+ },
+ {
+  "id": "6a8bf041a8a1bf725625ef00",
+  "name": "Starshine",
+  "description_de": "PECO-Cartridge „Starshine“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Starshine"
+ },
+ {
+  "id": "6a8bf041e993e0235f7bf905",
+  "name": "Rising Tides - Mosetris",
+  "description_de": "PECO-Cartridge – das Spiel „Mosetris“ (Rising Tides).",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Rising Tides – Mosetris"
+ },
+ {
+  "id": "6a8bf041f4065cc4366308b0",
+  "name": "Breakdown Cartridge",
+  "description_de": "PECO-Cartridge (Musik/Spiel) „Breakdown“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Breakdown-Kassette"
+ },
+ {
+  "id": "6a8bf041f75f17c33812b99e",
+  "name": "Multima XI",
+  "description_de": "PECO-Cartridge „Multima XI“.",
+  "weight": 0.3,
+  "image": null,
+  "attrs": {
+   "Focus": 25,
+   "Creativity": 25,
+   "Patience": 20,
+   "Adaptability": 20
+  },
+  "name_de": "Multima XI"
+ },
+ {
+  "id": "6ab9464daa5155a8ae4d0eab",
+  "name": "Child of the Orchard",
+  "description_de": "Grünliches, birnenförmiges organisches Objekt – ein Kern aus dem Elysium-Obstgarten.",
+  "weight": 0.1,
+  "image": "https://media.base44.com/images/public/69568de937da2ce2c1873efe/b000c996a_image.png",
+  "attrs": {},
+  "name_de": "Kind des Obstgartens"
+ },
+ {
+  "id": "6ab99e3c364620dbb65ad74e",
+  "name": "A Future Without Him",
+  "description_de": "Aron starb, bevor er erfuhr, dass er Vater werden würde. Elina bewahrte die Wahrheit, damit ihre Tochter mehr erben würde als nur seinen Namen.",
+  "weight": 0.1,
+  "image": null,
+  "attrs": {
+   "Logic": 5,
+   "Focus": 5,
+   "Discipline": 5,
+   "Creativity": 5,
+   "Communication": 5,
+   "Empathy": 5,
+   "Leadership": 5,
+   "Wisdom": 5,
+   "Patience": 5,
+   "Adaptability": 5
+  },
+  "name_de": "Eine Zukunft ohne ihn"
+ }
+]

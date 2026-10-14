@@ -1,0 +1,77 @@
+[
+  {
+    "version": "2026.10.06",
+    "datum": "06.10.2026",
+    "titel": "Speicherung dauerhaft hängengeblieben – behoben",
+    "items": [
+      "Eigentliche Ursache gefunden und behoben: Jeder einzelne Speichervorgang nutzte eine Browser-Funktion (\"keepalive\"), die eigentlich nur für das Schließen der Seite gedacht ist und ein sehr kleines Kontingent an gleichzeitigen Anfragen hat. War dieses Kontingent einmal erschöpft (z. B. durch mehrere schnelle Speicherversuche hintereinander), schlug ab da JEDE weitere Speicherung sofort fehl – auch \"Erneut verbinden\" half nicht mehr, nur ein Neuladen der Seite. Betraf nur die Speicherung selbst, keine Spieldaten.",
+      "Zusätzliches Sicherheitsnetz: Ein hängengebliebener Speicher-Sperrzustand nach \"Sicherung wiederherstellen\" (falls der anschließende Neustart der Seite ausnahmsweise ausbleibt) wird jetzt automatisch nach einigen Sekunden wieder freigegeben.",
+      "Der Server fängt jetzt unerwartete Fehler ab, statt sich im Zweifel komplett zu beenden (was bis dahin unbemerkt jede weitere Speicherung verhindert hätte) – Fehler werden stattdessen in userdata/error.log protokolliert."
+    ]
+  },
+  {
+    "version": "2026.10.01",
+    "datum": "01.10.2026",
+    "titel": "Gezüchtete Menschen aus dem Spielstand & Lösch-Funktion",
+    "items": [
+      "Die Spielstand-Rubrik zeigt jetzt auch, welche Menschen im Spiel bereits gezüchtet wurden (inkl. Beruf, geliefert/noch nicht abgeholt) – ein früherer Versuch dazu war noch erfolglos, ein neuer, gezielterer Blick ins Speicherformat hat es jetzt doch möglich gemacht.",
+      "Beim Übernehmen in den Rechner werden fehlende Einträge in \"Bereits gezüchtet\" automatisch ergänzt (nur hinzugefügt, nie entfernt, kein doppelter Ressourcenabzug).",
+      "Neuer \"Entfernen\"-Knopf bei jedem Eintrag in \"Bereits gezüchtet\" – z. B. bei Verklicken beim Züchten –, inkl. automatischer Rückbuchung der damals verbrauchten Materialien (sofern bekannt)."
+    ]
+  },
+  {
+    "version": "2026.09.30",
+    "datum": "30.09.2026",
+    "titel": "Eigene Spielstand-Rubrik, Missionsstatus & Kompatibilitäts-Hinweis",
+    "items": [
+      "Neues Fenster \"Spielstand\" (Taste S): liest die .sav-Datei und zeigt Erinnerungen & Nahrung als Bildkarten statt als reine Zahlenliste.",
+      "Zeigt jetzt auch den Missionsstatus aus dem Spielstand (abgeschlossen / in Arbeit) und kann ihn auf Wunsch ins Missionen-Fenster übernehmen.",
+      "Hinweis, falls die Spielversion vom zuletzt geprüften Stand abweicht (Spielformat könnte sich geändert haben).",
+      "Vor jedem Übernehmen in den Rechner fragt die App jetzt extra nach, wenn dabei vorhandene Mengen ersetzt werden.",
+      "Farbvarianten wie \"Basketball\" (blau/braun) werden beim Einlesen automatisch zusammengezählt.",
+      "44 von 58 Erinnerungs-Gegenständen jetzt automatisch aus dem Spielstand zuordenbar (vorher 39).",
+      "Dieses Änderungsprotokoll neu eingebaut."
+    ]
+  },
+  {
+    "version": "2026.09.29",
+    "datum": "29.09.2026",
+    "titel": "Rat der Menschheit, Wachstumsrechner & erstes Spielstand-Einlesen",
+    "items": [
+      "Neuer Wachstumsrechner (Taste R) für die Menschenzucht, nachgebaut nach dem \"Human Growth Calculator\" von thelastcaretaker-tools.com.",
+      "Alle 40 Berufe mit ihren Eigenschaften auf Deutsch, Bestand eintragen und live sehen, was gerade züchtbar ist.",
+      "\"Bereits gezüchtet\"-Übersicht merkt sich den Stand jedes Zuchtvorgangs.",
+      "Neue Rubrik \"Rat der Menschheit\" (Taste C) mit den Ausschüssen und ihren jeweils 4 Berufen.",
+      "Erstes Einlesen des Spielstands (.sav) für Erinnerungen & Nahrung eingebaut."
+    ]
+  },
+  {
+    "version": "2026.09.28",
+    "datum": "28.09.2026",
+    "titel": "Missionen, Walkthroughs & Erfolge",
+    "items": [
+      "Missionen-Fenster mit allen Story-Missionen auf Deutsch (vom offiziellen Wiki übersetzt), inkl. Erledigt-Status.",
+      "Walkthrough-Texte je Mission (von neoseeker.com übersetzt) direkt im Missionen-Fenster abrufbar.",
+      "Erfolge-Übersicht neu hinzugefügt."
+    ]
+  },
+  {
+    "version": "2026.09.27",
+    "datum": "27.09.2026",
+    "titel": "Wiki-Infos direkt im Ortsfenster",
+    "items": [
+      "Deutsche Wiki-Texte & Bilder für alle Orte fest im Programm hinterlegt – erscheinen sofort, ganz ohne Internet.",
+      "Eigene Update-Funktion für neue/geänderte Wiki-Artikel (getrennt vom Update der Original-Kartendaten)."
+    ]
+  },
+  {
+    "version": "2026.09.25",
+    "datum": "25.09.2026",
+    "titel": "Erste Version",
+    "items": [
+      "Grundgerüst: deutsche Beschriftung der Original-Karte, Erledigt-Status (Offen/Besucht/Erledigt).",
+      "Fortschritts-Dashboard mit Export als CSV/Text.",
+      "Update-Funktion für die Original-Kartendaten von GitHub, Desktop-Verknüpfung mit Karten-Symbol."
+    ]
+  }
+]

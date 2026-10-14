@@ -1,0 +1,72 @@
+/* Last Caretaker Map - Erweiterungen */
+
+/* ---- Erledigte Locations: Symbol auf der Karte wird gelb ---------------------------------- */
+.leaflet-marker-icon:has(.visit-overlay[data-state="cleared"]) .marker-icon-inner {
+    background-color: #ffd400 !important;
+}
+/* (kein zusaetzlicher Leuchteffekt: schont die Grafikkarte) */
+/* Auch Nummern-Marker */
+.number-marker:has(.visit-overlay[data-state="cleared"]) .marker-icon-inner {
+    background-color: #ffd400 !important;
+}
+/* Erledigt-Haken auf der Karte auch dann zeigen, wenn Abzeichen sonst aus sind: nicht noetig, Symbol ist gelb */
+
+/* Seitenleiste: erledigte Eintraege gelb */
+.location-item:has(.sidebar-visit-icon[data-state="cleared"]) h3 {
+    color: #ffd400;
+}
+
+/* ---- Filter der Seitenleiste ---------------------------------------------------------------- */
+#sidebar[data-lcm-filter="open"] .location-item:has(.sidebar-visit-icon[data-state="cleared"]) { display: none; }
+#sidebar[data-lcm-filter="done"] .location-item:not(:has(.sidebar-visit-icon[data-state="cleared"])) { display: none; }
+
+/* ---- Fortschrittsanzeige --------------------------------------------------------------------- */
+.lcm-progress {
+    padding: 8px 12px 10px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    font-size: 13px;
+    color: #ddd;
+}
+.lcm-progress-line { display: flex; align-items: center; justify-content: space-between; gap: 8px; margin-bottom: 6px; }
+.lcm-progress select {
+    background: #2b2b2b; color: #eee; border: 1px solid #555; border-radius: 4px;
+    padding: 2px 4px; font-size: 12px;
+}
+.lcm-bar { height: 6px; border-radius: 3px; background: #3a3a3a; overflow: hidden; }
+#lcm-bar-fill { height: 100%; width: 0; background: #ffd400; transition: width 0.25s ease; }
+
+/* ---- Status-Schalter im Popup ---------------------------------------------------------------- */
+.visit-status-btn { display: none !important; }
+.lcm-status { margin-top: 10px; }
+.lcm-status-title { font-size: 12px; font-weight: bold; color: #555; margin-bottom: 4px; }
+.lcm-status-row { display: flex; gap: 4px; }
+.lcm-status-btn {
+    flex: 1; padding: 7px 4px; border: 2px solid #bbb; border-radius: 6px; background: #f0f0f0;
+    color: #555; font-size: 13px; font-weight: bold; cursor: pointer; transition: all 0.15s ease;
+}
+.lcm-status-btn:hover { opacity: 0.85; }
+.lcm-status-btn.active[data-target="not-visited"] { background: #e2e2e2; border-color: #888; color: #222; }
+.lcm-status-btn.active[data-target="visited"] { background: #fff; border-color: #444; color: #111; }
+.lcm-status-btn.active[data-target="cleared"] { background: #ffd400; border-color: #b39500; color: #000; }
+
+/* ---- Update-Bereich -------------------------------------------------------------------------- */
+#lcm-update code { background: rgba(255, 255, 255, 0.1); padding: 0 4px; border-radius: 3px; }
+.lcm-list { margin: 2px 0 8px 18px; padding: 0; font-size: 13px; color: #ddd; max-height: 140px; overflow: auto; }
+.settings-button.lcm-has-update { position: relative; }
+.settings-button.lcm-has-update::after {
+    content: ""; position: absolute; top: 2px; right: 2px; width: 10px; height: 10px;
+    border-radius: 50%; background: #ffd400; border: 2px solid #222;
+}
+
+/* ---- Speicheranzeige / Bereinigung ---------------------------------------------------------- */
+.lcm-saved { margin-top: 5px; font-size: 11px; color: #9ab; }
+.lcm-saved.bad { color: #ff6b6b; font-weight: bold; }
+.lcm-btn-col { display: flex; flex-direction: column; gap: 6px; }
+.lcm-select {
+    width: 100%; background: #2b2b2b; color: #eee; border: 1px solid #555; border-radius: 4px;
+    padding: 5px; font-size: 12px;
+}
+
+/* ---- Robustheit der Darstellung --------------------------------------------------------------- */
+#sidebar { transform: translateZ(0); isolation: isolate; }
+#location-list { transform: translateZ(0); }
