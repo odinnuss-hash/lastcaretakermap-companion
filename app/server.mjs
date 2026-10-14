@@ -47,6 +47,14 @@ const API_BASE = (process.env.LCM_API_BASE || 'https://api.github.com').replace(
 const RAW_BASE = (process.env.LCM_RAW_BASE || 'https://raw.githubusercontent.com').replace(/\/$/, '');
 
 const WIKI_BASE = (process.env.LCM_WIKI_BASE || 'https://thelastcaretaker.wiki.gg').replace(/\/$/, '');
+
+// Veroeffentlichungs-Repository DIESER Companion-App (nicht zu verwechseln mit REPO oben, dem
+// Original-Kartenprojekt von The1Killer). Hierueber bezieht die App neue Uebersetzungen/Funktionen
+// fuer app/custom (siehe "Sprach- & App-Updates" in den Einstellungen) - server.mjs selbst wird
+// dabei nie angefasst.
+const APP_REPO = process.env.LCM_APP_REPO || 'odinnuss-hash/lastcaretakermap-companion';
+const APP_BRANCH = process.env.LCM_APP_BRANCH || 'main';
+const APP_CUSTOM_PREFIX = 'app/custom/';
 // Die Wiki-Infos (deutsch übersetzt) liegen fest in app/custom/data-locations-wiki.json.
 // Wiki-Updates (neu/geändert seit dem letzten Abgleich) werden nur bei "Nach Wiki-Updates
 // suchen" live abgefragt und, wenn übernommen, unübersetzt (Englisch) in userdata/wiki-overrides.json
@@ -473,6 +481,126 @@ async function applyUpdate() {
   }
 }
 
+// ------------------------------------------------------------------ Update-Funktion fuer die Custom-Erweiterung
+// Anders als oben (Original-Kartendaten von The1Killer) betrifft dies NUR den Ordner app/custom
+// dieser App selbst (Uebersetzungen/i18n.js, eigene Skripte, Datendateien) - abgeglichen gegen
+// das eigene Veroeffentlichungs-Repository (APP_REPO). server.mjs selbst wird dabei nie veraendert,
+// genau wie das Original-Update oben nie server.mjs ersetzt.
+async function fetchAppRemoteTree() {
+  const data = await ghFetch(`${API_BASE}/repos/${APP_REPO}/git/trees/${APP_BRANCH}?recursive=1`);
+  if (!data || !Array.isArray(data.tree)) throw new Error('Unerwartete Antwort von GitHub');
+  if (data.truncated) throw new Error('Dateiliste von GitHub unvollstaendig');
+  const files = {};
+  for (const n of data.tree) {
+    if (n.type !== 'blob' || !n.path.startsWith(APP_CUSTOM_PREFIX)) continue;
+    files[n.path.slice(APP_CUSTOM_PREFIX.length)] = { sha: n.sha, size: n.size || 0 };
+  }
+  if (!Object.keys(files).length) throw new Error(`Im Repository ${APP_REPO} wurde kein ${APP_CUSTOM_PREFIX} gefunden`);
+  return { commit: data.sha, files };
+}
+
+async function localAppFiles() {
+  const out = {};
+  for (const rel of await walk(CUSTOM_DIR)) out[rel] = gitBlobSha(await fsp.readFile(path.join(CUSTOM_DIR, rel)));
+  return out;
+}
+
+async function checkForAppUpdate() {
+  const remote = await fetchAppRemoteTree();
+  const local = await localAppFiles();
+  const added = [], changed = [], removed = [];
+  for (const [p, info] of Object.entries(remote.files)) {
+    if (!(p in local)) added.push(p);
+    else if (local[p] !== info.sha) changed.push(p);
+  }
+  for (const p of Object.keys(local)) if (!(p in remote.files)) removed.push(p);
+  const upToDate = !added.length && !changed.length && !removed.length;
+  return {
+    upToDate, commit: remote.commit, added, changed, removed,
+    downloadBytes: [...added, ...changed].reduce((s, p) => s + (remote.files[p].size || 0), 0),
+    checkedAt: new Date().toISOString(),
+    _remote: upToDate ? undefined : remote,
+  };
+}
+
+let appUpdating = false;
+async function applyAppUpdate() {
+  if (appUpdating) throw new Error('Es laeuft bereits ein Update');
+  appUpdating = true;
+  try {
+    const check = await checkForAppUpdate();
+    if (check.upToDate) return { ok: true, updated: 0, message: 'Bereits auf dem neuesten Stand.' };
+    const remote = check._remote || (await fetchAppRemoteTree());
+
+    const todo = [...check.added, ...check.changed];
+    const stage = path.join(APP_DIR, '.app-update-tmp');
+    await fsp.rm(stage, { recursive: true, force: true });
+    await fsp.mkdir(stage, { recursive: true });
+
+    let i = 0;
+    const queue = todo.slice();
+    async function worker() {
+      while (queue.length) {
+        const rel = queue.shift();
+        const url = `${RAW_BASE}/${APP_REPO}/${APP_BRANCH}/${APP_CUSTOM_PREFIX}${rel.split('/').map(encodeURIComponent).join('/')}`;
+        let buf, ok = false, lastErr;
+        for (let attempt = 0; attempt < 3 && !ok; attempt++) {
+          try {
+            buf = await ghFetch(url, true);
+            if (gitBlobSha(buf) === remote.files[rel].sha) ok = true;
+            else lastErr = new Error(`Pruefsumme stimmt nicht: ${rel}`);
+          } catch (e) { lastErr = e; }
+        }
+        if (!ok) throw lastErr;
+        const dest = path.join(stage, ...rel.split('/'));
+        await fsp.mkdir(path.dirname(dest), { recursive: true });
+        await fsp.writeFile(dest, buf);
+        i++;
+      }
+    }
+    await Promise.all([worker(), worker(), worker(), worker()]);
+    log(`App-Update: ${i} Datei(en) heruntergeladen`);
+
+    const bak = path.join(APP_DIR, 'custom.bak');
+    await fsp.rm(bak, { recursive: true, force: true });
+    await fsp.mkdir(bak, { recursive: true });
+    const touched = [...check.changed, ...check.removed];
+    for (const rel of touched) {
+      const src = path.join(CUSTOM_DIR, ...rel.split('/'));
+      if (await exists(src)) {
+        const dst = path.join(bak, ...rel.split('/'));
+        await fsp.mkdir(path.dirname(dst), { recursive: true });
+        await fsp.copyFile(src, dst);
+      }
+    }
+    try {
+      for (const rel of todo) {
+        const dest = path.join(CUSTOM_DIR, ...rel.split('/'));
+        await fsp.mkdir(path.dirname(dest), { recursive: true });
+        await fsp.copyFile(path.join(stage, ...rel.split('/')), dest);
+      }
+      for (const rel of check.removed) await fsp.rm(path.join(CUSTOM_DIR, ...rel.split('/')), { force: true });
+    } catch (e) {
+      for (const rel of touched) {
+        const b = path.join(bak, ...rel.split('/'));
+        if (await exists(b)) await fsp.copyFile(b, path.join(CUSTOM_DIR, ...rel.split('/'))).catch(() => {});
+      }
+      throw new Error('Austausch fehlgeschlagen, alte Version wiederhergestellt: ' + e.message);
+    }
+    await fsp.rm(stage, { recursive: true, force: true });
+
+    const meta = await readJson(META_FILE, {});
+    meta.appLastUpdate = new Date().toISOString();
+    meta.appLastUpdateCommit = remote.commit;
+    await writeFileAtomic(META_FILE, JSON.stringify(meta, null, 1));
+    delete check._remote;
+    return { ok: true, updated: todo.length + check.removed.length, ...check };
+  } finally {
+    appUpdating = false;
+    await fsp.rm(path.join(APP_DIR, '.app-update-tmp'), { recursive: true, force: true }).catch(() => {});
+  }
+}
+
 // ------------------------------------------------------------------ Wiki-Infos (thelastcaretaker.wiki.gg)
 // Die eigentlichen Wiki-Infos (deutsch uebersetzt, Text + Bild + Wiki-Revisionsnummer je Ort)
 // liegen fest in app/custom/data-locations-wiki.json und werden dem Browser einfach als
@@ -743,7 +871,7 @@ function transformIndex(html) {
     '<link rel="stylesheet" href="/custom/custom.css">' +
     '<link rel="stylesheet" href="/custom/theme.css">' +
     '<script src="/custom/state-sync.js"></script>';
-  const tail = '<script src="/custom/de.js" defer></script><script src="/custom/custom.js" defer></script>' +
+  const tail = '<script src="/custom/i18n.js" defer></script><script src="/custom/custom.js" defer></script>' +
     '<script src="/custom/features.js" defer></script>';
   html = html.replace(/<html lang="en">/i, '<html lang="de">');
   html = html.includes('</head>') ? html.replace('</head>', `${head}${tail}</head>`) : head + tail + html;
@@ -1372,7 +1500,25 @@ async function handleApi(req, res, pathname, url) {
 
   if (pathname === '/api/info') {
     const meta = await readJson(META_FILE, {});
-    return sendJson(res, 200, { version: APP_VERSION, repo: REPO, stateFile: STATE_FILE, ...meta });
+    return sendJson(res, 200, { version: APP_VERSION, repo: REPO, appRepo: APP_REPO, stateFile: STATE_FILE, ...meta });
+  }
+
+  if (pathname === '/api/app-update/check' && req.method === 'GET') {
+    try {
+      const r = await checkForAppUpdate();
+      delete r._remote;
+      const meta = await readJson(META_FILE, {});
+      meta.appLastCheck = r.checkedAt;
+      await writeFileAtomic(META_FILE, JSON.stringify(meta, null, 1));
+      return sendJson(res, 200, r);
+    } catch (e) {
+      return sendJson(res, 502, { error: e.message });
+    }
+  }
+
+  if (pathname === '/api/app-update/apply' && req.method === 'POST') {
+    try { return sendJson(res, 200, await applyAppUpdate()); }
+    catch (e) { return sendJson(res, 500, { error: e.message }); }
   }
 
   if (pathname === '/api/update/check' && req.method === 'GET') {

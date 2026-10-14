@@ -70,3 +70,21 @@
 /* ---- Robustheit der Darstellung --------------------------------------------------------------- */
 #sidebar { transform: translateZ(0); isolation: isolate; }
 #location-list { transform: translateZ(0); }
+
+/* ---- Sprachumschalter (i18n.js) -------------------------------------------------------------- */
+/* Bewusst IMMER oben rechts sichtbar (nicht in den - je nach Sprache ggf. noch deutschen -
+   Einstellungen versteckt), damit ihn auch ein Englisch/Franzoesisch sprechender Spieler sofort
+   findet, ohne ein Wort Deutsch lesen zu muessen. */
+#lcm-langsw {
+    position: fixed; top: 8px; right: 8px; z-index: 9999;
+    display: flex; gap: 3px; background: rgba(20, 24, 22, 0.85);
+    border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 7px; padding: 3px;
+    backdrop-filter: blur(2px);
+}
+.lcm-langsw-btn {
+    border: 1px solid transparent; border-radius: 5px; background: transparent; color: #aab;
+    font-size: 11px; font-weight: 700; letter-spacing: 0.5px; padding: 4px 7px; cursor: pointer;
+    font-family: inherit;
+}
+.lcm-langsw-btn:hover { background: rgba(255, 255, 255, 0.08); color: #fff; }
+.lcm-langsw-btn.active { background: #00a862; color: #fff; cursor: default; }

@@ -190,13 +190,93 @@
     }).catch(function () {});
   }
 
+  /* ---------------------------------------------------------------- Sprach- & App-Updates */
+  // Eigener Abgleich NUR für app/custom (Übersetzungen/i18n.js, eigene Skripte, Datendateien)
+  // gegen das Veröffentlichungs-Repository dieser Companion-App auf GitHub - unabhängig vom
+  // Update-Bereich oben (der die Original-Kartendaten von The1Killer abgleicht). So lassen sich
+  // z.B. die großen, bislang noch deutschen Wiki-/Rat-/Menschen-/Walkthrough-Texte in einem
+  // künftigen Update auf Englisch/Französisch nachreichen, ohne dass die App neu heruntergeladen
+  // werden muss (siehe README, "kommende Sprach-Updates").
+  function buildAppUpdatePanel() {
+    var body = $('#settings-popup .settings-body');
+    if (!body || $('#lcm-app-update')) return;
+    var panel = el('div', { class: 'setting-item', id: 'lcm-app-update' });
+    panel.innerHTML =
+      '<h4 class="color-section-title">Sprach- &amp; App-Updates</h4>' +
+      '<div style="display:flex; gap:8px;">' +
+      '<button id="lcm-app-check" class="setting-button" style="background:#2196F3;border-color:#2196F3;flex:1;">Nach App-Updates suchen</button>' +
+      '<button id="lcm-app-apply" class="setting-button" style="background:#4CAF50;border-color:#4CAF50;flex:1;display:none;">App-Update installieren</button>' +
+      '</div>' +
+      '<p class="setting-description" id="lcm-app-update-status">Vergleicht die Übersetzungen, Skripte und Daten dieser Companion-App (Ordner app/custom) mit dem Veröffentlichungs-Repository auf GitHub – unabhängig von den Original-Kartendaten oben.</p>' +
+      '<div id="lcm-app-update-details"></div>' +
+      '<p class="setting-description" id="lcm-app-update-meta"></p>';
+    var anchor = $('#lcm-update');
+    body.insertBefore(panel, anchor ? anchor.nextSibling : body.firstChild);
+
+    $('#lcm-app-check').addEventListener('click', function () { checkAppUpdate(false); });
+    $('#lcm-app-apply').addEventListener('click', applyAppUpdate);
+    api('/api/info').then(function (i) {
+      $('#lcm-app-update-meta').textContent = 'Zuletzt aktualisiert: ' + fmtDate(i.appLastUpdate) + ' · Zuletzt gesucht: ' + fmtDate(i.appLastCheck);
+    }).catch(function () {});
+  }
+
+  function showAppResult(r) {
+    var st = $('#lcm-app-update-status'), det = $('#lcm-app-update-details'), ap = $('#lcm-app-apply');
+    if (!st) return;
+    if (r.upToDate) {
+      st.textContent = '✔ Die Custom-Erweiterung ist aktuell.';
+      det.innerHTML = ''; ap.style.display = 'none';
+      return;
+    }
+    var n = r.added.length + r.changed.length + r.removed.length;
+    st.textContent = 'App-Update verfügbar: ' + n + ' Datei(en)' + (r.downloadBytes ? ' (' + fmtBytes(r.downloadBytes) + ')' : '') + '.';
+    var html = '';
+    function list(title, arr) {
+      if (!arr || !arr.length) return '';
+      return '<p class="setting-description"><b>' + title + '</b></p><ul class="lcm-list">' +
+        arr.map(function (x) { return '<li>' + esc(x) + '</li>'; }).join('') + '</ul>';
+    }
+    html += list('Neu (' + r.added.length + ')', r.added);
+    html += list('Geändert (' + r.changed.length + ')', r.changed);
+    html += list('Entfernt (' + r.removed.length + ')', r.removed);
+    det.innerHTML = html;
+    ap.style.display = ''; setBadge(true);
+  }
+
+  function checkAppUpdate(silent) {
+    var st = $('#lcm-app-update-status'), btn = $('#lcm-app-check');
+    if (!silent && btn) { btn.disabled = true; st.textContent = 'Suche nach App-Updates …'; }
+    return api('/api/app-update/check').then(function (r) {
+      try { localStorage.setItem('lcm-last-app-check', String(Date.now())); } catch (e) {}
+      if (!silent || !r.upToDate) showAppResult(r);
+      if (silent && !r.upToDate) setBadge(true);
+      return r;
+    }).catch(function (e) {
+      if (!silent && st) st.textContent = 'Suche fehlgeschlagen: ' + e.message + ' (Internetverbindung prüfen)';
+    }).then(function (r) {
+      if (btn) btn.disabled = false;
+      return r;
+    });
+  }
+
+  function applyAppUpdate() {
+    var st = $('#lcm-app-update-status'), ap = $('#lcm-app-apply'), ck = $('#lcm-app-check');
+    if (!window.confirm('App-Update jetzt installieren?\n\nDein Fortschritt und deine Notizen bleiben erhalten. Die Karte wird danach neu geladen.')) return;
+    ap.disabled = true; ck.disabled = true;
+    st.textContent = 'Lade App-Update herunter … (bitte warten)';
+    api('/api/app-update/apply', { method: 'POST' }).then(function (r) {
+      st.textContent = '✔ App-Update installiert (' + (r.updated || 0) + ' Datei(en)). Lade neu …';
+      setTimeout(function () { location.reload(); }, 1200);
+    }).catch(function (e) {
+      st.textContent = 'App-Update fehlgeschlagen: ' + e.message;
+      ap.disabled = false; ck.disabled = false;
+    });
+  }
+
   /* ---------------------------------------------------------------- Änderungsprotokoll dieser Custom-App */
-  // Anders als der Update-Bereich oben (der die Original-Kartendaten von GitHub abgleicht) gibt es für
-  // diese Custom-Erweiterung (features.js/theme.css/custom.js/Datendateien in app\custom) keinen
-  // eigenen Update-Server, da sie direkt auf dieses Gerät übertragen wird. Diese Rubrik ist daher ein
-  // einfaches, rein lokales Änderungsprotokoll statt einer echten Update-Suche: zeigt, was sich zuletzt
-  // geändert hat, und markiert das mit "NEU", bis es einmal angesehen wurde.
-  var APP_VERSION = '2026.10.06';
+  // Rein lokales Änderungsprotokoll (siehe data-changelog.json): zeigt, was sich zuletzt in den
+  // Custom-Erweiterungen geändert hat, und markiert das mit "NEU", bis es einmal angesehen wurde.
+  var APP_VERSION = '2026.10.14';
   function changelogSeenVersion() { try { return localStorage.getItem('lcm-changelog-seen') || ''; } catch (e) { return ''; } }
   function setChangelogSeen(v) { try { localStorage.setItem('lcm-changelog-seen', v); } catch (e) {} }
   function buildChangelogPanel() {
@@ -561,6 +641,7 @@
   function init() {
     buildProgress();
     buildUpdatePanel();
+    buildAppUpdatePanel();
     buildWikiUpdatePanel();
     buildResetPanel();
     buildColorPanel();
@@ -583,6 +664,10 @@
     var last = 0;
     try { last = parseInt(localStorage.getItem('lcm-last-check') || '0', 10) || 0; } catch (e) {}
     if (Date.now() - last > 12 * 3600 * 1000) setTimeout(function () { checkUpdate(true); }, 4000);
+
+    var lastApp = 0;
+    try { lastApp = parseInt(localStorage.getItem('lcm-last-app-check') || '0', 10) || 0; } catch (e) {}
+    if (Date.now() - lastApp > 12 * 3600 * 1000) setTimeout(function () { checkAppUpdate(true); }, 4500);
   }
 
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init);

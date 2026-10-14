@@ -1,5 +1,16 @@
 [
   {
+    "version": "2026.10.14",
+    "datum": "14.10.2026",
+    "titel": "Mehrsprachige Oberfläche (Deutsch/English/Français) & App-Updates",
+    "items": [
+      "Neuer Sprachumschalter oben rechts (DE/EN/FR) – merkt sich die Wahl. Die komplette Programmoberfläche (Original-Karte + alle eigenen Fenster: Dashboard, Rat der Menschheit, Rechner, Spielstand, Missionen, Erfolge, Einstellungen, Tastenkürzel usw.) ist jetzt auch auf Englisch und Französisch bedienbar.",
+      "Die großen, fest hinterlegten Texte (Wiki-Infos je Ort, Walkthroughs, Rat-Beschreibungen, Menschen-Zuchtinfos) bleiben vorerst auf Deutsch – ihre Übersetzung ist für ein kommendes Update geplant (siehe README).",
+      "Neue Rubrik \"Sprach- & App-Updates\" in den Einstellungen: sucht unabhängig von den Original-Kartendaten nach neuen Übersetzungen/Funktionen für diese Companion-App selbst und installiert sie, ohne dass die App neu heruntergeladen werden muss.",
+      "de.js (nur Deutsch) durch die neue i18n.js (Deutsch/Englisch/Französisch) ersetzt."
+    ]
+  },
+  {
     "version": "2026.10.06",
     "datum": "06.10.2026",
     "titel": "Speicherung dauerhaft hängengeblieben – behoben",
