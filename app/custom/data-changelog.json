@@ -1,5 +1,14 @@
 [
   {
+    "version": "2026.10.15",
+    "datum": "15.10.2026",
+    "titel": "Spielstand-Lesen repariert",
+    "items": [
+      "Fehler behoben, durch den das Einlesen eines Spielstands manchmal mit \"Missing dictionary\" komplett abbrach, statt die Werte anzuzeigen: Die interne Suche nach den komprimierten Abschnitten der .sav-Datei konnte auf ein zufälliges Byte-Paar in einem Füllbereich hereinfallen und hielt das fälschlich für einen echten Datenblock. Betraf nicht das Spiel selbst oder den Spielstand - nur das Auslesen durch diese App.",
+      "Gegen alle aktuell vorhandenen Spielstände getestet, inklusive dem neuesten nach dem jüngsten Spiel-Update - alle lesen jetzt wieder vollständig."
+    ]
+  },
+  {
     "version": "2026.10.14",
     "datum": "14.10.2026",
     "titel": "Mehrsprachige Oberfläche (Deutsch/English/Français) & App-Updates",

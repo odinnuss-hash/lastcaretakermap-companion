@@ -276,7 +276,7 @@
   /* ---------------------------------------------------------------- Änderungsprotokoll dieser Custom-App */
   // Rein lokales Änderungsprotokoll (siehe data-changelog.json): zeigt, was sich zuletzt in den
   // Custom-Erweiterungen geändert hat, und markiert das mit "NEU", bis es einmal angesehen wurde.
-  var APP_VERSION = '2026.10.14';
+  var APP_VERSION = '2026.10.15';
   function changelogSeenVersion() { try { return localStorage.getItem('lcm-changelog-seen') || ''; } catch (e) { return ''; } }
   function setChangelogSeen(v) { try { localStorage.setItem('lcm-changelog-seen', v); } catch (e) {} }
   function buildChangelogPanel() {
