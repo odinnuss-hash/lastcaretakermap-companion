@@ -964,12 +964,26 @@ function inflateOneChunk(buf) {
 }
 
 async function decompressSaveFile(raw) {
+  // Die simple Heuristik in findNextZlibHeader() (irgendein Byte 0x78, dessen folgendes Byte
+  // eine gueltige zlib-Pruefsumme ergibt) kann auf zufaellige Byte-Paare in nicht-komprimierten
+  // Fuellbytes hereinfallen (z.B. seit einem Spiel-Update neu vorkommende Nullpadding-Abschnitte,
+  // die rein zufaellig mit 0x78 0x20 beginnen). So ein falscher Treffer liefert beim Entpacken
+  // sofort einen Fehler (z.B. "Missing dictionary", weil das FDICT-Bit des zweiten Bytes
+  // zufaellig gesetzt ist). Statt die komplette Datei an so einer Stelle abzubrechen, wird ein
+  // solcher Fehlversuch hier als Fehltreffer behandelt und die Suche nach dem naechsten
+  // echten zlib-Header einfach ein Byte weiter fortgesetzt.
   const outputs = [];
   let pos = 0;
   for (;;) {
     const hstart = findNextZlibHeader(raw, pos);
     if (hstart === -1) break;
-    const { out, bytesWritten } = await inflateOneChunk(raw.subarray(hstart));
+    let out, bytesWritten;
+    try {
+      ({ out, bytesWritten } = await inflateOneChunk(raw.subarray(hstart)));
+    } catch {
+      pos = hstart + 1;
+      continue;
+    }
     outputs.push(out);
     pos = hstart + bytesWritten;
   }
